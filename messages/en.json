@@ -1,0 +1,596 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "servicesEmployers": "For Employers",
+      "servicesTalents": "For Talents",
+      "about": "About Us",
+      "team": "Team",
+      "blog": "News",
+      "contact": "Contact"
+    },
+    "footer": {
+      "company": "talentsCARE",
+      "tagline": "Your Partner for Successful Integration",
+      "rights": "All Rights Reserved",
+      "privacy": "Privacy Policy",
+      "imprint": "Imprint",
+      "terms": "Terms & Conditions"
+    },
+    "cta": {
+      "learnMore": "Learn More",
+      "contact": "Contact Us",
+      "getStarted": "Get Started",
+      "bookConsultation": "Book Consultation",
+      "download": "Download",
+      "subscribe": "Subscribe"
+    },
+    "meta": {
+      "title": "talentsCARE - HR Consulting",
+      "description": "Professional HR consulting for employers and international talents in Germany"
+    }
+  },
+  "home": {
+    "title": "talentsCARE",
+    "subtitle": "Integration · Training · Coaching · Mentoring",
+    "hero": {
+      "headline": "Your Partner for Successful Integration",
+      "subheadline": "We Connect Companies with International Talents",
+      "description": "talentsCARE supports employers in integrating international professionals and accompanies talents on their path to professional success in Germany.",
+      "ctaPrimary": "Request Consultation",
+      "ctaSecondary": "Discover Services"
+    },
+    "services": {
+      "headline": "Our Services",
+      "subheadline": "Tailored Solutions for Your Success",
+      "employers": {
+        "title": "For Employers",
+        "description": "Strategic HR consulting and integration programs for successful collaboration with international professionals"
+      },
+      "talents": {
+        "title": "For Talents",
+        "description": "Individual career support and practical assistance for your professional success in Germany"
+      },
+      "consulting": {
+        "title": "HR Consulting",
+        "description": "Professional consulting for your HR strategy and integration processes"
+      }
+    },
+    "stats": {
+      "clients": "Satisfied Clients",
+      "clientsCount": "150+",
+      "talents": "Talents Supported",
+      "talentsCount": "500+",
+      "years": "Years of Experience",
+      "yearsCount": "10+",
+      "countries": "Countries of Origin",
+      "countriesCount": "30+"
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "subtitle": "Experiences from Employers and Talents"
+    }
+  },
+  "services": {
+    "employers": {
+      "intro": {
+        "title": "Services for Employers",
+        "subtitle": "Successful Integration Begins with the Right Strategy",
+        "description": "We support you in recruiting, integrating, and retaining international professionals."
+      },
+      "items": {
+        "seminare": {
+          "title": "Seminars",
+          "shortDesc": "Interactive seminars on intercultural competence and leading international teams.",
+          "longDesc": "Our seminars provide practical knowledge for successful collaboration in diverse teams. Topics include intercultural communication, conflict management, and inclusive leadership.",
+          "benefits": [
+            "Improved Team Communication",
+            "Reduced Conflicts",
+            "Higher Employee Satisfaction",
+            "Enhanced Corporate Image"
+          ],
+          "targetAudience": "Leaders and HR Professionals",
+          "icon": "presentation"
+        },
+        "schulungen": {
+          "title": "Training Courses",
+          "shortDesc": "Practice-oriented training for HR teams and leaders.",
+          "longDesc": "Intensive training programs to qualify your employees in working with international colleagues and applicants.",
+          "benefits": [
+            "Building Team Competencies",
+            "Standardized Processes",
+            "Sustainable Knowledge Transfer",
+            "Certified Qualification"
+          ],
+          "targetAudience": "HR Teams and Team Leaders",
+          "icon": "academic"
+        },
+        "workshops": {
+          "title": "Workshops",
+          "shortDesc": "Intensive workshops for developing integration strategies.",
+          "longDesc": "In our workshops, we work together to develop customized solutions for your specific challenges.",
+          "benefits": [
+            "Individual Solution Approaches",
+            "Practical Exercises",
+            "Direct Applicability",
+            "Team Building Effect"
+          ],
+          "targetAudience": "Management and Project Teams",
+          "icon": "users"
+        },
+        "vortraege": {
+          "title": "Lectures",
+          "shortDesc": "Inspiring lectures on diversity and integration.",
+          "longDesc": "Our experts deliver lectures at conferences, corporate events, and professional symposia.",
+          "benefits": [
+            "Inspiration for Change",
+            "First-Hand Expertise",
+            "Networking Opportunities",
+            "Latest Research Insights"
+          ],
+          "targetAudience": "Conference Participants and Decision Makers",
+          "icon": "microphone"
+        },
+        "webinare": {
+          "title": "Webinars",
+          "shortDesc": "Online seminars for flexible learning.",
+          "longDesc": "Digital learning formats enable location-independent professional development on relevant integration topics.",
+          "benefits": [
+            "Flexible Participation",
+            "Cost-Efficient",
+            "Recordings Available",
+            "Interactive Q&A"
+          ],
+          "targetAudience": "Remote Teams and Individuals",
+          "icon": "video"
+        },
+        "coaching": {
+          "title": "Coaching",
+          "shortDesc": "Individual coaching for leaders.",
+          "longDesc": "Personal guidance in developing intercultural leadership competencies.",
+          "benefits": [
+            "Personal Development",
+            "Confidential Setting",
+            "Customized Content",
+            "Long-Term Support"
+          ],
+          "targetAudience": "Leaders and High Potentials",
+          "icon": "chat"
+        },
+        "training": {
+          "title": "Training",
+          "shortDesc": "Practical training for everyday work.",
+          "longDesc": "Hands-on training for direct application of intercultural competencies in professional life.",
+          "benefits": [
+            "Immediately Applicable",
+            "Practice-Oriented",
+            "Measurable Results",
+            "Sustainable Behavior Change"
+          ],
+          "targetAudience": "All Employee Levels",
+          "icon": "lightning"
+        },
+        "mentoring": {
+          "title": "Mentoring",
+          "shortDesc": "Mentoring programs for sustainable development.",
+          "longDesc": "Structured mentoring programs to promote intercultural collaboration.",
+          "benefits": [
+            "Knowledge Transfer",
+            "Network Building",
+            "Career Advancement",
+            "Cultural Exchange"
+          ],
+          "targetAudience": "Mentors and Mentees in the Company",
+          "icon": "heart"
+        },
+        "events": {
+          "title": "Events",
+          "shortDesc": "Cultural events and networking opportunities.",
+          "longDesc": "Organization of events to promote intercultural exchange and networking.",
+          "benefits": [
+            "Team Building",
+            "Cultural Exchange",
+            "Employer Branding",
+            "Employee Retention"
+          ],
+          "targetAudience": "Entire Workforce",
+          "icon": "calendar"
+        }
+      },
+      "hero": {
+        "headline": "Services for Employers",
+        "description": "Successful integration starts with the right strategy. We support you in recruiting, integrating, and retaining international professionals.",
+        "cta": "Schedule Consultation"
+      },
+      "servicesHeadline": "Our Service Portfolio",
+      "servicesSubheadline": "Tailored Solutions for Your Challenges",
+      "recruitment": {
+        "title": "International Recruitment",
+        "description": "Attract the best international talents for your company with our strategic recruitment consulting."
+      },
+      "onboarding": {
+        "title": "Onboarding Programs",
+        "description": "Professional onboarding processes for fast and successful integration of new employees."
+      },
+      "integration": {
+        "title": "Integration Programs",
+        "description": "Sustainable programs for cultural and professional integration of international professionals."
+      },
+      "training": {
+        "title": "Intercultural Training",
+        "description": "Training for your team to strengthen intercultural competencies and collaboration."
+      },
+      "compliance": {
+        "title": "Compliance & Legal",
+        "description": "Support with legal and regulatory requirements of international recruitment."
+      },
+      "consulting": {
+        "title": "HR Strategy Consulting",
+        "description": "Development of sustainable HR strategies for international and diverse teams."
+      },
+      "cta": {
+        "headline": "Ready to Strengthen Your Team?",
+        "description": "Let's develop your integration strategy together.",
+        "button": "Contact Us Now"
+      }
+    },
+    "talents": {
+      "intro": {
+        "title": "Services for Talents",
+        "subtitle": "Your Path to Professional Success in Germany",
+        "description": "We accompany you on your career path with individual consulting and practical support."
+      },
+      "items": {
+        "seminare": {
+          "title": "Seminars",
+          "shortDesc": "Seminars on German work culture and career entry.",
+          "longDesc": "Learn about the specifics of the German labor market and optimally prepare for your career.",
+          "benefits": [
+            "Cultural Understanding",
+            "Application Skills",
+            "Network Building",
+            "Career Planning"
+          ],
+          "targetAudience": "International Professionals",
+          "icon": "presentation"
+        },
+        "schulungen": {
+          "title": "Training Courses",
+          "shortDesc": "Professional training and language courses.",
+          "longDesc": "Expand your professional qualifications and improve your German language skills.",
+          "benefits": [
+            "Qualification Expansion",
+            "Language Advancement",
+            "Certificates",
+            "Labor Market Opportunities"
+          ],
+          "targetAudience": "Career Starters and Career Changers",
+          "icon": "academic"
+        },
+        "workshops": {
+          "title": "Workshops",
+          "shortDesc": "Practical workshops on applications and career planning.",
+          "longDesc": "In interactive workshops, you practice job interviews and develop your career strategy.",
+          "benefits": [
+            "Practical Exercise",
+            "Individual Feedback",
+            "Application Strategy",
+            "Self-Presentation"
+          ],
+          "targetAudience": "Job Seekers and Career Changers",
+          "icon": "users"
+        },
+        "vortraege": {
+          "title": "Lectures",
+          "shortDesc": "Information events on living and working in Germany.",
+          "longDesc": "Gain valuable insights into the German labor market and German culture.",
+          "benefits": [
+            "Orientation",
+            "Expert Information",
+            "Questions & Answers",
+            "Community Building"
+          ],
+          "targetAudience": "Newcomers to Germany",
+          "icon": "microphone"
+        },
+        "webinare": {
+          "title": "Webinars",
+          "shortDesc": "Online seminars for flexible learning from anywhere.",
+          "longDesc": "Conveniently participate in our online offerings from home or on the go.",
+          "benefits": [
+            "Location Independent",
+            "Time Flexible",
+            "Recordings",
+            "International Community"
+          ],
+          "targetAudience": "All International Talents",
+          "icon": "video"
+        },
+        "coaching": {
+          "title": "Coaching",
+          "shortDesc": "Personal career coaching.",
+          "longDesc": "Individual support in career planning and personal development in Germany.",
+          "benefits": [
+            "Personal Support",
+            "Goal-Oriented",
+            "Confidential",
+            "Long-Term Support"
+          ],
+          "targetAudience": "Professionals with Career Ambitions",
+          "icon": "chat"
+        },
+        "training": {
+          "title": "Training",
+          "shortDesc": "Soft-skill training for the German labor market.",
+          "longDesc": "Develop the soft skills that are in demand in German companies.",
+          "benefits": [
+            "Communication Skills",
+            "Teamwork",
+            "Self-Management",
+            "Conflict Resolution"
+          ],
+          "targetAudience": "Professionals and Career Starters",
+          "icon": "lightning"
+        },
+        "mentoring": {
+          "title": "Mentoring",
+          "shortDesc": "Mentoring by experienced professionals.",
+          "longDesc": "Benefit from the experience of successful professionals who have already walked your path.",
+          "benefits": [
+            "Experience Exchange",
+            "Insider Knowledge",
+            "Network",
+            "Career Advice"
+          ],
+          "targetAudience": "International Talents at All Career Levels",
+          "icon": "heart"
+        },
+        "events": {
+          "title": "Events",
+          "shortDesc": "Networking events and cultural activities.",
+          "longDesc": "Build your professional network and get to know German culture.",
+          "benefits": [
+            "Networking",
+            "Cultural Experience",
+            "Community",
+            "Job Opportunities"
+          ],
+          "targetAudience": "All International Talents",
+          "icon": "calendar"
+        }
+      },
+      "hero": {
+        "headline": "Services for Talents",
+        "description": "Your path to professional success in Germany. We support you on your career journey with individual consulting and practical assistance.",
+        "cta": "Book Free Initial Consultation"
+      },
+      "servicesHeadline": "Our Support for You",
+      "servicesSubheadline": "Professional Guidance on Your Career Path",
+      "careerCoaching": {
+        "title": "Career Coaching",
+        "description": "Individual consulting for your professional development and career planning in Germany."
+      },
+      "jobSearch": {
+        "title": "Job Search & Placement",
+        "description": "Support in job search and placement of suitable positions with our partner companies."
+      },
+      "language": {
+        "title": "Language Training",
+        "description": "Professional Business German training for successful work life."
+      },
+      "cultural": {
+        "title": "Cultural Integration",
+        "description": "Support in integrating into German work culture and society."
+      },
+      "networking": {
+        "title": "Networking & Community",
+        "description": "Access to our professional network and community events."
+      },
+      "mentoring": {
+        "title": "Mentoring Programs",
+        "description": "Personal guidance by experienced mentors from your industry."
+      },
+      "cta": {
+        "headline": "Start Your Career in Germany",
+        "description": "Let's shape your success path together.",
+        "button": "Request Consultation Now"
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "headline": "About talentsCARE",
+      "description": "We are your partner for successful integration and sustainable collaboration in a global work environment."
+    },
+    "mission": {
+      "headline": "Our Mission",
+      "paragraph1": "We believe in a work world where diversity is seen as strength and cultural differences are experienced as enrichment. Our mission is to build bridges between companies and international talents.",
+      "paragraph2": "With passion, expertise, and a deep understanding of intercultural dynamics, we accompany both sides on their common path to success. We create spaces for encounter, foster understanding, and develop sustainable solutions for the challenges of a globalized work world."
+    },
+    "valuesHeadline": "Our Values",
+    "values": {
+      "empathy": {
+        "title": "Empathy",
+        "description": "We meet all people with appreciation, respect, and genuine interest in their individual story."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for highest quality in everything we do and continuously develop ourselves."
+      },
+      "integrity": {
+        "title": "Integrity",
+        "description": "We act transparently, reliably, and responsibly in all our relationships."
+      },
+      "diversity": {
+        "title": "Diversity",
+        "description": "We celebrate differences and see cultural diversity as a source of innovation and strength."
+      }
+    },
+    "approach": {
+      "headline": "Our Approach",
+      "description": "We combine solid expertise with practical experience and a holistic view of integration and collaboration.",
+      "step1": {
+        "title": "Analysis & Understanding",
+        "description": "We listen and analyze your specific situation and challenges."
+      },
+      "step2": {
+        "title": "Concept & Strategy",
+        "description": "We develop tailored solutions that fit your goals and resources."
+      },
+      "step3": {
+        "title": "Implementation & Support",
+        "description": "We stay by your side and ensure sustainable results."
+      }
+    },
+    "cta": {
+      "headline": "Let's Write Success Stories Together",
+      "description": "Contact us for a non-binding initial consultation.",
+      "button": "Get in Touch",
+      "teamButton": "Meet Our Team"
+    }
+  },
+  "team": {
+    "hero": {
+      "headline": "Our Team",
+      "description": "Meet the experts who work with passion and competence for your success."
+    },
+    "member1": {
+      "name": "Dr. Maria Schmidt",
+      "role": "Founder & CEO",
+      "bio": "Over 15 years of experience in international HR consulting and organizational development."
+    },
+    "member2": {
+      "name": "Ahmad Hassan",
+      "role": "Senior Integration Consultant",
+      "bio": "Specialist in intercultural communication and diversity management."
+    },
+    "member3": {
+      "name": "Lisa Chen",
+      "role": "Career Coach",
+      "bio": "Expert in professional development and career planning for international talents."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Talk to Us",
+    "intro": "Do you have questions or would you like to learn more about our services? We look forward to your message.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "company": "Company",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you for your message. We will get back to you soon.",
+      "error": "Unfortunately, an error occurred. Please try again."
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Office Hours",
+      "hoursWeekday": "Mon-Fri: 09:00 - 18:00",
+      "hoursWeekend": "Sat-Sun: Closed"
+    },
+    "hero": {
+      "headline": "Contact",
+      "description": "Do you have questions or would you like to learn more about our services? We look forward to your message."
+    },
+    "formHeadline": "Write to Us",
+    "infoHeadline": "Contact Information"
+  },
+  "blog": {
+    "hero": {
+      "headline": "News & Insights",
+      "description": "Stay informed about trends, best practices, and news from the world of integration."
+    },
+    "comingSoon": {
+      "headline": "Coming Soon",
+      "description": "We're working on exciting content for you. Subscribe to our newsletter to not miss any updates.",
+      "cta": "Subscribe to Newsletter"
+    }
+  },
+  "notFound": {
+    "headline": "Page Not Found",
+    "description": "The page you are looking for unfortunately does not exist. It may have been moved or deleted.",
+    "homeButton": "Go to Homepage",
+    "contactButton": "Contact Us"
+  },
+  "legal": {
+    "privacy": {
+      "headline": "Privacy Policy",
+      "lastUpdated": "Last updated: April 2026",
+      "section1": {
+        "title": "1. Privacy at a Glance",
+        "content": "The following notes provide a simple overview of what happens to your personal data when you visit this website. Personal data is any data with which you can be personally identified."
+      },
+      "section2": {
+        "title": "2. Data Collection on This Website",
+        "content": "Data processing on this website is carried out by the website operator. Their contact details can be found in the imprint of this website. Your data is collected partly by you communicating it to us, for example through entries in a contact form."
+      },
+      "section3": {
+        "title": "3. Analysis Tools and Third-Party Tools",
+        "content": "When visiting this website, your surfing behavior can be statistically evaluated. This is done primarily with so-called analysis programs. Detailed information about these analysis programs can be found in the following sections of this privacy policy."
+      },
+      "section4": {
+        "title": "4. Your Rights",
+        "content": "You have the right to receive information about the origin, recipient, and purpose of your stored personal data at any time. You also have a right to request the correction or deletion of this data."
+      },
+      "section5": {
+        "title": "5. Contact",
+        "content": "If you have any questions about data protection, you can contact us at any time. The contact details can be found in the imprint of this website."
+      }
+    },
+    "imprint": {
+      "headline": "Imprint",
+      "company": {
+        "title": "Information according to § 5 TMG"
+      },
+      "contact": {
+        "title": "Contact",
+        "phone": "Phone",
+        "email": "Email"
+      },
+      "management": {
+        "title": "Authorized Managing Director",
+        "names": "Dr. Maria Schmidt"
+      },
+      "register": {
+        "title": "Register Entry",
+        "court": "Register Court",
+        "number": "Register Number",
+        "vat": "VAT ID"
+      },
+      "responsible": {
+        "title": "Responsible for Content according to § 55 Abs. 2 RStV",
+        "name": "Dr. Maria Schmidt"
+      }
+    },
+    "terms": {
+      "headline": "Terms and Conditions",
+      "lastUpdated": "Last updated: April 2026",
+      "section1": {
+        "title": "1. Scope",
+        "content": "These General Terms and Conditions (GTC) apply to all contracts between talentsCARE GmbH and its clients for the provision of consulting and training services."
+      },
+      "section2": {
+        "title": "2. Contract Conclusion",
+        "content": "The contract is concluded by the client's acceptance of the offer. Acceptance can be made in writing, orally, or through implied action."
+      },
+      "section3": {
+        "title": "3. Scope of Services",
+        "content": "The scope of services to be provided is defined in the respective offer or service description. Changes to the scope of services require written agreement."
+      },
+      "section4": {
+        "title": "4. Remuneration and Payment Terms",
+        "content": "Remuneration is based on the currently valid price list. Invoices are due for payment within 14 days of the invoice date without deduction."
+      },
+      "section5": {
+        "title": "5. Liability",
+        "content": "We are fully liable for intent and gross negligence. In case of slight negligence, we are only liable for breach of essential contractual obligations."
+      }
+    }
+  }
+}

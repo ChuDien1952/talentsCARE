@@ -1,0 +1,596 @@
+{
+  "common": {
+    "nav": {
+      "home": "Trang chủ",
+      "services": "Dịch vụ",
+      "servicesEmployers": "Dành cho Nhà tuyển dụng",
+      "servicesTalents": "Dành cho Nhân tài",
+      "about": "Về chúng tôi",
+      "team": "Đội ngũ",
+      "blog": "Tin tức",
+      "contact": "Liên hệ"
+    },
+    "footer": {
+      "company": "talentsCARE",
+      "tagline": "Đối tác của bạn trong hành trình hội nhập thành công",
+      "rights": "Bảo lưu mọi quyền",
+      "privacy": "Chính sách bảo mật",
+      "imprint": "Thông tin xuất bản",
+      "terms": "Điều khoản & Điều kiện"
+    },
+    "cta": {
+      "learnMore": "Tìm hiểu thêm",
+      "contact": "Liên hệ với chúng tôi",
+      "getStarted": "Bắt đầu ngay",
+      "bookConsultation": "Đặt lịch tư vấn",
+      "download": "Tải xuống",
+      "subscribe": "Đăng ký"
+    },
+    "meta": {
+      "title": "talentsCARE - Tư vấn Nhân sự",
+      "description": "Tư vấn nhân sự chuyên nghiệp cho nhà tuyển dụng và nhân tài quốc tế tại Đức"
+    }
+  },
+  "home": {
+    "title": "talentsCARE",
+    "subtitle": "Hội nhập · Đào tạo · Huấn luyện · Cố vấn",
+    "hero": {
+      "headline": "Đối tác của bạn trong hành trình hội nhập thành công",
+      "subheadline": "Chúng tôi kết nối doanh nghiệp với nhân tài quốc tế",
+      "description": "talentsCARE hỗ trợ nhà tuyển dụng trong việc hội nhập chuyên gia quốc tế và đồng hành cùng nhân tài trên con đường thành công nghề nghiệp tại Đức.",
+      "ctaPrimary": "Yêu cầu tư vấn",
+      "ctaSecondary": "Khám phá dịch vụ"
+    },
+    "services": {
+      "headline": "Dịch Vụ Của Chúng Tôi",
+      "subheadline": "Giải Pháp Tùy Chỉnh Cho Sự Thành Công Của Bạn",
+      "employers": {
+        "title": "Cho Nhà Tuyển Dụng",
+        "description": "Tư vấn HR chiến lược và chương trình hội nhập cho sự hợp tác thành công với nhân tài quốc tế"
+      },
+      "talents": {
+        "title": "Cho Nhân Tài",
+        "description": "Hỗ trợ sự nghiệp cá nhân và hỗ trợ thực tế cho sự thành công nghề nghiệp của bạn tại Đức"
+      },
+      "consulting": {
+        "title": "Tư Vấn HR",
+        "description": "Tư vấn chuyên nghiệp cho chiến lược HR và quy trình hội nhập của bạn"
+      }
+    },
+    "stats": {
+      "clients": "Khách hàng hài lòng",
+      "clientsCount": "150+",
+      "talents": "Nhân tài được hỗ trợ",
+      "talentsCount": "500+",
+      "years": "Năm kinh nghiệm",
+      "yearsCount": "10+",
+      "countries": "Quốc gia nguồn gốc",
+      "countriesCount": "30+"
+    },
+    "testimonials": {
+      "title": "Khách hàng của chúng tôi nói gì",
+      "subtitle": "Trải nghiệm từ Nhà tuyển dụng và Nhân tài"
+    }
+  },
+  "services": {
+    "employers": {
+      "intro": {
+        "title": "Dịch vụ dành cho Nhà tuyển dụng",
+        "subtitle": "Hội nhập thành công bắt đầu với chiến lược đúng đắn",
+        "description": "Chúng tôi hỗ trợ bạn trong việc tuyển dụng, hội nhập và giữ chân chuyên gia quốc tế."
+      },
+      "items": {
+        "seminare": {
+          "title": "Hội thảo",
+          "shortDesc": "Hội thảo tương tác về năng lực liên văn hóa và lãnh đạo đội ngũ quốc tế.",
+          "longDesc": "Hội thảo của chúng tôi cung cấp kiến thức thực tế để hợp tác thành công trong các đội ngũ đa dạng. Các chủ đề bao gồm giao tiếp liên văn hóa, quản lý xung đột và lãnh đạo hòa nhập.",
+          "benefits": [
+            "Cải thiện giao tiếp nhóm",
+            "Giảm xung đột",
+            "Tăng sự hài lòng của nhân viên",
+            "Nâng cao hình ảnh công ty"
+          ],
+          "targetAudience": "Lãnh đạo và Chuyên gia Nhân sự",
+          "icon": "presentation"
+        },
+        "schulungen": {
+          "title": "Khóa đào tạo",
+          "shortDesc": "Đào tạo thực hành cho đội ngũ Nhân sự và lãnh đạo.",
+          "longDesc": "Chương trình đào tạo chuyên sâu để nâng cao năng lực nhân viên trong việc làm việc với đồng nghiệp và ứng viên quốc tế.",
+          "benefits": [
+            "Xây dựng năng lực nhóm",
+            "Quy trình chuẩn hóa",
+            "Chuyển giao kiến thức bền vững",
+            "Trình độ được chứng nhận"
+          ],
+          "targetAudience": "Đội ngũ Nhân sự và Trưởng nhóm",
+          "icon": "academic"
+        },
+        "workshops": {
+          "title": "Workshop",
+          "shortDesc": "Workshop chuyên sâu để phát triển chiến lược hội nhập.",
+          "longDesc": "Trong các workshop của chúng tôi, chúng ta cùng nhau phát triển giải pháp tùy chỉnh cho những thách thức cụ thể của bạn.",
+          "benefits": [
+            "Phương pháp giải quyết cá nhân hóa",
+            "Bài tập thực hành",
+            "Áp dụng trực tiếp",
+            "Hiệu ứng xây dựng đội nhóm"
+          ],
+          "targetAudience": "Ban lãnh đạo và Nhóm dự án",
+          "icon": "users"
+        },
+        "vortraege": {
+          "title": "Bài giảng",
+          "shortDesc": "Bài giảng truyền cảm hứng về đa dạng và hội nhập.",
+          "longDesc": "Chuyên gia của chúng tôi thuyết trình tại hội nghị, sự kiện công ty và hội thảo chuyên môn.",
+          "benefits": [
+            "Cảm hứng cho sự thay đổi",
+            "Chuyên môn từ nguồn trực tiếp",
+            "Cơ hội kết nối",
+            "Thông tin nghiên cứu mới nhất"
+          ],
+          "targetAudience": "Người tham dự hội nghị và Nhà ra quyết định",
+          "icon": "microphone"
+        },
+        "webinare": {
+          "title": "Webinar",
+          "shortDesc": "Hội thảo trực tuyến cho việc học linh hoạt.",
+          "longDesc": "Định dạng học tập kỹ thuật số cho phép phát triển chuyên môn độc lập về địa điểm trên các chủ đề hội nhập liên quan.",
+          "benefits": [
+            "Tham gia linh hoạt",
+            "Tiết kiệm chi phí",
+            "Có bản ghi",
+            "Hỏi đáp tương tác"
+          ],
+          "targetAudience": "Đội ngũ từ xa và Cá nhân",
+          "icon": "video"
+        },
+        "coaching": {
+          "title": "Coaching",
+          "shortDesc": "Coaching cá nhân cho lãnh đạo.",
+          "longDesc": "Hướng dẫn cá nhân trong việc phát triển năng lực lãnh đạo liên văn hóa.",
+          "benefits": [
+            "Phát triển cá nhân",
+            "Môi trường bảo mật",
+            "Nội dung tùy chỉnh",
+            "Hỗ trợ dài hạn"
+          ],
+          "targetAudience": "Lãnh đạo và Nhân tài tiềm năng",
+          "icon": "chat"
+        },
+        "training": {
+          "title": "Training",
+          "shortDesc": "Training thực tế cho công việc hàng ngày.",
+          "longDesc": "Training thực hành để áp dụng trực tiếp năng lực liên văn hóa trong cuộc sống nghề nghiệp.",
+          "benefits": [
+            "Áp dụng ngay lập tức",
+            "Hướng đến thực hành",
+            "Kết quả đo lường được",
+            "Thay đổi hành vi bền vững"
+          ],
+          "targetAudience": "Tất cả cấp bậc nhân viên",
+          "icon": "lightning"
+        },
+        "mentoring": {
+          "title": "Mentoring",
+          "shortDesc": "Chương trình Mentoring cho phát triển bền vững.",
+          "longDesc": "Chương trình mentoring có cấu trúc để thúc đẩy hợp tác liên văn hóa.",
+          "benefits": [
+            "Chuyển giao kiến thức",
+            "Xây dựng mạng lưới",
+            "Thăng tiến sự nghiệp",
+            "Trao đổi văn hóa"
+          ],
+          "targetAudience": "Mentor và Mentee trong công ty",
+          "icon": "heart"
+        },
+        "events": {
+          "title": "Sự kiện",
+          "shortDesc": "Sự kiện văn hóa và cơ hội kết nối.",
+          "longDesc": "Tổ chức các sự kiện để thúc đẩy trao đổi liên văn hóa và kết nối.",
+          "benefits": [
+            "Xây dựng đội nhóm",
+            "Trao đổi văn hóa",
+            "Xây dựng thương hiệu nhà tuyển dụng",
+            "Giữ chân nhân viên"
+          ],
+          "targetAudience": "Toàn bộ lực lượng lao động",
+          "icon": "calendar"
+        }
+      },
+      "hero": {
+        "headline": "Dịch Vụ Cho Nhà Tuyển Dụng",
+        "description": "Hội nhập thành công bắt đầu với chiến lược đúng đắn. Chúng tôi hỗ trợ bạn trong việc tuyển dụng, hội nhập và giữ chân nhân tài quốc tế.",
+        "cta": "Đặt Lịch Tư Vấn"
+      },
+      "servicesHeadline": "Danh Mục Dịch Vụ",
+      "servicesSubheadline": "Giải Pháp Tùy Chỉnh Cho Thách Thức Của Bạn",
+      "recruitment": {
+        "title": "Tuyển Dụng Quốc Tế",
+        "description": "Thu hút nhân tài quốc tế tốt nhất cho công ty bạn với tư vấn tuyển dụng chiến lược của chúng tôi."
+      },
+      "onboarding": {
+        "title": "Chương Trình Onboarding",
+        "description": "Quy trình onboarding chuyên nghiệp cho việc hội nhập nhanh chóng và thành công của nhân viên mới."
+      },
+      "integration": {
+        "title": "Chương Trình Hội Nhập",
+        "description": "Chương trình bền vững cho hội nhập văn hóa và chuyên môn của nhân tài quốc tế."
+      },
+      "training": {
+        "title": "Đào Tạo Liên Văn Hóa",
+        "description": "Đào tạo cho đội ngũ của bạn để tăng cường năng lực và hợp tác liên văn hóa."
+      },
+      "compliance": {
+        "title": "Tuân Thủ & Pháp Lý",
+        "description": "Hỗ trợ các yêu cầu pháp lý và quy định của tuyển dụng quốc tế."
+      },
+      "consulting": {
+        "title": "Tư Vấn Chiến Lược HR",
+        "description": "Phát triển chiến lược HR bền vững cho đội ngũ quốc tế và đa dạng."
+      },
+      "cta": {
+        "headline": "Sẵn Sàng Củng Cố Đội Ngũ?",
+        "description": "Hãy cùng phát triển chiến lược hội nhập của bạn.",
+        "button": "Liên Hệ Ngay"
+      }
+    },
+    "talents": {
+      "intro": {
+        "title": "Dịch vụ dành cho Nhân tài",
+        "subtitle": "Con đường của bạn đến thành công nghề nghiệp tại Đức",
+        "description": "Chúng tôi đồng hành cùng bạn trên con đường sự nghiệp với tư vấn cá nhân và hỗ trợ thực tế."
+      },
+      "items": {
+        "seminare": {
+          "title": "Hội thảo",
+          "shortDesc": "Hội thảo về văn hóa làm việc Đức và bước vào nghề nghiệp.",
+          "longDesc": "Tìm hiểu về đặc điểm của thị trường lao động Đức và chuẩn bị tối ưu cho sự nghiệp của bạn.",
+          "benefits": [
+            "Hiểu biết văn hóa",
+            "Kỹ năng ứng tuyển",
+            "Xây dựng mạng lưới",
+            "Lập kế hoạch sự nghiệp"
+          ],
+          "targetAudience": "Chuyên gia quốc tế",
+          "icon": "presentation"
+        },
+        "schulungen": {
+          "title": "Khóa đào tạo",
+          "shortDesc": "Đào tạo chuyên môn và khóa học ngôn ngữ.",
+          "longDesc": "Mở rộng trình độ chuyên môn và cải thiện kỹ năng tiếng Đức của bạn.",
+          "benefits": [
+            "Mở rộng trình độ",
+            "Nâng cao ngôn ngữ",
+            "Chứng chỉ",
+            "Cơ hội thị trường lao động"
+          ],
+          "targetAudience": "Người mới vào nghề và Người chuyển nghề",
+          "icon": "academic"
+        },
+        "workshops": {
+          "title": "Workshop",
+          "shortDesc": "Workshop thực hành về ứng tuyển và lập kế hoạch sự nghiệp.",
+          "longDesc": "Trong các workshop tương tác, bạn thực hành phỏng vấn xin việc và phát triển chiến lược sự nghiệp của mình.",
+          "benefits": [
+            "Bài tập thực hành",
+            "Phản hồi cá nhân",
+            "Chiến lược ứng tuyển",
+            "Kỹ năng tự giới thiệu"
+          ],
+          "targetAudience": "Người tìm việc và Người chuyển nghề",
+          "icon": "users"
+        },
+        "vortraege": {
+          "title": "Bài giảng",
+          "shortDesc": "Sự kiện thông tin về sống và làm việc tại Đức.",
+          "longDesc": "Nhận được những hiểu biết quý giá về thị trường lao động Đức và văn hóa Đức.",
+          "benefits": [
+            "Định hướng",
+            "Thông tin từ chuyên gia",
+            "Hỏi & Đáp",
+            "Xây dựng cộng đồng"
+          ],
+          "targetAudience": "Người mới đến Đức",
+          "icon": "microphone"
+        },
+        "webinare": {
+          "title": "Webinar",
+          "shortDesc": "Hội thảo trực tuyến cho việc học linh hoạt từ mọi nơi.",
+          "longDesc": "Tham gia các chương trình trực tuyến của chúng tôi một cách tiện lợi từ nhà hoặc khi di chuyển.",
+          "benefits": [
+            "Độc lập về địa điểm",
+            "Linh hoạt về thời gian",
+            "Bản ghi",
+            "Cộng đồng quốc tế"
+          ],
+          "targetAudience": "Tất cả nhân tài quốc tế",
+          "icon": "video"
+        },
+        "coaching": {
+          "title": "Coaching",
+          "shortDesc": "Coaching sự nghiệp cá nhân.",
+          "longDesc": "Hỗ trợ cá nhân trong lập kế hoạch sự nghiệp và phát triển cá nhân tại Đức.",
+          "benefits": [
+            "Hỗ trợ cá nhân",
+            "Hướng đến mục tiêu",
+            "Bảo mật",
+            "Hỗ trợ dài hạn"
+          ],
+          "targetAudience": "Chuyên gia có tham vọng nghề nghiệp",
+          "icon": "chat"
+        },
+        "training": {
+          "title": "Training",
+          "shortDesc": "Training kỹ năng mềm cho thị trường lao động Đức.",
+          "longDesc": "Phát triển kỹ năng mềm được yêu cầu tại các công ty Đức.",
+          "benefits": [
+            "Kỹ năng giao tiếp",
+            "Làm việc nhóm",
+            "Tự quản lý",
+            "Giải quyết xung đột"
+          ],
+          "targetAudience": "Chuyên gia và Người mới vào nghề",
+          "icon": "lightning"
+        },
+        "mentoring": {
+          "title": "Mentoring",
+          "shortDesc": "Mentoring bởi chuyên gia giàu kinh nghiệm.",
+          "longDesc": "Hưởng lợi từ kinh nghiệm của các chuyên gia thành công đã đi qua con đường của bạn.",
+          "benefits": [
+            "Trao đổi kinh nghiệm",
+            "Kiến thức nội bộ",
+            "Mạng lưới",
+            "Tư vấn sự nghiệp"
+          ],
+          "targetAudience": "Nhân tài quốc tế ở mọi cấp độ sự nghiệp",
+          "icon": "heart"
+        },
+        "events": {
+          "title": "Sự kiện",
+          "shortDesc": "Sự kiện kết nối và hoạt động văn hóa.",
+          "longDesc": "Xây dựng mạng lưới nghề nghiệp và tìm hiểu văn hóa Đức.",
+          "benefits": [
+            "Kết nối",
+            "Trải nghiệm văn hóa",
+            "Cộng đồng",
+            "Cơ hội việc làm"
+          ],
+          "targetAudience": "Tất cả nhân tài quốc tế",
+          "icon": "calendar"
+        }
+      },
+      "hero": {
+        "headline": "Dịch Vụ Cho Nhân Tài",
+        "description": "Con đường đến thành công nghề nghiệp tại Đức. Chúng tôi hỗ trợ bạn trên hành trình sự nghiệp với tư vấn cá nhân và hỗ trợ thực tế.",
+        "cta": "Đặt Lịch Tư Vấn Miễn Phí"
+      },
+      "servicesHeadline": "Hỗ Trợ Của Chúng Tôi",
+      "servicesSubheadline": "Hướng Dẫn Chuyên Nghiệp Trên Con Đường Sự Nghiệp",
+      "careerCoaching": {
+        "title": "Coaching Sự Nghiệp",
+        "description": "Tư vấn cá nhân cho sự phát triển nghề nghiệp và kế hoạch sự nghiệp của bạn tại Đức."
+      },
+      "jobSearch": {
+        "title": "Tìm Việc & Giới Thiệu",
+        "description": "Hỗ trợ tìm việc và giới thiệu vị trí phù hợp tại các công ty đối tác."
+      },
+      "language": {
+        "title": "Đào Tạo Ngôn Ngữ",
+        "description": "Đào tạo tiếng Đức thương mại chuyên nghiệp cho công việc thành công."
+      },
+      "cultural": {
+        "title": "Hội Nhập Văn Hóa",
+        "description": "Hỗ trợ hội nhập vào văn hóa làm việc và xã hội Đức."
+      },
+      "networking": {
+        "title": "Networking & Cộng Đồng",
+        "description": "Tiếp cận mạng lưới chuyên nghiệp và sự kiện cộng đồng."
+      },
+      "mentoring": {
+        "title": "Chương Trình Mentoring",
+        "description": "Hướng dẫn cá nhân bởi các mentor giàu kinh nghiệm trong ngành của bạn."
+      },
+      "cta": {
+        "headline": "Bắt Đầu Sự Nghiệp Tại Đức",
+        "description": "Hãy cùng định hình con đường thành công của bạn.",
+        "button": "Yêu Cầu Tư Vấn Ngay"
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "headline": "Về talentsCARE",
+      "description": "Chúng tôi là đối tác của bạn cho hội nhập thành công và hợp tác bền vững trong môi trường làm việc toàn cầu."
+    },
+    "mission": {
+      "headline": "Sứ Mệnh Của Chúng Tôi",
+      "paragraph1": "Chúng tôi tin vào một thế giới làm việc nơi sự đa dạng được xem là sức mạnh và sự khác biệt văn hóa là sự phong phú. Sứ mệnh của chúng tôi là xây dựng cầu nối giữa doanh nghiệp và nhân tài quốc tế.",
+      "paragraph2": "Với đam mê, chuyên môn và hiểu biết sâu sắc về động lực liên văn hóa, chúng tôi đồng hành cùng cả hai bên trên con đường chung đến thành công. Chúng tôi tạo không gian gặp gỡ, thúc đẩy sự hiểu biết và phát triển giải pháp bền vững cho thách thức của thế giới làm việc toàn cầu hóa."
+    },
+    "valuesHeadline": "Giá Trị Của Chúng Tôi",
+    "values": {
+      "empathy": {
+        "title": "Đồng Cảm",
+        "description": "Chúng tôi đối xử với mọi người bằng sự trân trọng, tôn trọng và quan tâm thực sự đến câu chuyện cá nhân của họ."
+      },
+      "excellence": {
+        "title": "Xuất Sắc",
+        "description": "Chúng tôi phấn đấu đạt chất lượng cao nhất trong mọi việc và không ngừng phát triển."
+      },
+      "integrity": {
+        "title": "Chính Trực",
+        "description": "Chúng tôi hành động minh bạch, đáng tin cậy và có trách nhiệm trong mọi mối quan hệ."
+      },
+      "diversity": {
+        "title": "Đa Dạng",
+        "description": "Chúng tôi tôn vinh sự khác biệt và xem sự đa dạng văn hóa là nguồn gốc của sự đổi mới và sức mạnh."
+      }
+    },
+    "approach": {
+      "headline": "Phương Pháp Của Chúng Tôi",
+      "description": "Chúng tôi kết hợp chuyên môn vững chắc với kinh nghiệm thực tế và cái nhìn toàn diện về hội nhập và hợp tác.",
+      "step1": {
+        "title": "Phân Tích & Hiểu Biết",
+        "description": "Chúng tôi lắng nghe và phân tích tình huống và thách thức cụ thể của bạn."
+      },
+      "step2": {
+        "title": "Khái Niệm & Chiến Lược",
+        "description": "Chúng tôi phát triển giải pháp tùy chỉnh phù hợp với mục tiêu và nguồn lực của bạn."
+      },
+      "step3": {
+        "title": "Triển Khai & Hỗ Trợ",
+        "description": "Chúng tôi ở bên cạnh bạn và đảm bảo kết quả bền vững."
+      }
+    },
+    "cta": {
+      "headline": "Hãy Cùng Viết Câu Chuyện Thành Công",
+      "description": "Liên hệ với chúng tôi để được tư vấn ban đầu không ràng buộc.",
+      "button": "Liên Hệ",
+      "teamButton": "Gặp Gỡ Đội Ngũ"
+    }
+  },
+  "team": {
+    "hero": {
+      "headline": "Đội Ngũ Của Chúng Tôi",
+      "description": "Gặp gỡ các chuyên gia làm việc với đam mê và năng lực cho sự thành công của bạn."
+    },
+    "member1": {
+      "name": "Dr. Maria Schmidt",
+      "role": "Nhà Sáng Lập & Giám Đốc Điều Hành",
+      "bio": "Hơn 15 năm kinh nghiệm trong tư vấn HR quốc tế và phát triển tổ chức."
+    },
+    "member2": {
+      "name": "Ahmad Hassan",
+      "role": "Tư Vấn Viên Hội Nhập Cấp Cao",
+      "bio": "Chuyên gia về giao tiếp liên văn hóa và quản lý đa dạng."
+    },
+    "member3": {
+      "name": "Lisa Chen",
+      "role": "Coach Sự Nghiệp",
+      "bio": "Chuyên gia phát triển nghề nghiệp và kế hoạch sự nghiệp cho nhân tài quốc tế."
+    }
+  },
+  "contact": {
+    "title": "Liên hệ",
+    "subtitle": "Nói chuyện với chúng tôi",
+    "intro": "Bạn có câu hỏi hoặc muốn tìm hiểu thêm về dịch vụ của chúng tôi? Chúng tôi mong nhận được tin nhắn từ bạn.",
+    "form": {
+      "name": "Tên",
+      "email": "Email",
+      "phone": "Điện thoại",
+      "company": "Công ty",
+      "subject": "Chủ đề",
+      "message": "Tin nhắn",
+      "submit": "Gửi tin nhắn",
+      "success": "Cảm ơn bạn đã nhắn tin. Chúng tôi sẽ phản hồi sớm.",
+      "error": "Rất tiếc, đã xảy ra lỗi. Vui lòng thử lại."
+    },
+    "info": {
+      "address": "Địa chỉ",
+      "phone": "Điện thoại",
+      "email": "Email",
+      "hours": "Giờ làm việc",
+      "hoursWeekday": "Thứ 2-6: 09:00 - 18:00",
+      "hoursWeekend": "Thứ 7-CN: Đóng cửa"
+    },
+    "hero": {
+      "headline": "Liên Hệ",
+      "description": "Bạn có câu hỏi hoặc muốn tìm hiểu thêm về dịch vụ của chúng tôi? Chúng tôi mong nhận được tin nhắn của bạn."
+    },
+    "formHeadline": "Gửi Tin Nhắn",
+    "infoHeadline": "Thông Tin Liên Hệ"
+  },
+  "blog": {
+    "hero": {
+      "headline": "Tin Tức & Thông Tin",
+      "description": "Luôn cập nhật xu hướng, thực hành tốt nhất và tin tức từ thế giới hội nhập."
+    },
+    "comingSoon": {
+      "headline": "Sắp Ra Mắt",
+      "description": "Chúng tôi đang làm việc trên nội dung thú vị cho bạn. Đăng ký nhận tin để không bỏ lỡ cập nhật.",
+      "cta": "Đăng Ký Nhận Tin"
+    }
+  },
+  "notFound": {
+    "headline": "Không Tìm Thấy Trang",
+    "description": "Trang bạn đang tìm kiếm không tồn tại. Có thể đã bị di chuyển hoặc xóa.",
+    "homeButton": "Về Trang Chủ",
+    "contactButton": "Liên Hệ"
+  },
+  "legal": {
+    "privacy": {
+      "headline": "Chính Sách Bảo Mật",
+      "lastUpdated": "Cập nhật lần cuối: Tháng 4 2026",
+      "section1": {
+        "title": "1. Bảo Mật Tổng Quan",
+        "content": "Các lưu ý sau đây cung cấp tổng quan đơn giản về những gì xảy ra với dữ liệu cá nhân của bạn khi bạn truy cập trang web này. Dữ liệu cá nhân là bất kỳ dữ liệu nào mà bạn có thể được xác định cá nhân."
+      },
+      "section2": {
+        "title": "2. Thu Thập Dữ Liệu Trên Trang Web",
+        "content": "Xử lý dữ liệu trên trang web này được thực hiện bởi người vận hành trang web. Chi tiết liên hệ có thể được tìm thấy trong phần imprint của trang web này. Dữ liệu của bạn được thu thập một phần bằng cách bạn cung cấp cho chúng tôi, ví dụ qua biểu mẫu liên hệ."
+      },
+      "section3": {
+        "title": "3. Công Cụ Phân Tích",
+        "content": "Khi truy cập trang web này, hành vi lướt web của bạn có thể được đánh giá thống kê. Điều này được thực hiện chủ yếu với các chương trình phân tích. Thông tin chi tiết về các chương trình phân tích này có thể được tìm thấy trong các phần sau của chính sách bảo mật này."
+      },
+      "section4": {
+        "title": "4. Quyền Của Bạn",
+        "content": "Bạn có quyền nhận thông tin về nguồn gốc, người nhận và mục đích của dữ liệu cá nhân được lưu trữ của bạn bất cứ lúc nào. Bạn cũng có quyền yêu cầu chỉnh sửa hoặc xóa dữ liệu này."
+      },
+      "section5": {
+        "title": "5. Liên Hệ",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về bảo mật dữ liệu, bạn có thể liên hệ với chúng tôi bất cứ lúc nào. Chi tiết liên hệ có thể được tìm thấy trong phần imprint của trang web này."
+      }
+    },
+    "imprint": {
+      "headline": "Thông Tin Pháp Lý",
+      "company": {
+        "title": "Thông Tin Theo § 5 TMG"
+      },
+      "contact": {
+        "title": "Liên Hệ",
+        "phone": "Điện Thoại",
+        "email": "Email"
+      },
+      "management": {
+        "title": "Giám Đốc Được Ủy Quyền",
+        "names": "Dr. Maria Schmidt"
+      },
+      "register": {
+        "title": "Đăng Ký",
+        "court": "Tòa Án Đăng Ký",
+        "number": "Số Đăng Ký",
+        "vat": "Mã Số Thuế"
+      },
+      "responsible": {
+        "title": "Chịu Trách Nhiệm Nội Dung",
+        "name": "Dr. Maria Schmidt"
+      }
+    },
+    "terms": {
+      "headline": "Điều Khoản & Điều Kiện",
+      "lastUpdated": "Cập nhật lần cuối: Tháng 4 2026",
+      "section1": {
+        "title": "1. Phạm Vi",
+        "content": "Các Điều khoản và Điều kiện Chung này áp dụng cho tất cả các hợp đồng giữa talentsCARE GmbH và khách hàng để cung cấp dịch vụ tư vấn và đào tạo."
+      },
+      "section2": {
+        "title": "2. Ký Kết Hợp Đồng",
+        "content": "Hợp đồng được ký kết bằng cách khách hàng chấp nhận đề nghị. Chấp nhận có thể được thực hiện bằng văn bản, bằng lời nói hoặc thông qua hành động ngầm định."
+      },
+      "section3": {
+        "title": "3. Phạm Vi Dịch Vụ",
+        "content": "Phạm vi dịch vụ được cung cấp được xác định trong đề nghị tương ứng hoặc mô tả dịch vụ. Thay đổi phạm vi dịch vụ yêu cầu thỏa thuận bằng văn bản."
+      },
+      "section4": {
+        "title": "4. Thù Lao & Điều Kiện Thanh Toán",
+        "content": "Thù lao dựa trên bảng giá hiện hành. Hóa đơn phải được thanh toán trong vòng 14 ngày kể từ ngày hóa đơn mà không khấu trừ."
+      },
+      "section5": {
+        "title": "5. Trách Nhiệm Pháp Lý",
+        "content": "Chúng tôi hoàn toàn chịu trách nhiệm cho hành vi cố ý và sơ suất nghiêm trọng. Trong trường hợp sơ suất nhẹ, chúng tôi chỉ chịu trách nhiệm cho vi phạm nghĩa vụ hợp đồng thiết yếu."
+      }
+    }
+  }
+}

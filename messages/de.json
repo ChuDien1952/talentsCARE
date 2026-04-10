@@ -1,0 +1,595 @@
+{
+  "common": {
+    "nav": {
+      "home": "Startseite",
+      "services": "Leistungen",
+      "servicesEmployers": "Für Arbeitgeber",
+      "servicesTalents": "Für Talente",
+      "about": "Über uns",
+      "team": "Team",
+      "blog": "Aktuelles",
+      "contact": "Kontakt"
+    },
+    "footer": {
+      "company": "talentsCARE",
+      "tagline": "Ihr Partner für erfolgreiche Integration",
+      "rights": "Alle Rechte vorbehalten",
+      "privacy": "Datenschutz",
+      "imprint": "Impressum",
+      "terms": "AGB"
+    },
+    "cta": {
+      "learnMore": "Mehr erfahren",
+      "contact": "Kontaktieren Sie uns",
+      "getStarted": "Jetzt starten",
+      "bookConsultation": "Beratung buchen",
+      "download": "Herunterladen",
+      "subscribe": "Abonnieren"
+    },
+    "meta": {
+      "title": "talentsCARE - HR-Beratung",
+      "description": "Professionelle HR-Beratung für Arbeitgeber und internationale Talente in Deutschland"
+    }
+  },
+  "home": {
+    "title": "talentsCARE",
+    "subtitle": "Integration · Schulung · Coaching · Mentoring",
+    "hero": {
+      "headline": "Ihr Partner für erfolgreiche Integration",
+      "subheadline": "Wir verbinden Unternehmen mit internationalen Talenten",
+      "description": "talentsCARE unterstützt Arbeitgeber bei der Integration internationaler Fachkräfte und begleitet Talente auf ihrem Weg zum beruflichen Erfolg in Deutschland.",
+      "ctaPrimary": "Beratung anfragen",
+      "ctaSecondary": "Leistungen entdecken"
+    },
+    "services": {
+      "headline": "Unsere Leistungen",
+      "subheadline": "Maßgeschneiderte Lösungen für Ihren Erfolg",
+      "employers": {
+        "title": "Für Arbeitgeber",
+        "description": "Strategische HR-Beratung und Integrationsprogramme für erfolgreiche Zusammenarbeit mit internationalen Fachkräften"
+      },
+      "talents": {
+        "title": "Für Talente",
+        "description": "Individuelle Karrierebegleitung und praktische Unterstützung für Ihren beruflichen Erfolg in Deutschland"
+      },
+      "consulting": {
+        "title": "HR-Beratung",
+        "description": "Professionelle Beratung für Ihre HR-Strategie und Integrationsprozesse"
+      }
+    },
+    "stats": {
+      "clients": "Zufriedene Kunden",
+      "clientsCount": "150+",
+      "talents": "Betreute Talente",
+      "talentsCount": "500+",
+      "years": "Jahre Erfahrung",
+      "yearsCount": "10+",
+      "countries": "Herkunftsländer",
+      "countriesCount": "30+"
+    },
+    "testimonials": {
+      "title": "Was unsere Kunden sagen",
+      "subtitle": "Erfahrungen von Arbeitgebern und Talenten"
+    }
+  },
+  "services": {
+    "employers": {
+      "hero": {
+        "headline": "Leistungen für Arbeitgeber",
+        "description": "Erfolgreiche Integration beginnt mit der richtigen Strategie. Wir unterstützen Sie bei der Rekrutierung, Integration und Bindung internationaler Fachkräfte.",
+        "cta": "Beratungsgespräch vereinbaren"
+      },
+      "servicesHeadline": "Unser Leistungsportfolio",
+      "servicesSubheadline": "Maßgeschneiderte Lösungen für Ihre Herausforderungen",
+      "recruitment": {
+        "title": "Internationale Rekrutierung",
+        "description": "Gewinnen Sie die besten internationalen Talente für Ihr Unternehmen mit unserer strategischen Rekrutierungsberatung."
+      },
+      "onboarding": {
+        "title": "Onboarding-Programme",
+        "description": "Professionelle Onboarding-Prozesse für eine schnelle und erfolgreiche Integration neuer Mitarbeiter."
+      },
+      "integration": {
+        "title": "Integrationsprogramme",
+        "description": "Nachhaltige Programme zur kulturellen und fachlichen Integration internationaler Fachkräfte."
+      },
+      "training": {
+        "title": "Interkulturelle Trainings",
+        "description": "Schulungen für Ihr Team zur Stärkung der interkulturellen Kompetenzen und Zusammenarbeit."
+      },
+      "compliance": {
+        "title": "Compliance & Recht",
+        "description": "Unterstützung bei rechtlichen und regulatorischen Anforderungen der internationalen Personalgewinnung."
+      },
+      "consulting": {
+        "title": "HR-Strategieberatung",
+        "description": "Entwicklung nachhaltiger HR-Strategien für internationale und diverse Teams."
+      },
+      "cta": {
+        "headline": "Bereit, Ihr Team zu stärken?",
+        "description": "Lassen Sie uns gemeinsam Ihre Integrationsstrategie entwickeln.",
+        "button": "Jetzt Kontakt aufnehmen"
+      },
+      "intro": {
+        "title": "Leistungen für Arbeitgeber",
+        "subtitle": "Erfolgreiche Integration beginnt mit der richtigen Strategie",
+        "description": "Wir unterstützen Sie bei der Rekrutierung, Integration und Bindung internationaler Fachkräfte."
+      },
+      "items": {
+        "seminare": {
+          "title": "Seminare",
+          "shortDesc": "Interaktive Seminare zu interkultureller Kompetenz und Führung internationaler Teams.",
+          "longDesc": "Unsere Seminare vermitteln praxisnahes Wissen zur erfolgreichen Zusammenarbeit in diversen Teams. Themen umfassen interkulturelle Kommunikation, Konfliktmanagement und inklusive Führung.",
+          "benefits": [
+            "Verbesserte Teamkommunikation",
+            "Reduzierte Konflikte",
+            "Höhere Mitarbeiterzufriedenheit",
+            "Gestärktes Unternehmensimage"
+          ],
+          "targetAudience": "Führungskräfte und HR-Verantwortliche",
+          "icon": "presentation"
+        },
+        "schulungen": {
+          "title": "Schulungen",
+          "shortDesc": "Praxisorientierte Schulungen für HR-Teams und Führungskräfte.",
+          "longDesc": "Intensive Schulungsprogramme zur Qualifizierung Ihrer Mitarbeiter im Umgang mit internationalen Kollegen und Bewerbern.",
+          "benefits": [
+            "Kompetenzaufbau im Team",
+            "Standardisierte Prozesse",
+            "Nachhaltige Wissensvermittlung",
+            "Zertifizierte Qualifikation"
+          ],
+          "targetAudience": "HR-Teams und Teamleiter",
+          "icon": "academic"
+        },
+        "workshops": {
+          "title": "Workshops",
+          "shortDesc": "Intensive Workshops zur Entwicklung von Integrationsstrategien.",
+          "longDesc": "In unseren Workshops erarbeiten wir gemeinsam maßgeschneiderte Lösungen für Ihre spezifischen Herausforderungen.",
+          "benefits": [
+            "Individuelle Lösungsansätze",
+            "Praktische Übungen",
+            "Direkte Anwendbarkeit",
+            "Teambuilding-Effekt"
+          ],
+          "targetAudience": "Management und Projektteams",
+          "icon": "users"
+        },
+        "vortraege": {
+          "title": "Vorträge",
+          "shortDesc": "Inspirierende Vorträge zu Diversität und Integration.",
+          "longDesc": "Unsere Experten halten Vorträge bei Konferenzen, Firmenveranstaltungen und Fachtagungen.",
+          "benefits": [
+            "Inspiration für Veränderung",
+            "Fachwissen aus erster Hand",
+            "Networking-Möglichkeiten",
+            "Aktuelle Forschungserkenntnisse"
+          ],
+          "targetAudience": "Konferenzteilnehmer und Entscheider",
+          "icon": "microphone"
+        },
+        "webinare": {
+          "title": "Webinare",
+          "shortDesc": "Online-Seminare für flexibles Lernen.",
+          "longDesc": "Digitale Lernformate ermöglichen ortsunabhängige Weiterbildung zu relevanten Integrationsthemen.",
+          "benefits": [
+            "Flexible Teilnahme",
+            "Kosteneffizient",
+            "Aufzeichnungen verfügbar",
+            "Interaktive Q&A"
+          ],
+          "targetAudience": "Remote-Teams und Einzelpersonen",
+          "icon": "video"
+        },
+        "coaching": {
+          "title": "Coaching",
+          "shortDesc": "Individuelles Coaching für Führungskräfte.",
+          "longDesc": "Persönliche Begleitung bei der Entwicklung interkultureller Führungskompetenzen.",
+          "benefits": [
+            "Persönliche Entwicklung",
+            "Vertraulicher Rahmen",
+            "Maßgeschneiderte Inhalte",
+            "Langfristige Begleitung"
+          ],
+          "targetAudience": "Führungskräfte und High Potentials",
+          "icon": "chat"
+        },
+        "training": {
+          "title": "Training",
+          "shortDesc": "Praxisnahe Trainings für den Arbeitsalltag.",
+          "longDesc": "Hands-on Trainings zur direkten Anwendung interkultureller Kompetenzen im Berufsalltag.",
+          "benefits": [
+            "Sofort anwendbar",
+            "Praxisorientiert",
+            "Messbare Ergebnisse",
+            "Nachhaltige Verhaltensänderung"
+          ],
+          "targetAudience": "Alle Mitarbeiterebenen",
+          "icon": "lightning"
+        },
+        "mentoring": {
+          "title": "Mentoring",
+          "shortDesc": "Mentoring-Programme für nachhaltige Entwicklung.",
+          "longDesc": "Strukturierte Mentoring-Programme zur Förderung interkultureller Zusammenarbeit.",
+          "benefits": [
+            "Wissenstransfer",
+            "Netzwerkaufbau",
+            "Karriereförderung",
+            "Kultureller Austausch"
+          ],
+          "targetAudience": "Mentoren und Mentees im Unternehmen",
+          "icon": "heart"
+        },
+        "events": {
+          "title": "Events",
+          "shortDesc": "Kulturelle Events und Networking-Veranstaltungen.",
+          "longDesc": "Organisation von Events zur Förderung des interkulturellen Austauschs und Networking.",
+          "benefits": [
+            "Teambuilding",
+            "Kultureller Austausch",
+            "Employer Branding",
+            "Mitarbeiterbindung"
+          ],
+          "targetAudience": "Gesamte Belegschaft",
+          "icon": "calendar"
+        }
+      }
+    },
+    "talents": {
+      "hero": {
+        "headline": "Leistungen für Talente",
+        "description": "Ihr Weg zum beruflichen Erfolg in Deutschland. Wir begleiten Sie auf Ihrem Karriereweg mit individueller Beratung und praktischer Unterstützung.",
+        "cta": "Kostenlose Erstberatung buchen"
+      },
+      "servicesHeadline": "Unsere Unterstützung für Sie",
+      "servicesSubheadline": "Professionelle Begleitung auf Ihrem Karriereweg",
+      "careerCoaching": {
+        "title": "Karrierecoaching",
+        "description": "Individuelle Beratung für Ihre berufliche Entwicklung und Karriereplanung in Deutschland."
+      },
+      "jobSearch": {
+        "title": "Jobsuche & Vermittlung",
+        "description": "Unterstützung bei der Jobsuche und Vermittlung passender Positionen bei unseren Partnerunternehmen."
+      },
+      "language": {
+        "title": "Sprachtraining",
+        "description": "Professionelles Business-Deutsch-Training für den erfolgreichen Arbeitsalltag."
+      },
+      "cultural": {
+        "title": "Kulturelle Integration",
+        "description": "Begleitung bei der Integration in die deutsche Arbeitswelt und Gesellschaft."
+      },
+      "networking": {
+        "title": "Networking & Community",
+        "description": "Zugang zu unserem professionellen Netzwerk und Community-Events."
+      },
+      "mentoring": {
+        "title": "Mentoring-Programme",
+        "description": "Persönliche Begleitung durch erfahrene Mentoren aus Ihrer Branche."
+      },
+      "cta": {
+        "headline": "Starten Sie Ihre Karriere in Deutschland",
+        "description": "Lassen Sie uns gemeinsam Ihren Erfolgsweg gestalten.",
+        "button": "Jetzt Beratung anfragen"
+      },
+      "intro": {
+        "title": "Leistungen für Talente",
+        "subtitle": "Ihr Weg zum beruflichen Erfolg in Deutschland",
+        "description": "Wir begleiten Sie auf Ihrem Karriereweg mit individueller Beratung und praktischer Unterstützung."
+      },
+      "items": {
+        "seminare": {
+          "title": "Seminare",
+          "shortDesc": "Seminare zu deutscher Arbeitskultur und Berufseinstieg.",
+          "longDesc": "Lernen Sie die Besonderheiten des deutschen Arbeitsmarktes kennen und bereiten Sie sich optimal auf Ihre Karriere vor.",
+          "benefits": [
+            "Kulturelles Verständnis",
+            "Bewerbungskompetenz",
+            "Netzwerkaufbau",
+            "Karriereplanung"
+          ],
+          "targetAudience": "Internationale Fachkräfte",
+          "icon": "presentation"
+        },
+        "schulungen": {
+          "title": "Schulungen",
+          "shortDesc": "Fachliche Schulungen und Sprachkurse.",
+          "longDesc": "Erweitern Sie Ihre fachlichen Qualifikationen und verbessern Sie Ihre Deutschkenntnisse.",
+          "benefits": [
+            "Qualifikationserweiterung",
+            "Sprachförderung",
+            "Zertifikate",
+            "Arbeitsmarktchancen"
+          ],
+          "targetAudience": "Berufseinsteiger und Quereinsteiger",
+          "icon": "academic"
+        },
+        "workshops": {
+          "title": "Workshops",
+          "shortDesc": "Praxisworkshops zur Bewerbung und Karriereplanung.",
+          "longDesc": "In interaktiven Workshops üben Sie Bewerbungsgespräche und entwickeln Ihre Karrierestrategie.",
+          "benefits": [
+            "Praktische Übung",
+            "Individuelles Feedback",
+            "Bewerbungsstrategie",
+            "Selbstpräsentation"
+          ],
+          "targetAudience": "Jobsuchende und Karrierewechsler",
+          "icon": "users"
+        },
+        "vortraege": {
+          "title": "Vorträge",
+          "shortDesc": "Informationsveranstaltungen zu Leben und Arbeiten in Deutschland.",
+          "longDesc": "Erhalten Sie wertvolle Einblicke in den deutschen Arbeitsmarkt und die deutsche Kultur.",
+          "benefits": [
+            "Orientierung",
+            "Experteninformationen",
+            "Fragen & Antworten",
+            "Community-Aufbau"
+          ],
+          "targetAudience": "Neuankömmlinge in Deutschland",
+          "icon": "microphone"
+        },
+        "webinare": {
+          "title": "Webinare",
+          "shortDesc": "Online-Seminare für flexibles Lernen von überall.",
+          "longDesc": "Nehmen Sie bequem von zu Hause oder unterwegs an unseren Online-Angeboten teil.",
+          "benefits": [
+            "Ortsunabhängig",
+            "Zeitflexibel",
+            "Aufzeichnungen",
+            "Internationale Community"
+          ],
+          "targetAudience": "Alle internationalen Talente",
+          "icon": "video"
+        },
+        "coaching": {
+          "title": "Coaching",
+          "shortDesc": "Persönliches Karrierecoaching.",
+          "longDesc": "Individuelle Begleitung bei der Karriereplanung und persönlichen Entwicklung in Deutschland.",
+          "benefits": [
+            "Persönliche Betreuung",
+            "Zielorientiert",
+            "Vertraulich",
+            "Langfristige Unterstützung"
+          ],
+          "targetAudience": "Fachkräfte mit Karriereambitionen",
+          "icon": "chat"
+        },
+        "training": {
+          "title": "Training",
+          "shortDesc": "Soft-Skill-Trainings für den deutschen Arbeitsmarkt.",
+          "longDesc": "Entwickeln Sie die Soft Skills, die in deutschen Unternehmen gefragt sind.",
+          "benefits": [
+            "Kommunikationsfähigkeit",
+            "Teamarbeit",
+            "Selbstmanagement",
+            "Konfliktlösung"
+          ],
+          "targetAudience": "Berufstätige und Berufseinsteiger",
+          "icon": "lightning"
+        },
+        "mentoring": {
+          "title": "Mentoring",
+          "shortDesc": "Mentoring durch erfahrene Professionals.",
+          "longDesc": "Profitieren Sie von der Erfahrung erfolgreicher Fachkräfte, die Ihren Weg bereits gegangen sind.",
+          "benefits": [
+            "Erfahrungsaustausch",
+            "Insider-Wissen",
+            "Netzwerk",
+            "Karriereberatung"
+          ],
+          "targetAudience": "Internationale Talente aller Karrierestufen",
+          "icon": "heart"
+        },
+        "events": {
+          "title": "Events",
+          "shortDesc": "Networking-Events und kulturelle Veranstaltungen.",
+          "longDesc": "Bauen Sie Ihr berufliches Netzwerk auf und lernen Sie die deutsche Kultur kennen.",
+          "benefits": [
+            "Networking",
+            "Kulturerlebnis",
+            "Community",
+            "Jobmöglichkeiten"
+          ],
+          "targetAudience": "Alle internationalen Talente",
+          "icon": "calendar"
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "headline": "Über talentsCARE",
+      "description": "Wir sind Ihr Partner für erfolgreiche Integration und nachhaltige Zusammenarbeit in einer globalen Arbeitswelt."
+    },
+    "mission": {
+      "headline": "Unsere Mission",
+      "paragraph1": "Wir glauben an eine Arbeitswelt, in der Vielfalt als Stärke gesehen wird und kulturelle Unterschiede als Bereicherung erlebt werden. Unsere Mission ist es, Brücken zu bauen zwischen Unternehmen und internationalen Talenten.",
+      "paragraph2": "Mit Leidenschaft, Expertise und einem tiefen Verständnis für interkulturelle Dynamiken begleiten wir beide Seiten auf ihrem gemeinsamen Weg zum Erfolg. Wir schaffen Räume für Begegnung, fördern Verständnis und entwickeln nachhaltige Lösungen für die Herausforderungen einer globalisierten Arbeitswelt."
+    },
+    "valuesHeadline": "Unsere Werte",
+    "values": {
+      "empathy": {
+        "title": "Empathie",
+        "description": "Wir begegnen allen Menschen mit Wertschätzung, Respekt und echtem Interesse für ihre individuelle Geschichte."
+      },
+      "excellence": {
+        "title": "Exzellenz",
+        "description": "Wir streben nach höchster Qualität in allem, was wir tun, und entwickeln uns kontinuierlich weiter."
+      },
+      "integrity": {
+        "title": "Integrität",
+        "description": "Wir handeln transparent, verlässlich und verantwortungsbewusst in allen unseren Beziehungen."
+      },
+      "diversity": {
+        "title": "Vielfalt",
+        "description": "Wir feiern Unterschiede und sehen kulturelle Vielfalt als Quelle von Innovation und Stärke."
+      }
+    },
+    "approach": {
+      "headline": "Unser Ansatz",
+      "description": "Wir kombinieren fundiertes Fachwissen mit praktischer Erfahrung und einem ganzheitlichen Blick auf Integration und Zusammenarbeit.",
+      "step1": {
+        "title": "Analyse & Verstehen",
+        "description": "Wir hören zu und analysieren Ihre spezifische Situation und Herausforderungen."
+      },
+      "step2": {
+        "title": "Konzept & Strategie",
+        "description": "Wir entwickeln maßgeschneiderte Lösungen, die zu Ihren Zielen und Ressourcen passen."
+      },
+      "step3": {
+        "title": "Umsetzung & Begleitung",
+        "description": "Wir bleiben an Ihrer Seite und sorgen für nachhaltige Ergebnisse."
+      }
+    },
+    "cta": {
+      "headline": "Lassen Sie uns gemeinsam Erfolgsgeschichten schreiben",
+      "description": "Kontaktieren Sie uns für ein unverbindliches Erstgespräch.",
+      "button": "Kontakt aufnehmen",
+      "teamButton": "Unser Team kennenlernen"
+    },
+    "title": "Über talentsCARE",
+    "subtitle": "Brücken bauen zwischen Kulturen"
+  },
+  "team": {
+    "hero": {
+      "headline": "Unser Team",
+      "description": "Lernen Sie die Experten kennen, die mit Leidenschaft und Kompetenz für Ihren Erfolg arbeiten."
+    },
+    "member1": {
+      "name": "Dr. Maria Schmidt",
+      "role": "Gründerin & Geschäftsführerin",
+      "bio": "Über 15 Jahre Erfahrung in internationaler HR-Beratung und Organisationsentwicklung."
+    },
+    "member2": {
+      "name": "Ahmad Hassan",
+      "role": "Senior Berater Integration",
+      "bio": "Spezialist für interkulturelle Kommunikation und Diversity Management."
+    },
+    "member3": {
+      "name": "Lisa Chen",
+      "role": "Karrierecoach",
+      "bio": "Expertin für berufliche Entwicklung und Karriereplanung internationaler Talente."
+    }
+  },
+  "blog": {
+    "hero": {
+      "headline": "Aktuelles & Insights",
+      "description": "Bleiben Sie informiert über Trends, Best Practices und Neuigkeiten aus der Welt der Integration."
+    },
+    "comingSoon": {
+      "headline": "Bald verfügbar",
+      "description": "Wir arbeiten an spannenden Inhalten für Sie. Abonnieren Sie unseren Newsletter, um keine Updates zu verpassen.",
+      "cta": "Zum Newsletter anmelden"
+    }
+  },
+  "contact": {
+    "hero": {
+      "headline": "Kontakt",
+      "description": "Haben Sie Fragen oder möchten Sie mehr über unsere Leistungen erfahren? Wir freuen uns auf Ihre Nachricht."
+    },
+    "formHeadline": "Schreiben Sie uns",
+    "infoHeadline": "Kontaktinformationen",
+    "form": {
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "company": "Unternehmen",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "success": "Vielen Dank für Ihre Nachricht. Wir melden uns bald bei Ihnen.",
+      "error": "Leider ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "hours": "Öffnungszeiten",
+      "hoursWeekday": "Mo-Fr: 09:00 - 18:00 Uhr",
+      "hoursWeekend": "Sa-So: Geschlossen"
+    }
+  },
+  "notFound": {
+    "headline": "Seite nicht gefunden",
+    "description": "Die von Ihnen gesuchte Seite existiert leider nicht. Möglicherweise wurde sie verschoben oder gelöscht.",
+    "homeButton": "Zur Startseite",
+    "contactButton": "Kontakt aufnehmen"
+  },
+  "legal": {
+    "privacy": {
+      "headline": "Datenschutzerklärung",
+      "lastUpdated": "Zuletzt aktualisiert: April 2026",
+      "section1": {
+        "title": "1. Datenschutz auf einen Blick",
+        "content": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können."
+      },
+      "section2": {
+        "title": "2. Datenerfassung auf dieser Website",
+        "content": "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen. Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen, zum Beispiel durch Eingaben in ein Kontaktformular."
+      },
+      "section3": {
+        "title": "3. Analyse-Tools und Tools von Drittanbietern",
+        "content": "Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen. Detaillierte Informationen zu diesen Analyseprogrammen finden Sie in den folgenden Abschnitten dieser Datenschutzerklärung."
+      },
+      "section4": {
+        "title": "4. Ihre Rechte",
+        "content": "Sie haben das Recht, jederzeit Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen."
+      },
+      "section5": {
+        "title": "5. Kontakt",
+        "content": "Bei Fragen zum Datenschutz können Sie sich jederzeit an uns wenden. Die Kontaktdaten finden Sie im Impressum dieser Website."
+      }
+    },
+    "imprint": {
+      "headline": "Impressum",
+      "company": {
+        "title": "Angaben gemäß § 5 TMG"
+      },
+      "contact": {
+        "title": "Kontakt",
+        "phone": "Telefon",
+        "email": "E-Mail"
+      },
+      "management": {
+        "title": "Vertretungsberechtigte Geschäftsführer",
+        "names": "Dr. Maria Schmidt"
+      },
+      "register": {
+        "title": "Registereintrag",
+        "court": "Registergericht",
+        "number": "Registernummer",
+        "vat": "Umsatzsteuer-ID"
+      },
+      "responsible": {
+        "title": "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV",
+        "name": "Dr. Maria Schmidt"
+      }
+    },
+    "terms": {
+      "headline": "Allgemeine Geschäftsbedingungen",
+      "lastUpdated": "Zuletzt aktualisiert: April 2026",
+      "section1": {
+        "title": "1. Geltungsbereich",
+        "content": "Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für alle Verträge zwischen talentsCARE GmbH und ihren Kunden über die Erbringung von Beratungs- und Schulungsdienstleistungen."
+      },
+      "section2": {
+        "title": "2. Vertragsschluss",
+        "content": "Der Vertrag kommt durch die Annahme des Angebots durch den Kunden zustande. Die Annahme kann schriftlich, mündlich oder durch konkludentes Handeln erfolgen."
+      },
+      "section3": {
+        "title": "3. Leistungsumfang",
+        "content": "Der Umfang der zu erbringenden Leistungen ergibt sich aus dem jeweiligen Angebot bzw. der Leistungsbeschreibung. Änderungen des Leistungsumfangs bedürfen der schriftlichen Vereinbarung."
+      },
+      "section4": {
+        "title": "4. Vergütung und Zahlungsbedingungen",
+        "content": "Die Vergütung richtet sich nach der jeweils gültigen Preisliste. Rechnungen sind innerhalb von 14 Tagen nach Rechnungsdatum ohne Abzug zur Zahlung fällig."
+      },
+      "section5": {
+        "title": "5. Haftung",
+        "content": "Wir haften uneingeschränkt für Vorsatz und grobe Fahrlässigkeit. Bei leichter Fahrlässigkeit haften wir nur bei Verletzung wesentlicher Vertragspflichten."
+      }
+    }
+  }
+}

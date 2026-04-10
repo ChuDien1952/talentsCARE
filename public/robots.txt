@@ -1,0 +1,10 @@
+# robots.txt for talentsCARE
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://talentscare.github.io/sitemap.xml
+
+# Block any draft or admin pages (if they exist in future)
+Disallow: /draft/
+Disallow: /admin/
