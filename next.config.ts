@@ -9,8 +9,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true, // Required for static export
   },
-  // basePath if deploying to subdirectory (username.github.io/repo)
-  // basePath: '/talentsCARE',
+  // basePath for GitHub Pages deployment (username.github.io/repo)
+  basePath: '/talentsCARE',
 };
 
 export default withNextIntl(nextConfig);

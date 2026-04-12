@@ -6,7 +6,7 @@
 import { writeFileSync } from 'fs';
 import { resolve } from 'path';
 
-const baseUrl = 'https://talentscare.github.io';
+const baseUrl = 'https://chudien1952.github.io/talentsCARE';
 const locales = ['de', 'en', 'vi'] as const;
 
 // Define all pages in the application
