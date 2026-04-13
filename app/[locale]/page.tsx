@@ -1,13 +1,15 @@
 /**
  * Home Page
- * Landing page with hero, services preview, and statistics
+ * Modern landing page with carousel hero, services, approach, portfolio, and contact
  */
 
 import { setRequestLocale } from 'next-intl/server';
 import { locales } from '@/lib/i18n/config';
-import { Hero } from '@/components/sections/hero';
-import { ServicesPreview } from '@/components/sections/services-preview';
-import { StatsBar } from '@/components/sections/stats-bar';
+import { HeroCarousel } from '@/components/sections/hero-carousel';
+import { ServicesGrid } from '@/components/sections/services-grid';
+import { ApproachSection } from '@/components/sections/approach-section';
+import { PortfolioGrid } from '@/components/sections/portfolio-grid';
+import { ContactSection } from '@/components/sections/contact-section';
 
 // Generate static params for all locales
 export function generateStaticParams() {
@@ -26,9 +28,11 @@ export default async function HomePage({ params }: Props) {
 
   return (
     <>
-      <Hero />
-      <ServicesPreview />
-      <StatsBar />
+      <HeroCarousel />
+      <ServicesGrid />
+      <ApproachSection />
+      <PortfolioGrid />
+      <ContactSection />
     </>
   );
 }

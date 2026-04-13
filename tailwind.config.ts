@@ -8,26 +8,42 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        // Brand red from reference design
         primary: {
-          DEFAULT: '#0B5345',
-          50: '#E8F5F2',
-          100: '#C5E8E0',
-          500: '#0B5345',
-          600: '#094438',
-          700: '#07352B',
+          DEFAULT: '#e20b0b',
+          hover: '#ea0b0b',
+          dark: '#c10909',
         },
-        accent: {
-          DEFAULT: '#148F77',
-          light: '#1ABC9C',
+        // Dark grays for text and backgrounds
+        dark: {
+          DEFAULT: '#000000',
+          100: '#1d1d1d',
+          200: '#2a2a2a',
         },
-        highlight: {
-          DEFAULT: '#D4AC0D',
-          light: '#F1C40F',
+        // Text colors
+        text: {
+          DEFAULT: '#000000',
+          body: '#5f6973',
+          light: '#8a8a8a',
         },
       },
       fontFamily: {
         sans: ['var(--font-inter)', 'sans-serif'],
         display: ['var(--font-display)', 'sans-serif'],
+      },
+      fontSize: {
+        'hero': ['18vw', { lineHeight: '1', fontWeight: '700' }],
+        'h1': ['55px', { lineHeight: '1.2', fontWeight: '700' }],
+        'h2': ['40px', { lineHeight: '1.3', fontWeight: '500' }],
+        'h3': ['30px', { lineHeight: '1.4', fontWeight: '500' }],
+        'body': ['17px', { lineHeight: '1.64' }],
+      },
+      spacing: {
+        '100': '100px',
+        '60': '60px',
+      },
+      backgroundImage: {
+        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
       },
     },
   },

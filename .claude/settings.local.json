@@ -44,7 +44,12 @@
       "Bash(FILTER_BRANCH_SQUELCH_WARNING=1 git filter-branch:*)",
       "Bash(gh --version:*)",
       "Bash(gh auth:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(git checkout:*)",
+      "Bash(echo.:*)",
+      "Bash(git restore:*)",
+      "Skill(frontend-design-pro)",
+      "Bash(if not exist \"public\\images\" mkdir \"public\\images\")"
     ]
   }
 }

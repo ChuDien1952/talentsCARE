@@ -8,7 +8,8 @@
       "about": "Über uns",
       "team": "Team",
       "blog": "Aktuelles",
-      "contact": "Kontakt"
+      "contact": "Kontakt",
+      "sendMessage": "Nachricht senden"
     },
     "footer": {
       "company": "talentsCARE",
@@ -16,7 +17,12 @@
       "rights": "Alle Rechte vorbehalten",
       "privacy": "Datenschutz",
       "imprint": "Impressum",
-      "terms": "AGB"
+      "terms": "AGB",
+      "partnership": {
+        "heading": "Bereit für die Zusammenarbeit?",
+        "text": "Lassen Sie uns gemeinsam die perfekte Lösung für Ihre HR-Herausforderungen finden",
+        "cta": "Kontakt aufnehmen"
+      }
     },
     "cta": {
       "learnMore": "Mehr erfahren",
@@ -396,6 +402,24 @@
           "icon": "calendar"
         }
       }
+    },
+    "heading": "Unsere Leistungen",
+    "subheading": "Maßgeschneiderte Lösungen für Arbeitgeber und internationale Talente",
+    "recruitment": {
+      "title": "Rekrutierung & Auswahl",
+      "desc": "Strategische Talentakquise und professionelles Auswahlverfahren für internationale Fachkräfte"
+    },
+    "training": {
+      "title": "Schulung & Entwicklung",
+      "desc": "Individuelle Weiterbildungsprogramme und berufliche Entwicklungsmaßnahmen"
+    },
+    "integration": {
+      "title": "Integration & Begleitung",
+      "desc": "Umfassende Unterstützung bei der Integration in Unternehmen und Gesellschaft"
+    },
+    "consulting": {
+      "title": "Beratung & Coaching",
+      "desc": "Professionelles Coaching und strategische HR-Beratung für nachhaltige Erfolge"
     }
   },
   "about": {
@@ -492,12 +516,12 @@
     "formHeadline": "Schreiben Sie uns",
     "infoHeadline": "Kontaktinformationen",
     "form": {
-      "name": "Name",
-      "email": "E-Mail",
+      "name": "Ihr Name",
+      "email": "E-Mail Adresse",
       "phone": "Telefon",
-      "company": "Unternehmen",
+      "company": "Unternehmen (optional)",
       "subject": "Betreff",
-      "message": "Nachricht",
+      "message": "Ihre Nachricht",
       "submit": "Nachricht senden",
       "success": "Vielen Dank für Ihre Nachricht. Wir melden uns bald bei Ihnen.",
       "error": "Leider ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
@@ -509,7 +533,11 @@
       "hours": "Öffnungszeiten",
       "hoursWeekday": "Mo-Fr: 09:00 - 18:00 Uhr",
       "hoursWeekend": "Sa-So: Geschlossen"
-    }
+    },
+    "heading": "Lassen Sie uns reden",
+    "subheading": "Kontaktieren Sie uns für ein unverbindliches Erstgespräch über Ihre HR-Herausforderungen",
+    "phone": "Telefon",
+    "address": "Adresse"
   },
   "notFound": {
     "headline": "Seite nicht gefunden",
@@ -591,5 +619,76 @@
         "content": "Wir haften uneingeschränkt für Vorsatz und grobe Fahrlässigkeit. Bei leichter Fahrlässigkeit haften wir nur bei Verletzung wesentlicher Vertragspflichten."
       }
     }
+  },
+  "hero": {
+    "slide1": {
+      "title": "Integration & Entwicklung",
+      "subtitle": "Professionelle Begleitung für internationale Fachkräfte in Deutschland"
+    },
+    "slide2": {
+      "title": "Talente & Teams",
+      "subtitle": "Wir verbinden Unternehmen mit den besten internationalen Talenten"
+    },
+    "slide3": {
+      "title": "Schulung & Coaching",
+      "subtitle": "Maßgeschneiderte Entwicklungsprogramme für nachhaltigen Erfolg"
+    },
+    "cta": "Jetzt beraten lassen",
+    "scroll": "Scrollen"
+  },
+  "approach": {
+    "heading": "Unser Ansatz",
+    "subheading": "Ein strukturierter Weg zum Erfolg - von der ersten Kontaktaufnahme bis zur vollständigen Integration",
+    "step1": {
+      "title": "Bedarfsanalyse",
+      "desc": "Wir analysieren Ihre spezifischen Anforderungen und entwickeln eine maßgeschneiderte Strategie für Ihren Erfolg."
+    },
+    "step2": {
+      "title": "Talentsuche & Auswahl",
+      "desc": "Gezielte Rekrutierung und professionelles Assessment der qualifiziertesten Kandidaten aus unserem Netzwerk."
+    },
+    "step3": {
+      "title": "Onboarding & Schulung",
+      "desc": "Strukturierte Einarbeitung mit kultureller Orientierung und fachlicher Qualifizierung."
+    },
+    "step4": {
+      "title": "Begleitung & Entwicklung",
+      "desc": "Kontinuierliche Unterstützung und individuelle Entwicklungsprogramme für langfristigen Erfolg."
+    }
+  },
+  "portfolio": {
+    "heading": "Erfolgsgeschichten",
+    "subheading": "Entdecken Sie, wie wir Unternehmen und Talente erfolgreich zusammenbringen",
+    "filter": {
+      "all": "Alle",
+      "recruitment": "Rekrutierung",
+      "training": "Schulung",
+      "integration": "Integration"
+    },
+    "case1": {
+      "title": "Fachkräfte für IT-Unternehmen",
+      "category": "Rekrutierung"
+    },
+    "case2": {
+      "title": "Leadership-Programm",
+      "category": "Schulung"
+    },
+    "case3": {
+      "title": "Kulturelle Integration",
+      "category": "Integration"
+    },
+    "case4": {
+      "title": "Healthcare Professionals",
+      "category": "Rekrutierung"
+    },
+    "case5": {
+      "title": "Sprach & Fachtraining",
+      "category": "Schulung"
+    },
+    "case6": {
+      "title": "Team-Integration",
+      "category": "Integration"
+    },
+    "viewAll": "Alle Projekte ansehen"
   }
 }

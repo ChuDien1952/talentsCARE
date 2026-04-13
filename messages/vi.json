@@ -8,7 +8,8 @@
       "about": "Về chúng tôi",
       "team": "Đội ngũ",
       "blog": "Tin tức",
-      "contact": "Liên hệ"
+      "contact": "Liên hệ",
+      "sendMessage": "Gửi tin nhắn"
     },
     "footer": {
       "company": "talentsCARE",
@@ -16,7 +17,12 @@
       "rights": "Bảo lưu mọi quyền",
       "privacy": "Chính sách bảo mật",
       "imprint": "Thông tin xuất bản",
-      "terms": "Điều khoản & Điều kiện"
+      "terms": "Điều khoản & Điều kiện",
+      "partnership": {
+        "heading": "Sẵn sàng hợp tác?",
+        "text": "Hãy cùng nhau tìm giải pháp hoàn hảo cho các thách thức HR của bạn",
+        "cta": "Liên hệ ngay"
+      }
     },
     "cta": {
       "learnMore": "Tìm hiểu thêm",
@@ -396,6 +402,24 @@
         "description": "Hãy cùng định hình con đường thành công của bạn.",
         "button": "Yêu Cầu Tư Vấn Ngay"
       }
+    },
+    "heading": "Dịch vụ của chúng tôi",
+    "subheading": "Giải pháp tùy chỉnh cho nhà tuyển dụng và nhân tài quốc tế",
+    "recruitment": {
+      "title": "Tuyển dụng & Tuyển chọn",
+      "desc": "Thu hút nhân tài chiến lược và quy trình tuyển chọn chuyên nghiệp cho chuyên gia quốc tế"
+    },
+    "training": {
+      "title": "Đào tạo & Phát triển",
+      "desc": "Chương trình đào tạo cá nhân hóa và biện pháp phát triển nghề nghiệp"
+    },
+    "integration": {
+      "title": "Hội nhập & Hỗ trợ",
+      "desc": "Hỗ trợ toàn diện cho việc hội nhập vào doanh nghiệp và xã hội"
+    },
+    "consulting": {
+      "title": "Tư vấn & Huấn luyện",
+      "desc": "Huấn luyện chuyên nghiệp và tư vấn HR chiến lược cho thành công bền vững"
     }
   },
   "about": {
@@ -476,12 +500,12 @@
     "subtitle": "Nói chuyện với chúng tôi",
     "intro": "Bạn có câu hỏi hoặc muốn tìm hiểu thêm về dịch vụ của chúng tôi? Chúng tôi mong nhận được tin nhắn từ bạn.",
     "form": {
-      "name": "Tên",
-      "email": "Email",
+      "name": "Tên của bạn",
+      "email": "Địa chỉ email",
       "phone": "Điện thoại",
-      "company": "Công ty",
+      "company": "Công ty (tùy chọn)",
       "subject": "Chủ đề",
-      "message": "Tin nhắn",
+      "message": "Tin nhắn của bạn",
       "submit": "Gửi tin nhắn",
       "success": "Cảm ơn bạn đã nhắn tin. Chúng tôi sẽ phản hồi sớm.",
       "error": "Rất tiếc, đã xảy ra lỗi. Vui lòng thử lại."
@@ -499,7 +523,11 @@
       "description": "Bạn có câu hỏi hoặc muốn tìm hiểu thêm về dịch vụ của chúng tôi? Chúng tôi mong nhận được tin nhắn của bạn."
     },
     "formHeadline": "Gửi Tin Nhắn",
-    "infoHeadline": "Thông Tin Liên Hệ"
+    "infoHeadline": "Thông Tin Liên Hệ",
+    "heading": "Hãy nói chuyện",
+    "subheading": "Liên hệ với chúng tôi để được tư vấn ban đầu không ràng buộc về các thách thức HR của bạn",
+    "phone": "Điện thoại",
+    "address": "Địa chỉ"
   },
   "blog": {
     "hero": {
@@ -592,5 +620,76 @@
         "content": "Chúng tôi hoàn toàn chịu trách nhiệm cho hành vi cố ý và sơ suất nghiêm trọng. Trong trường hợp sơ suất nhẹ, chúng tôi chỉ chịu trách nhiệm cho vi phạm nghĩa vụ hợp đồng thiết yếu."
       }
     }
+  },
+  "hero": {
+    "slide1": {
+      "title": "Hội nhập & Phát triển",
+      "subtitle": "Hỗ trợ chuyên nghiệp cho nhân tài quốc tế tại Đức"
+    },
+    "slide2": {
+      "title": "Nhân tài & Đội ngũ",
+      "subtitle": "Chúng tôi kết nối doanh nghiệp với nhân tài quốc tế xuất sắc"
+    },
+    "slide3": {
+      "title": "Đào tạo & Huấn luyện",
+      "subtitle": "Chương trình phát triển tùy chỉnh cho thành công bền vững"
+    },
+    "cta": "Nhận tư vấn ngay",
+    "scroll": "Cuộn xuống"
+  },
+  "approach": {
+    "heading": "Phương pháp của chúng tôi",
+    "subheading": "Con đường có cấu trúc đến thành công - từ tiếp xúc đầu tiên đến hội nhập hoàn toàn",
+    "step1": {
+      "title": "Phân tích nhu cầu",
+      "desc": "Chúng tôi phân tích yêu cầu cụ thể của bạn và phát triển chiến lược phù hợp cho thành công của bạn."
+    },
+    "step2": {
+      "title": "Tìm kiếm & Tuyển chọn nhân tài",
+      "desc": "Tuyển dụng mục tiêu và đánh giá chuyên nghiệp các ứng viên đủ tiêu chuẩn nhất từ mạng lưới của chúng tôi."
+    },
+    "step3": {
+      "title": "Hội nhập & Đào tạo",
+      "desc": "Định hướng có cấu trúc với nhận thức văn hóa và trình độ chuyên môn."
+    },
+    "step4": {
+      "title": "Hỗ trợ & Phát triển",
+      "desc": "Hỗ trợ liên tục và chương trình phát triển cá nhân cho thành công lâu dài."
+    }
+  },
+  "portfolio": {
+    "heading": "Câu chuyện thành công",
+    "subheading": "Khám phá cách chúng tôi kết nối thành công doanh nghiệp và nhân tài",
+    "filter": {
+      "all": "Tất cả",
+      "recruitment": "Tuyển dụng",
+      "training": "Đào tạo",
+      "integration": "Hội nhập"
+    },
+    "case1": {
+      "title": "Chuyên gia IT cho công ty công nghệ",
+      "category": "Tuyển dụng"
+    },
+    "case2": {
+      "title": "Chương trình lãnh đạo",
+      "category": "Đào tạo"
+    },
+    "case3": {
+      "title": "Hội nhập văn hóa",
+      "category": "Hội nhập"
+    },
+    "case4": {
+      "title": "Chuyên gia y tế",
+      "category": "Tuyển dụng"
+    },
+    "case5": {
+      "title": "Đào tạo ngôn ngữ & chuyên môn",
+      "category": "Đào tạo"
+    },
+    "case6": {
+      "title": "Hội nhập đội ngũ",
+      "category": "Hội nhập"
+    },
+    "viewAll": "Xem tất cả dự án"
   }
 }

@@ -14,15 +14,44 @@ export function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-primary text-white py-16">
-      <Container>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+    <footer className="bg-primary-dark py-20 text-white">
+      <div className="mx-auto max-w-7xl px-6">
+        {/* Partnership CTA */}
+        <div className="mb-16 border-b border-white/10 pb-16 text-center">
+          <h3 className="mb-6 font-display text-h3">
+            {t('partnership.heading')}
+          </h3>
+          <p className="mx-auto mb-8 max-w-2xl text-lg text-white/80">
+            {t('partnership.text')}
+          </p>
+          <Link
+            href="/contact"
+            className="inline-flex items-center gap-2 rounded-md border-2 border-white bg-transparent px-8 py-4 text-base font-medium text-white transition-all hover:bg-white hover:text-primary-dark"
+          >
+            {t('partnership.cta')}
+            <svg
+              className="h-5 w-5"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth={2}
+                d="M17 8l4 4m0 0l-4 4m4-4H3"
+              />
+            </svg>
+          </Link>
+        </div>
+
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div>
-            <h3 className="text-2xl font-display font-bold mb-4">
+            <h3 className="mb-4 font-display text-2xl font-bold">
               {t('company')}
             </h3>
-            <p className="text-white/80 mb-4">{t('tagline')}</p>
+            <p className="mb-4 text-white/80">{t('tagline')}</p>
           </div>
 
           {/* Navigation */}
@@ -114,10 +143,10 @@ export function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="mt-12 pt-8 border-t border-white/20 text-center text-white/60 text-sm">
+        <div className="mt-12 border-t border-white/10 pt-8 text-center text-sm text-white/60">
           &copy; {currentYear} {t('company')}. {t('rights')}.
         </div>
-      </Container>
+      </div>
     </footer>
   );
 }
