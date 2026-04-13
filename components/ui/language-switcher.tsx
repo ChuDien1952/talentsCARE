@@ -89,10 +89,9 @@ export function LanguageSwitcher() {
                 aria-label={`Switch to ${localeNames[l]}`}
                 aria-current={locale === l ? 'true' : 'false'}
               >
-                <span className="text-base" aria-hidden="true">
+                <span className="text-xl" aria-hidden="true">
                   {localeFlags[l]}
                 </span>
-                <span className="font-semibold text-gray-500">{localeCountryCodes[l]}</span>
                 <span className="flex-1 text-left">{localeNames[l]}</span>
                 {locale === l && (
                   <svg
