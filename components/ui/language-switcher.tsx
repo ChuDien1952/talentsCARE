@@ -11,15 +11,15 @@ import { usePathname, useRouter } from '@/lib/i18n/navigation';
 import {
   locales,
   localeNames,
-  localeFlags,
   type Locale,
 } from '@/lib/i18n/config';
+import { DE, GB, VN } from 'country-flag-icons/react/3x2';
 
-// Locale code to country code mapping for display
-const localeCountryCodes: Record<Locale, string> = {
-  de: 'DE',
-  en: 'GB',
-  vi: 'VN',
+// Locale to flag component mapping
+const localeFlagComponents: Record<Locale, any> = {
+  de: DE,
+  en: GB,
+  vi: VN,
 };
 
 export function LanguageSwitcher() {
@@ -46,6 +46,8 @@ export function LanguageSwitcher() {
     return () => document.removeEventListener('mousedown', handleClickOutside);
   }, []);
 
+  const FlagIcon = localeFlagComponents[locale];
+
   return (
     <div className="relative" ref={dropdownRef}>
       {/* Dropdown Trigger Button */}
@@ -56,9 +58,7 @@ export function LanguageSwitcher() {
         aria-haspopup="true"
         aria-label="Select language"
       >
-        <span className="text-lg" aria-hidden="true">
-          {localeFlags[locale]}
-        </span>
+        <FlagIcon className="h-5 w-5 rounded-sm" aria-hidden="true" />
         <span>{localeNames[locale]}</span>
         <svg
           className={`h-4 w-4 transition-transform ${isOpen ? 'rotate-180' : ''}`}
@@ -75,39 +75,40 @@ export function LanguageSwitcher() {
       {isOpen && (
         <div className="absolute right-0 z-50 mt-2 w-48 rounded-md border border-gray-200 bg-white shadow-lg ring-1 ring-black ring-opacity-5">
           <div className="py-1" role="menu" aria-orientation="vertical">
-            {locales.map((l) => (
-              <button
-                key={l}
-                onClick={() => handleChange(l)}
-                className={`flex w-full items-center gap-3 px-4 py-2 text-sm transition-colors ${
-                  locale === l
-                    ? 'bg-primary/10 text-primary font-medium'
-                    : 'text-gray-700 hover:bg-gray-50'
-                }`}
-                role="menuitem"
-                aria-label={`Switch to ${localeNames[l]}`}
-                aria-current={locale === l ? 'true' : 'false'}
-              >
-                <span className="text-xl" aria-hidden="true">
-                  {localeFlags[l]}
-                </span>
-                <span className="flex-1 text-left">{localeNames[l]}</span>
-                {locale === l && (
-                  <svg
-                    className="h-4 w-4 text-primary"
-                    fill="currentColor"
-                    viewBox="0 0 20 20"
-                    aria-hidden="true"
-                  >
-                    <path
-                      fillRule="evenodd"
-                      d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-                      clipRule="evenodd"
-                    />
-                  </svg>
-                )}
-              </button>
-            ))}
+            {locales.map((l) => {
+              const MenuFlagIcon = localeFlagComponents[l];
+              return (
+                <button
+                  key={l}
+                  onClick={() => handleChange(l)}
+                  className={`flex w-full items-center gap-3 px-4 py-2 text-sm transition-colors ${
+                    locale === l
+                      ? 'bg-primary/10 text-primary font-medium'
+                      : 'text-gray-700 hover:bg-gray-50'
+                  }`}
+                  role="menuitem"
+                  aria-label={`Switch to ${localeNames[l]}`}
+                  aria-current={locale === l ? 'true' : 'false'}
+                >
+                  <MenuFlagIcon className="h-5 w-5 rounded-sm" aria-hidden="true" />
+                  <span className="flex-1 text-left">{localeNames[l]}</span>
+                  {locale === l && (
+                    <svg
+                      className="h-4 w-4 text-primary"
+                      fill="currentColor"
+                      viewBox="0 0 20 20"
+                      aria-hidden="true"
+                    >
+                      <path
+                        fillRule="evenodd"
+                        d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                        clipRule="evenodd"
+                      />
+                    </svg>
+                  )}
+                </button>
+              );
+            })}
           </div>
         </div>
       )}
