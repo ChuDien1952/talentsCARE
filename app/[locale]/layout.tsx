@@ -14,10 +14,15 @@ import { Header } from '@/components/layout/header';
 import { Footer } from '@/components/layout/footer';
 import '../globals.css';
 
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
+const inter = Inter({
+  subsets: ['latin', 'latin-ext', 'vietnamese'],
+  variable: '--font-inter',
+  display: 'swap',
+});
 const montserrat = Montserrat({
-  subsets: ['latin'],
+  subsets: ['latin', 'latin-ext', 'vietnamese'],
   variable: '--font-display',
+  display: 'swap',
 });
 
 // Generate static params for all locales

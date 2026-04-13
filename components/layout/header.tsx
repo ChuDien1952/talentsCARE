@@ -8,6 +8,7 @@
 import { useState, useEffect } from 'react';
 import { useTranslations } from 'next-intl';
 import { Link } from '@/lib/i18n/navigation';
+import { Logo } from '@/components/ui/logo';
 import { LanguageSwitcher } from '@/components/ui/language-switcher';
 import { MobileMenu } from './mobile-menu';
 
@@ -43,12 +44,7 @@ export function Header() {
       <div className="mx-auto max-w-7xl px-6">
         <nav className="flex items-center justify-between">
           {/* Logo */}
-          <Link
-            href="/"
-            className="font-display text-2xl font-bold text-dark transition-colors hover:text-primary"
-          >
-            talentsCARE
-          </Link>
+          <Logo variant="dark" size="md" showTagline={!scrolled} />
 
           {/* Desktop Nav */}
           <div className="hidden items-center gap-8 lg:flex">

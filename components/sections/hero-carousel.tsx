@@ -72,13 +72,18 @@ export function HeroCarousel() {
           <div className="absolute inset-0 bg-black/40" />
 
           {/* Hero Content */}
-          <div className="relative z-10 flex h-full items-center justify-center px-6 text-center">
-            <div className="max-w-7xl">
+          <div className="relative z-10 flex h-full items-center justify-center px-4 text-center sm:px-6">
+            <div className="w-full max-w-7xl">
               <motion.h1
                 initial={{ y: 40, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.2, duration: 0.8 }}
-                className="mb-6 font-display text-hero leading-none text-white"
+                className="mb-4 font-display text-hero leading-tight text-white sm:mb-6 sm:leading-none"
+                style={{
+                  wordBreak: 'keep-all',
+                  overflowWrap: 'normal',
+                  hyphens: 'manual'
+                }}
               >
                 {t(slides[currentSlide].titleKey)}
               </motion.h1>
@@ -86,7 +91,7 @@ export function HeroCarousel() {
                 initial={{ y: 40, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.4, duration: 0.8 }}
-                className="mx-auto max-w-2xl text-xl text-white/90"
+                className="mx-auto max-w-2xl text-base text-white/90 sm:text-lg md:text-xl"
               >
                 {t(slides[currentSlide].subtitleKey)}
               </motion.p>
@@ -96,12 +101,12 @@ export function HeroCarousel() {
                 initial={{ y: 40, opacity: 0 }}
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ delay: 0.6, duration: 0.8 }}
-                className="mt-12"
+                className="mt-8 sm:mt-12"
               >
-                <button className="group inline-flex items-center gap-3 border-2 border-white bg-transparent px-8 py-4 text-lg font-medium text-white transition-all hover:bg-white hover:text-dark">
+                <button className="group inline-flex items-center gap-2 border-2 border-white bg-transparent px-6 py-3 text-sm font-medium text-white transition-all hover:bg-white hover:text-dark sm:gap-3 sm:px-8 sm:py-4 sm:text-base md:text-lg">
                   {t('hero.cta')}
                   <svg
-                    className="h-6 w-6 transition-transform group-hover:translate-x-1"
+                    className="h-5 w-5 transition-transform group-hover:translate-x-1 sm:h-6 sm:w-6"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"

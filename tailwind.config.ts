@@ -32,11 +32,11 @@ const config: Config = {
         display: ['var(--font-display)', 'sans-serif'],
       },
       fontSize: {
-        'hero': ['18vw', { lineHeight: '1', fontWeight: '700' }],
-        'h1': ['55px', { lineHeight: '1.2', fontWeight: '700' }],
-        'h2': ['40px', { lineHeight: '1.3', fontWeight: '500' }],
-        'h3': ['30px', { lineHeight: '1.4', fontWeight: '500' }],
-        'body': ['17px', { lineHeight: '1.64' }],
+        'hero': ['clamp(3rem, 12vw, 12rem)', { lineHeight: '1.1', fontWeight: '700', letterSpacing: '-0.02em' }],
+        'h1': ['clamp(2rem, 5vw, 3.5rem)', { lineHeight: '1.2', fontWeight: '700' }],
+        'h2': ['clamp(1.75rem, 4vw, 2.5rem)', { lineHeight: '1.3', fontWeight: '500' }],
+        'h3': ['clamp(1.25rem, 3vw, 1.875rem)', { lineHeight: '1.4', fontWeight: '500' }],
+        'body': ['clamp(0.9375rem, 1vw, 1.0625rem)', { lineHeight: '1.64' }],
       },
       spacing: {
         '100': '100px',
