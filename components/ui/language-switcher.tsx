@@ -56,10 +56,8 @@ export function LanguageSwitcher() {
         aria-haspopup="true"
         aria-label="Select language"
       >
-        <span className="text-base" aria-hidden="true">
-          {localeFlags[locale]}
-        </span>
         <span className="font-semibold">{localeCountryCodes[locale]}</span>
+        <span>{localeNames[locale]}</span>
         <svg
           className={`h-4 w-4 transition-transform ${isOpen ? 'rotate-180' : ''}`}
           fill="none"
