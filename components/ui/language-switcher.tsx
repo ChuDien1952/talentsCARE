@@ -60,7 +60,6 @@ export function LanguageSwitcher() {
           {localeFlags[locale]}
         </span>
         <span className="font-semibold">{localeCountryCodes[locale]}</span>
-        <span className="font-semibold">{locale.toUpperCase()}</span>
         <svg
           className={`h-4 w-4 transition-transform ${isOpen ? 'rotate-180' : ''}`}
           fill="none"
