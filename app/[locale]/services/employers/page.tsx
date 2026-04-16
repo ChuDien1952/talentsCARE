@@ -76,7 +76,7 @@ export default async function EmployersPage({ params }: Props) {
               {t('hero.description')}
             </p>
             <p className="text-2xl font-semibold text-[#FDB927] mt-8 mb-8">
-              Recruiting ist nur der erste Schritt – echte Fachkräftegewinnung bedeutet nachhaltige Integration
+              {t('tagline')}
             </p>
             <Button size="lg" variant="secondary" asChild>
               <Link href="/contact">{t('hero.cta')}</Link>
@@ -90,14 +90,14 @@ export default async function EmployersPage({ params }: Props) {
         <Container>
           <div className="max-w-4xl mx-auto">
             <h2 className="font-display text-h2 font-bold text-primary mb-8 text-center">
-              Warum talentsCARE?
+              {t('intro.headline')}
             </h2>
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                Wir unterstützen Unternehmen dabei, internationale Fachkräfte nicht nur zu gewinnen, sondern langfristig zu halten. Mit praxisnahen Onboarding-Programmen, interkulturellem Training und bundesweit flächendeckendem Mentoring schaffen wir die Basis für nachhaltige Integration, stabile Teams und langfristigen Unternehmenserfolg.
+                {t('intro.paragraph1')}
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Der Fachkräftemangel stellt viele Unternehmen vor große Herausforderungen – besonders bei nachhaltiger Integration und langfristiger Mitarbeiterbindung.
+                {t('intro.paragraph2')}
               </p>
             </div>
           </div>
@@ -131,78 +131,78 @@ export default async function EmployersPage({ params }: Props) {
             {/* Recruiting Beratung */}
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-2xl font-display font-bold text-primary mb-4">
-                Recruiting-Beratung
+                {t('detailedServices.recruiting.title')}
               </h3>
               <p className="text-gray-600 mb-4">
-                Zielgruppe: Unternehmen mit offenen Stellen für Fachkräfte und Azubis aus Drittstaaten
+                {t('detailedServices.recruiting.audience')}
               </p>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                Wir finden Fachkräfte und Azubis aus Drittstaaten, die fachlich und menschlich zu Ihrem Unternehmen passen. Unsere Beratung umfasst Bedarfsanalyse, Stellenprofil-Erstellung und Matching mit vorqualifizierten Kandidaten aus dem VIETconsult-Netzwerk.
+                {t('detailedServices.recruiting.description')}
               </p>
             </div>
 
             {/* Onboarding Programme */}
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-2xl font-display font-bold text-primary mb-4">
-                Onboarding-Programme
+                {t('detailedServices.onboarding.title')}
               </h3>
               <p className="text-gray-600 mb-4">
-                Zielgruppe: Neue internationale Mitarbeitende, deren Teams und Führungskräfte
+                {t('detailedServices.onboarding.audience')}
               </p>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                Wir gestalten den Start systematisch – für Talente, Teams und Führungskräfte. Ein strukturiertes Onboarding reduziert die Einarbeitungszeit und erhöht die Bindung von Anfang an.
+                {t('detailedServices.onboarding.description')}
               </p>
             </div>
 
             {/* Interkulturelles Training */}
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-2xl font-display font-bold text-primary mb-4">
-                Interkulturelles Training
+                {t('detailedServices.training.title')}
               </h3>
               <p className="text-gray-600 mb-4">
-                Zielgruppe: Teams, Abteilungen und Führungskräfte, die mit internationalen Kollegen arbeiten
+                {t('detailedServices.training.audience')}
               </p>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                Wir schulen Teams und Führungskräfte, um Zusammenarbeit und Kommunikation zu verbessern. Aus Vielfalt wird Stärke – Missverständnisse werden vermieden, Zusammenarbeit gestärkt.
+                {t('detailedServices.training.description')}
               </p>
             </div>
 
             {/* Mentoring Programme */}
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-2xl font-display font-bold text-primary mb-4">
-                Mentoring-Programme
+                {t('detailedServices.mentoring.title')}
               </h3>
               <p className="text-gray-600 mb-4">
-                Zielgruppe: Unternehmen, die ein strukturiertes Mentoring-System aufbauen möchten
+                {t('detailedServices.mentoring.audience')}
               </p>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                Ein bewährtes Instrument für nachhaltige Integration. Mentoring schafft Vertrauen und trägt zur langfristigen Fachkräftebindung bei.
+                {t('detailedServices.mentoring.description')}
               </p>
             </div>
 
             {/* Fachkräftebindung */}
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-2xl font-display font-bold text-primary mb-4">
-                Fachkräftebindung
+                {t('detailedServices.retention.title')}
               </h3>
               <p className="text-gray-600 mb-4">
-                Zielgruppe: Unternehmen mit bestehenden internationalen Mitarbeitenden
+                {t('detailedServices.retention.audience')}
               </p>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                Wir entwickeln Strategien, damit Talente nicht nur bleiben, sondern sich fachlich und persönlich weiterentwickeln.
+                {t('detailedServices.retention.description')}
               </p>
             </div>
 
             {/* Starke Kooperation */}
             <div className="bg-gray-50 rounded-lg p-8">
               <h3 className="text-2xl font-display font-bold text-primary mb-4">
-                Starke Kooperation
+                {t('detailedServices.cooperation.title')}
               </h3>
               <p className="text-gray-600 mb-4">
-                Zielgruppe: Behörden, Kammern, Bildungsträger und Unternehmen
+                {t('detailedServices.cooperation.audience')}
               </p>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                Wir übernehmen die Abstimmung mit Behörden, Kammern und Institutionen und gestalten gemeinsam praxisnahe Formate.
+                {t('detailedServices.cooperation.description')}
               </p>
             </div>
           </div>

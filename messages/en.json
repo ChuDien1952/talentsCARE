@@ -81,9 +81,9 @@
   "services": {
     "employers": {
       "intro": {
-        "title": "Services for Employers",
-        "subtitle": "Successful Integration Begins with the Right Strategy",
-        "description": "We support you in recruiting, integrating, and retaining international professionals."
+        "headline": "Why talentsCARE?",
+        "paragraph1": "We support companies in not only attracting international professionals but also retaining them long-term. With practical onboarding programs, intercultural training, and nationwide mentoring, we create the foundation for sustainable integration, stable teams, and long-term business success.",
+        "paragraph2": "The skills shortage poses major challenges for many companies – especially regarding sustainable integration and long-term employee retention."
       },
       "items": {
         "seminare": {
@@ -239,13 +239,45 @@
         "headline": "Ready to Strengthen Your Team?",
         "description": "Let's develop your integration strategy together.",
         "button": "Contact Us Now"
+      },
+      "tagline": "Recruitment is only the first step – true talent acquisition means sustainable integration",
+      "detailedServices": {
+        "recruiting": {
+          "title": "Recruitment Consulting",
+          "audience": "Target Audience: Companies with open positions for professionals and trainees from third countries",
+          "description": "We find professionals and trainees from third countries who fit your company both professionally and personally. Our consulting includes needs analysis, job profile creation, and matching with pre-qualified candidates from the VIETconsult network."
+        },
+        "onboarding": {
+          "title": "Onboarding Programs",
+          "audience": "Target Audience: New international employees, their teams, and managers",
+          "description": "We design the start systematically – for talents, teams, and managers. Structured onboarding reduces onboarding time and increases commitment from day one."
+        },
+        "training": {
+          "title": "Intercultural Training",
+          "audience": "Target Audience: Teams, departments, and managers working with international colleagues",
+          "description": "We train teams and managers to improve collaboration and communication. Diversity becomes strength – misunderstandings are avoided, collaboration strengthened."
+        },
+        "mentoring": {
+          "title": "Mentoring Programs",
+          "audience": "Target Audience: Companies wanting to build a structured mentoring system",
+          "description": "A proven tool for sustainable integration. Mentoring builds trust and contributes to long-term talent retention."
+        },
+        "retention": {
+          "title": "Talent Retention",
+          "audience": "Target Audience: Companies with existing international employees",
+          "description": "We develop strategies so talents not only stay but also develop professionally and personally."
+        },
+        "cooperation": {
+          "title": "Strong Cooperation",
+          "audience": "Target Audience: Authorities, chambers, educational institutions, and companies",
+          "description": "We handle coordination with authorities, chambers, and institutions and design practical formats together."
+        }
       }
     },
     "talents": {
       "intro": {
-        "title": "Services for Talents",
-        "subtitle": "Your Path to Professional Success in Germany",
-        "description": "We accompany you on your career path with individual consulting and practical support."
+        "headline": "Your Journey to Germany",
+        "description": "We accompany international professionals on their way to Germany – from preparation in the home country to successful integration in work and daily life. With practical training, individual support, and nationwide mentoring, we create the foundation for a secure start, personal development, and long-term success."
       },
       "items": {
         "seminare": {
@@ -401,6 +433,61 @@
         "headline": "Start Your Career in Germany",
         "description": "Let's shape your success path together.",
         "button": "Request Consultation Now"
+      },
+      "tagline": "Our Goal: You should feel not only professionally but also personally safe, understood, and welcome",
+      "phasesHeadline": "Your Integration in 6 Phases",
+      "phases": {
+        "phase1": {
+          "title": "Preparation in Home Country",
+          "timeline": "Timeline: 3–6 months before arrival",
+          "description": "Together with our cooperation partners on site (VIETconsult / HDEU Vietnam), we optimally prepare talents for their start in Germany."
+        },
+        "phase2": {
+          "title": "Support for Starting in Germany",
+          "timeline": "Timeline: First 1–3 months after arrival",
+          "description": "We offer not mere accompaniment, but real support for settling in."
+        },
+        "phase3": {
+          "title": "Professional Support",
+          "timeline": "Timeline: Months 1–12 in the company",
+          "description": "Many companies limit themselves to professional onboarding – we deliberately go further."
+        },
+        "phase4": {
+          "title": "Personal Development",
+          "timeline": "Timeline: From month 6, ongoing",
+          "description": "We support talents as whole people – not just as professionals.",
+          "items": [
+            "Building professional networks: Events, industry meetings, alumni network",
+            "Building private networks: Sports clubs, cultural groups, neighborhood initiatives",
+            "Coaching for independence: Self-confidence, personal responsibility, decision-making ability",
+            "Language development: Beyond B2, technical language, understanding dialects",
+            "Career planning: What next steps are possible? Further education, advancement, specialization"
+          ]
+        },
+        "phase5": {
+          "title": "Mentoring",
+          "timeline": "Timeline: 12–24 months, extendable",
+          "description": "Our mentoring programs accompany talents individually throughout the entire integration process.",
+          "items": [
+            "Personal support by experienced mentors (1:1)",
+            "Orientation in professional and daily life",
+            "Support in building professional and social networks",
+            "Regular meetings (at least 2x monthly)",
+            "Joint goal setting and progress monitoring"
+          ]
+        },
+        "phase6": {
+          "title": "Digital Support & Learning Platforms",
+          "timeline": "Timeline: Ongoing",
+          "description": "We also support talents digitally to enable continuous learning and networking.",
+          "items": [
+            "Online learning platforms: Professional and language education (asynchronous)",
+            "Virtual networks: Exchange with other talents nationwide",
+            "Digital everyday aids: Apps and tools for authorities, housing, health",
+            "Live webinars: Monthly topic evenings on relevant integration questions",
+            "Success stories: Platform for sharing experiences and inspiration"
+          ]
+        }
       }
     },
     "heading": "Our Services",

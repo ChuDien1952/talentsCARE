@@ -63,6 +63,11 @@ export default async function TalentsPage({ params }: Props) {
     },
   ];
 
+  // Get phase items as arrays
+  const phase4Items = t.raw('phases.phase4.items') as string[];
+  const phase5Items = t.raw('phases.phase5.items') as string[];
+  const phase6Items = t.raw('phases.phase6.items') as string[];
+
   return (
     <>
       {/* Hero Section */}
@@ -76,7 +81,7 @@ export default async function TalentsPage({ params }: Props) {
               {t('hero.description')}
             </p>
             <p className="text-2xl font-semibold text-[#FDB927] mt-8 mb-8">
-              Unser Ziel: Sie sollen sich nicht nur fachlich, sondern auch menschlich sicher, verstanden und willkommen fühlen
+              {t('tagline')}
             </p>
             <Button size="lg" variant="secondary" asChild>
               <Link href="/contact">{t('hero.cta')}</Link>
@@ -90,11 +95,11 @@ export default async function TalentsPage({ params }: Props) {
         <Container>
           <div className="max-w-4xl mx-auto">
             <h2 className="font-display text-h2 font-bold text-primary mb-8 text-center">
-              Ihre Reise nach Deutschland
+              {t('intro.headline')}
             </h2>
             <div className="prose prose-lg max-w-none">
               <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                Wir begleiten internationale Fachkräfte auf ihrem Weg nach Deutschland – von der Vorbereitung im Heimatland bis zur erfolgreichen Integration im Beruf und Alltag. Mit praxisnahen Trainings, individueller Betreuung und bundesweitem Mentoring schaffen wir die Grundlage für einen sicheren Start, persönliche Entwicklung und langfristigen Erfolg.
+                {t('intro.description')}
               </p>
             </div>
           </div>
@@ -126,7 +131,7 @@ export default async function TalentsPage({ params }: Props) {
         <Container>
           <div className="max-w-5xl mx-auto">
             <h2 className="font-display text-h2 font-bold text-primary mb-12 text-center">
-              Ihre Integration in 6 Phasen
+              {t('phasesHeadline')}
             </h2>
 
             <div className="space-y-12">
@@ -138,11 +143,11 @@ export default async function TalentsPage({ params }: Props) {
                   </div>
                   <div>
                     <h3 className="text-2xl font-display font-bold text-primary mb-2">
-                      Vorbereitung im Heimatland
+                      {t('phases.phase1.title')}
                     </h3>
-                    <p className="text-gray-600 mb-4">Zeitraum: 3–6 Monate vor Einreise</p>
+                    <p className="text-gray-600 mb-4">{t('phases.phase1.timeline')}</p>
                     <p className="text-gray-700 leading-relaxed">
-                      Gemeinsam mit unseren Kooperationspartnern vor Ort (VIETconsult / HDEU Vietnam) bereiten wir Talente optimal auf ihren Start in Deutschland vor.
+                      {t('phases.phase1.description')}
                     </p>
                   </div>
                 </div>
@@ -156,11 +161,11 @@ export default async function TalentsPage({ params }: Props) {
                   </div>
                   <div>
                     <h3 className="text-2xl font-display font-bold text-primary mb-2">
-                      Unterstützung beim Start in Deutschland
+                      {t('phases.phase2.title')}
                     </h3>
-                    <p className="text-gray-600 mb-4">Zeitraum: Erste 1–3 Monate nach Ankunft</p>
+                    <p className="text-gray-600 mb-4">{t('phases.phase2.timeline')}</p>
                     <p className="text-gray-700 leading-relaxed">
-                      Wir bieten keine bloße Begleitung, sondern echte Unterstützung beim Ankommen.
+                      {t('phases.phase2.description')}
                     </p>
                   </div>
                 </div>
@@ -174,11 +179,11 @@ export default async function TalentsPage({ params }: Props) {
                   </div>
                   <div>
                     <h3 className="text-2xl font-display font-bold text-primary mb-2">
-                      Berufliche Begleitung
+                      {t('phases.phase3.title')}
                     </h3>
-                    <p className="text-gray-600 mb-4">Zeitraum: Monat 1–12 im Unternehmen</p>
+                    <p className="text-gray-600 mb-4">{t('phases.phase3.timeline')}</p>
                     <p className="text-gray-700 leading-relaxed">
-                      Viele Unternehmen beschränken sich auf fachliche Einarbeitung – wir gehen bewusst weiter.
+                      {t('phases.phase3.description')}
                     </p>
                   </div>
                 </div>
@@ -192,33 +197,19 @@ export default async function TalentsPage({ params }: Props) {
                   </div>
                   <div>
                     <h3 className="text-2xl font-display font-bold text-primary mb-2">
-                      Persönliche Entwicklung
+                      {t('phases.phase4.title')}
                     </h3>
-                    <p className="text-gray-600 mb-4">Zeitraum: Ab Monat 6, fortlaufend</p>
+                    <p className="text-gray-600 mb-4">{t('phases.phase4.timeline')}</p>
                     <p className="text-gray-700 mb-4 leading-relaxed">
-                      Wir fördern Talente als ganze Menschen – nicht nur als Fachkräfte.
+                      {t('phases.phase4.description')}
                     </p>
                     <ul className="space-y-2 text-gray-700">
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Aufbau beruflicher Netzwerke: Fachveranstaltungen, Branchentreffen, Alumni-Netzwerk</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Aufbau privater Netzwerke: Sportvereine, Kulturgruppen, Nachbarschaftsinitiativen</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Coaching zur Selbstständigkeit: Selbstvertrauen, Eigenverantwortung, Entscheidungsfähigkeit</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Sprachliche Weiterentwicklung: Über B2 hinaus, Fachsprache, Dialekte verstehen</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Karriereplanung: Welche nächsten Schritte sind möglich? Weiterbildung, Aufstieg, Spezialisierung</span>
-                      </li>
+                      {phase4Items.map((item, index) => (
+                        <li key={index} className="flex items-start">
+                          <span className="text-[#FDB927] mr-2">•</span>
+                          <span>{item}</span>
+                        </li>
+                      ))}
                     </ul>
                   </div>
                 </div>
@@ -232,33 +223,19 @@ export default async function TalentsPage({ params }: Props) {
                   </div>
                   <div>
                     <h3 className="text-2xl font-display font-bold text-primary mb-2">
-                      Mentoring
+                      {t('phases.phase5.title')}
                     </h3>
-                    <p className="text-gray-600 mb-4">Zeitraum: 12–24 Monate, erweiterbar</p>
+                    <p className="text-gray-600 mb-4">{t('phases.phase5.timeline')}</p>
                     <p className="text-gray-700 mb-4 leading-relaxed">
-                      Unsere Mentoring-Programme begleiten Talente individuell über den gesamten Integrationsprozess hinweg.
+                      {t('phases.phase5.description')}
                     </p>
                     <ul className="space-y-2 text-gray-700">
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Persönliche Begleitung durch erfahrene Mentoren (1:1)</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Orientierung im Berufs- und Alltagsleben</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Unterstützung beim Aufbau von beruflichen und sozialen Netzwerken</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Regelmäßige Treffen (mindestens 2x monatlich)</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Gemeinsame Zielvereinbarungen und Fortschrittskontrolle</span>
-                      </li>
+                      {phase5Items.map((item, index) => (
+                        <li key={index} className="flex items-start">
+                          <span className="text-[#FDB927] mr-2">•</span>
+                          <span>{item}</span>
+                        </li>
+                      ))}
                     </ul>
                   </div>
                 </div>
@@ -272,33 +249,19 @@ export default async function TalentsPage({ params }: Props) {
                   </div>
                   <div>
                     <h3 className="text-2xl font-display font-bold text-primary mb-2">
-                      Digitale Unterstützung & Lernplattformen
+                      {t('phases.phase6.title')}
                     </h3>
-                    <p className="text-gray-600 mb-4">Zeitraum: Fortlaufend</p>
+                    <p className="text-gray-600 mb-4">{t('phases.phase6.timeline')}</p>
                     <p className="text-gray-700 mb-4 leading-relaxed">
-                      Wir begleiten Talente auch digital, um kontinuierliches Lernen und Vernetzung zu ermöglichen.
+                      {t('phases.phase6.description')}
                     </p>
                     <ul className="space-y-2 text-gray-700">
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Online-Lernplattformen: Berufliche und sprachliche Weiterbildung (asynchron)</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Virtuelle Netzwerke: Austausch mit anderen Talenten deutschlandweit</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Digitale Alltagshilfen: Apps und Tools für Behörden, Wohnung, Gesundheit</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Live-Webinare: Monatliche Themenabende zu relevanten Integrationsfragen</span>
-                      </li>
-                      <li className="flex items-start">
-                        <span className="text-[#FDB927] mr-2">•</span>
-                        <span>Erfolgsgeschichten: Plattform zum Teilen von Erfahrungen und Inspiration</span>
-                      </li>
+                      {phase6Items.map((item, index) => (
+                        <li key={index} className="flex items-start">
+                          <span className="text-[#FDB927] mr-2">•</span>
+                          <span>{item}</span>
+                        </li>
+                      ))}
                     </ul>
                   </div>
                 </div>

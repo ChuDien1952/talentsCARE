@@ -81,9 +81,9 @@
   "services": {
     "employers": {
       "intro": {
-        "title": "Dịch vụ dành cho Nhà tuyển dụng",
-        "subtitle": "Hội nhập thành công bắt đầu với chiến lược đúng đắn",
-        "description": "Chúng tôi hỗ trợ bạn trong việc tuyển dụng, hội nhập và giữ chân chuyên gia quốc tế."
+        "headline": "Tại sao chọn talentsCARE?",
+        "paragraph1": "Chúng tôi hỗ trợ doanh nghiệp không chỉ thu hút nhân tài quốc tế mà còn giữ chân họ lâu dài. Với các chương trình định hướng thực tế, đào tạo liên văn hóa và cố vấn toàn quốc, chúng tôi tạo nền tảng cho sự hội nhập bền vững, đội ngũ ổn định và thành công kinh doanh lâu dài.",
+        "paragraph2": "Tình trạng thiếu hụt nhân lực đặt ra nhiều thách thức lớn cho các doanh nghiệp – đặc biệt là vấn đề hội nhập bền vững và giữ chân nhân viên lâu dài."
       },
       "items": {
         "seminare": {
@@ -239,13 +239,45 @@
         "headline": "Sẵn Sàng Củng Cố Đội Ngũ?",
         "description": "Hãy cùng phát triển chiến lược hội nhập của bạn.",
         "button": "Liên Hệ Ngay"
+      },
+      "tagline": "Tuyển dụng chỉ là bước đầu tiên – thu hút nhân tài thực sự có nghĩa là hội nhập bền vững",
+      "detailedServices": {
+        "recruiting": {
+          "title": "Tư vấn Tuyển dụng",
+          "audience": "Đối tượng: Doanh nghiệp có vị trí tuyển dụng chuyên gia và học viên từ các quốc gia thứ ba",
+          "description": "Chúng tôi tìm kiếm chuyên gia và học viên từ các quốc gia thứ ba phù hợp với doanh nghiệp của bạn cả về chuyên môn lẫn con người. Dịch vụ tư vấn bao gồm phân tích nhu cầu, xây dựng hồ sơ công việc và kết nối với ứng viên đã được sàng lọc từ mạng lưới VIETconsult."
+        },
+        "onboarding": {
+          "title": "Chương trình Định hướng",
+          "audience": "Đối tượng: Nhân viên quốc tế mới, đội ngũ và quản lý của họ",
+          "description": "Chúng tôi thiết kế khởi đầu có hệ thống – cho nhân tài, đội ngũ và quản lý. Định hướng có cấu trúc giảm thời gian làm quen và tăng cam kết ngay từ đầu."
+        },
+        "training": {
+          "title": "Đào tạo Liên văn hóa",
+          "audience": "Đối tượng: Đội ngũ, phòng ban và quản lý làm việc với đồng nghiệp quốc tế",
+          "description": "Chúng tôi đào tạo đội ngũ và quản lý để cải thiện sự hợp tác và giao tiếp. Đa dạng trở thành sức mạnh – hiểu lầm được tránh, hợp tác được củng cố."
+        },
+        "mentoring": {
+          "title": "Chương trình Cố vấn",
+          "audience": "Đối tượng: Doanh nghiệp muốn xây dựng hệ thống cố vấn có cấu trúc",
+          "description": "Công cụ đã được chứng minh cho sự hội nhập bền vững. Cố vấn xây dựng lòng tin và góp phần giữ chân nhân tài lâu dài."
+        },
+        "retention": {
+          "title": "Giữ chân Nhân tài",
+          "audience": "Đối tượng: Doanh nghiệp có nhân viên quốc tế hiện tại",
+          "description": "Chúng tôi phát triển chiến lược để nhân tài không chỉ ở lại mà còn phát triển cả về chuyên môn và cá nhân."
+        },
+        "cooperation": {
+          "title": "Hợp tác Mạnh mẽ",
+          "audience": "Đối tượng: Cơ quan chức năng, phòng thương mại, tổ chức giáo dục và doanh nghiệp",
+          "description": "Chúng tôi xử lý việc phối hợp với cơ quan chức năng, phòng thương mại và các tổ chức, đồng thời thiết kế các hình thức thực tế cùng nhau."
+        }
       }
     },
     "talents": {
       "intro": {
-        "title": "Dịch vụ dành cho Nhân tài",
-        "subtitle": "Con đường của bạn đến thành công nghề nghiệp tại Đức",
-        "description": "Chúng tôi đồng hành cùng bạn trên con đường sự nghiệp với tư vấn cá nhân và hỗ trợ thực tế."
+        "headline": "Hành trình của bạn đến Đức",
+        "description": "Chúng tôi đồng hành cùng các chuyên gia quốc tế trên con đường đến Đức – từ chuẩn bị ở quê nhà đến hội nhập thành công trong công việc và cuộc sống hàng ngày. Với đào tạo thực tế, hỗ trợ cá nhân và cố vấn toàn quốc, chúng tôi tạo nền tảng cho sự khởi đầu vững chắc, phát triển cá nhân và thành công lâu dài."
       },
       "items": {
         "seminare": {
@@ -401,6 +433,61 @@
         "headline": "Bắt Đầu Sự Nghiệp Tại Đức",
         "description": "Hãy cùng định hình con đường thành công của bạn.",
         "button": "Yêu Cầu Tư Vấn Ngay"
+      },
+      "tagline": "Mục tiêu của chúng tôi: Bạn cảm thấy không chỉ chuyên nghiệp mà còn an toàn, được hiểu và được chào đón về mặt con người",
+      "phasesHeadline": "Hội nhập của bạn qua 6 Giai đoạn",
+      "phases": {
+        "phase1": {
+          "title": "Chuẩn bị ở Quê nhà",
+          "timeline": "Thời gian: 3–6 tháng trước khi nhập cảnh",
+          "description": "Cùng với các đối tác hợp tác tại chỗ (VIETconsult / HDEU Vietnam), chúng tôi chuẩn bị tối ưu cho nhân tài khởi đầu ở Đức."
+        },
+        "phase2": {
+          "title": "Hỗ trợ Bắt đầu ở Đức",
+          "timeline": "Thời gian: 1–3 tháng đầu sau khi đến",
+          "description": "Chúng tôi không chỉ đồng hành mà còn hỗ trợ thực sự cho việc định cư."
+        },
+        "phase3": {
+          "title": "Hỗ trợ Nghề nghiệp",
+          "timeline": "Thời gian: Tháng 1–12 tại công ty",
+          "description": "Nhiều công ty chỉ giới hạn ở việc định hướng chuyên môn – chúng tôi có chủ đích đi xa hơn."
+        },
+        "phase4": {
+          "title": "Phát triển Cá nhân",
+          "timeline": "Thời gian: Từ tháng 6, liên tục",
+          "description": "Chúng tôi hỗ trợ nhân tài như con người toàn diện – không chỉ là chuyên gia.",
+          "items": [
+            "Xây dựng mạng lưới nghề nghiệp: Sự kiện, cuộc họp ngành, mạng lưới cựu sinh viên",
+            "Xây dựng mạng lưới cá nhân: Câu lạc bộ thể thao, nhóm văn hóa, sáng kiến hàng xóm",
+            "Coaching về tự chủ: Tự tin, trách nhiệm cá nhân, khả năng ra quyết định",
+            "Phát triển ngôn ngữ: Vượt B2, ngôn ngữ chuyên ngành, hiểu phương ngữ",
+            "Lập kế hoạch sự nghiệp: Các bước tiếp theo có thể? Đào tạo thêm, thăng tiến, chuyên môn hóa"
+          ]
+        },
+        "phase5": {
+          "title": "Cố vấn",
+          "timeline": "Thời gian: 12–24 tháng, có thể kéo dài",
+          "description": "Chương trình cố vấn của chúng tôi đồng hành cá nhân với nhân tài trong suốt quá trình hội nhập.",
+          "items": [
+            "Hỗ trợ cá nhân bởi cố vấn giàu kinh nghiệm (1:1)",
+            "Định hướng trong nghề nghiệp và cuộc sống hàng ngày",
+            "Hỗ trợ xây dựng mạng lưới nghề nghiệp và xã hội",
+            "Gặp gỡ thường xuyên (ít nhất 2 lần/tháng)",
+            "Đặt mục tiêu chung và theo dõi tiến độ"
+          ]
+        },
+        "phase6": {
+          "title": "Hỗ trợ Kỹ thuật số & Nền tảng Học tập",
+          "timeline": "Thời gian: Liên tục",
+          "description": "Chúng tôi cũng hỗ trợ nhân tài bằng kỹ thuật số để cho phép học tập và kết nối liên tục.",
+          "items": [
+            "Nền tảng học trực tuyến: Đào tạo nghề nghiệp và ngôn ngữ (không đồng bộ)",
+            "Mạng lưới ảo: Trao đổi với nhân tài khác trên toàn quốc",
+            "Công cụ hỗ trợ hàng ngày kỹ thuật số: Ứng dụng và công cụ cho cơ quan, nhà ở, sức khỏe",
+            "Webinar trực tiếp: Buổi tối chủ đề hàng tháng về các câu hỏi hội nhập liên quan",
+            "Câu chuyện thành công: Nền tảng chia sẻ kinh nghiệm và cảm hứng"
+          ]
+        }
       }
     },
     "heading": "Dịch vụ của chúng tôi",
