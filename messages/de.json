@@ -424,8 +424,79 @@
   },
   "about": {
     "hero": {
-      "headline": "Über talentsCARE",
-      "description": "Wir sind Ihr Partner für erfolgreiche Integration und nachhaltige Zusammenarbeit in einer globalen Arbeitswelt."
+      "headline": "Wir sorgen für das Bleiben Ihrer Talente",
+      "description": "Fachkräftegewinnung endet nicht mit der Einstellung neuer Mitarbeitender. Wirklich erfolgreich ist sie erst dann, wenn internationale Fachkräfte interkulturell integriert werden, sich langfristig mit dem Unternehmen identifizieren, aktiv einbringen und bleiben wollen.",
+      "tagline": "Erfolg beginnt, wenn Talente bleiben"
+    },
+    "history": {
+      "headline": "Unsere Geschichte",
+      "paragraph1": "talentsCARE wurde als Integrationsarm der VIETconsult Group gegründet, um eine Lücke im Markt zu schließen: Während viele Agenturen sich auf die Rekrutierung konzentrieren, endet ihre Arbeit oft mit der Einreise. talentsCARE setzt genau dort an, wo andere aufhören – bei der nachhaltigen Integration.",
+      "paragraph2": "Seit über 10 Jahren begleiten wir Unternehmen und Fachkräfte auf dem Weg zu erfolgreicher Zusammenarbeit. Unsere Erfahrung zeigt: Nur wenn Talente sich willkommen fühlen, bleiben sie langfristig."
+    },
+    "philosophy": {
+      "headline": "Unsere Philosophie",
+      "paragraph1": "Nachhaltige Fachkräftegewinnung bedeutet, die Menschen nicht nur zu gewinnen, sondern sie auch dauerhaft einzubinden und zu integrieren. Die Einstellung ist nur der erste Schritt.",
+      "paragraph2": "Wir glauben an die Kraft der Begegnung. Integration gelingt, wenn Menschen sich kennenlernen, verstehen und respektieren. Deshalb schaffen wir Räume für Austausch – im Unternehmen, in der Nachbarschaft, in der Gesellschaft."
+    },
+    "partners": {
+      "headline": "Unsere Partner",
+      "description": "talentsCARE arbeitet als Netzwerkpartner mit einem breiten Spektrum an Institutionen zusammen:",
+      "authorities": {
+        "title": "Behörden",
+        "items": [
+          "Bundesagentur für Arbeit",
+          "BAMF (Bundesamt für Migration und Flüchtlinge)",
+          "Welcome Centers",
+          "Ausländerbehörden"
+        ]
+      },
+      "chambers": {
+        "title": "Kammern",
+        "items": [
+          "IHK Frankfurt",
+          "IHK Hannover",
+          "Handwerkskammern",
+          "Ärztekammern"
+        ]
+      },
+      "others": {
+        "title": "Weitere Partner",
+        "items": [
+          "Wirtschaftsförderungen",
+          "Bildungsträger",
+          "Integrationsbeauftragte",
+          "Migrantenorganisationen"
+        ]
+      }
+    },
+    "awards": {
+      "headline": "Auszeichnungen & Anerkennung",
+      "items": [
+        {
+          "title": "5.0 Sterne Google-Bewertung",
+          "description": "Höchste Kundenzufriedenheit"
+        },
+        {
+          "title": "Mitglied im Verband Deutscher Bildungswerke",
+          "description": "Qualitätsstandards in der Weiterbildung"
+        },
+        {
+          "title": "Zertifiziert nach ISO 9001:2015",
+          "description": "Qualitätsmanagement-System"
+        },
+        {
+          "title": "Anerkannter Partner des BAMF",
+          "description": "Bundesamt für Migration und Flüchtlinge"
+        },
+        {
+          "title": "Kooperationspartner der Bundesagentur für Arbeit",
+          "description": "Arbeitsmarktintegration"
+        },
+        {
+          "title": "Empfohlen von IHK Frankfurt und IHK Hannover",
+          "description": "Industrie- und Handelskammern"
+        }
+      ]
     },
     "mission": {
       "headline": "Unsere Mission",
@@ -434,21 +505,25 @@
     },
     "valuesHeadline": "Unsere Werte",
     "values": {
-      "empathy": {
-        "title": "Empathie",
-        "description": "Wir begegnen allen Menschen mit Wertschätzung, Respekt und echtem Interesse für ihre individuelle Geschichte."
+      "sustainability": {
+        "title": "Nachhaltigkeit",
+        "description": "Langfristige Lösungen statt kurzfristiger Erfolge – wir denken in Generationen, nicht in Quartalen."
       },
-      "excellence": {
-        "title": "Exzellenz",
-        "description": "Wir streben nach höchster Qualität in allem, was wir tun, und entwickeln uns kontinuierlich weiter."
+      "responsibility": {
+        "title": "Verantwortung",
+        "description": "Ethisches Recruiting nach WHO-, ILO- und KDA-Standards – Employer-Pays-Prinzip ohne Kosten für Fachkräfte."
       },
-      "integrity": {
-        "title": "Integrität",
-        "description": "Wir handeln transparent, verlässlich und verantwortungsbewusst in allen unseren Beziehungen."
+      "partnership": {
+        "title": "Partnerschaft",
+        "description": "Wir arbeiten auf Augenhöhe mit Unternehmen, Talenten und Institutionen zusammen."
       },
-      "diversity": {
-        "title": "Vielfalt",
-        "description": "Wir feiern Unterschiede und sehen kulturelle Vielfalt als Quelle von Innovation und Stärke."
+      "integration": {
+        "title": "Integration",
+        "description": "Erfolgreiche Zusammenarbeit entsteht durch gegenseitiges Verständnis und kulturelle Sensibilität."
+      },
+      "quality": {
+        "title": "Qualität",
+        "description": "Höchste Standards in Beratung, Schulung und Begleitung – zertifiziert und kontinuierlich verbessert."
       }
     },
     "approach": {

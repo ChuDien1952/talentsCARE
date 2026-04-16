@@ -424,8 +424,79 @@
   },
   "about": {
     "hero": {
-      "headline": "About talentsCARE",
-      "description": "We are your partner for successful integration and sustainable collaboration in a global work environment."
+      "headline": "We Ensure Your Talents Stay",
+      "description": "Talent acquisition doesn't end with hiring new employees. It truly succeeds when international professionals are culturally integrated, identify with the company long-term, actively contribute, and want to stay.",
+      "tagline": "Success begins when talents stay"
+    },
+    "history": {
+      "headline": "Our Story",
+      "paragraph1": "talentsCARE was founded as the integration arm of VIETconsult Group to fill a market gap: While many agencies focus on recruitment, their work often ends with arrival. talentsCARE picks up exactly where others stop – at sustainable integration.",
+      "paragraph2": "For over 10 years, we have been accompanying companies and professionals on their path to successful collaboration. Our experience shows: Only when talents feel welcome do they stay long-term."
+    },
+    "philosophy": {
+      "headline": "Our Philosophy",
+      "paragraph1": "Sustainable talent acquisition means not only winning people but also permanently engaging and integrating them. Hiring is only the first step.",
+      "paragraph2": "We believe in the power of encounter. Integration succeeds when people get to know, understand, and respect each other. That's why we create spaces for exchange – in the company, in the neighborhood, in society."
+    },
+    "partners": {
+      "headline": "Our Partners",
+      "description": "talentsCARE works as a network partner with a broad spectrum of institutions:",
+      "authorities": {
+        "title": "Authorities",
+        "items": [
+          "Federal Employment Agency",
+          "BAMF (Federal Office for Migration and Refugees)",
+          "Welcome Centers",
+          "Immigration Authorities"
+        ]
+      },
+      "chambers": {
+        "title": "Chambers",
+        "items": [
+          "IHK Frankfurt",
+          "IHK Hannover",
+          "Crafts Chambers",
+          "Medical Chambers"
+        ]
+      },
+      "others": {
+        "title": "Other Partners",
+        "items": [
+          "Economic Development Agencies",
+          "Educational Institutions",
+          "Integration Officers",
+          "Migrant Organizations"
+        ]
+      }
+    },
+    "awards": {
+      "headline": "Awards & Recognition",
+      "items": [
+        {
+          "title": "5.0 Stars Google Rating",
+          "description": "Highest customer satisfaction"
+        },
+        {
+          "title": "Member of German Educational Works Association",
+          "description": "Quality standards in education"
+        },
+        {
+          "title": "ISO 9001:2015 Certified",
+          "description": "Quality management system"
+        },
+        {
+          "title": "Recognized BAMF Partner",
+          "description": "Federal Office for Migration and Refugees"
+        },
+        {
+          "title": "Federal Employment Agency Cooperation Partner",
+          "description": "Labor market integration"
+        },
+        {
+          "title": "Recommended by IHK Frankfurt and IHK Hannover",
+          "description": "Chambers of Industry and Commerce"
+        }
+      ]
     },
     "mission": {
       "headline": "Our Mission",
@@ -434,21 +505,25 @@
     },
     "valuesHeadline": "Our Values",
     "values": {
-      "empathy": {
-        "title": "Empathy",
-        "description": "We meet all people with appreciation, respect, and genuine interest in their individual story."
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "Long-term solutions instead of short-term success – we think in generations, not quarters."
       },
-      "excellence": {
-        "title": "Excellence",
-        "description": "We strive for highest quality in everything we do and continuously develop ourselves."
+      "responsibility": {
+        "title": "Responsibility",
+        "description": "Ethical recruiting according to WHO, ILO, and KDA standards – Employer-Pays principle without costs for professionals."
       },
-      "integrity": {
-        "title": "Integrity",
-        "description": "We act transparently, reliably, and responsibly in all our relationships."
+      "partnership": {
+        "title": "Partnership",
+        "description": "We work at eye level with companies, talents, and institutions."
       },
-      "diversity": {
-        "title": "Diversity",
-        "description": "We celebrate differences and see cultural diversity as a source of innovation and strength."
+      "integration": {
+        "title": "Integration",
+        "description": "Successful collaboration arises through mutual understanding and cultural sensitivity."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Highest standards in consulting, training, and support – certified and continuously improved."
       }
     },
     "approach": {
@@ -472,7 +547,9 @@
       "description": "Contact us for a non-binding initial consultation.",
       "button": "Get in Touch",
       "teamButton": "Meet Our Team"
-    }
+    },
+    "title": "About talentsCARE",
+    "subtitle": "Building Bridges Between Cultures"
   },
   "team": {
     "hero": {

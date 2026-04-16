@@ -424,31 +424,106 @@
   },
   "about": {
     "hero": {
-      "headline": "Về talentsCARE",
-      "description": "Chúng tôi là đối tác của bạn cho hội nhập thành công và hợp tác bền vững trong môi trường làm việc toàn cầu."
+      "headline": "Chúng tôi đảm bảo nhân tài của bạn ở lại",
+      "description": "Thu hút nhân tài không chỉ dừng lại ở việc tuyển dụng nhân viên mới. Thành công thực sự đến khi các chuyên gia quốc tế được hòa nhập văn hóa, gắn bó lâu dài với công ty, đóng góp tích cực và muốn ở lại.",
+      "tagline": "Thành công bắt đầu khi nhân tài ở lại"
+    },
+    "history": {
+      "headline": "Câu chuyện của chúng tôi",
+      "paragraph1": "talentsCARE được thành lập như một bộ phận hòa nhập của VIETconsult Group để lấp đầy khoảng trống trên thị trường: Trong khi nhiều công ty tập trung vào tuyển dụng, công việc của họ thường kết thúc khi người lao động đến Đức. talentsCARE bắt đầu chính xác nơi những người khác dừng lại – tại sự hòa nhập bền vững.",
+      "paragraph2": "Hơn 10 năm qua, chúng tôi đã đồng hành cùng các doanh nghiệp và chuyên gia trên con đường hợp tác thành công. Kinh nghiệm của chúng tôi cho thấy: Chỉ khi nhân tài cảm thấy được chào đón, họ mới ở lại lâu dài."
+    },
+    "philosophy": {
+      "headline": "Triết lý của chúng tôi",
+      "paragraph1": "Thu hút nhân tài bền vững có nghĩa là không chỉ thu hút con người mà còn gắn kết và hòa nhập họ một cách lâu dài. Tuyển dụng chỉ là bước đầu tiên.",
+      "paragraph2": "Chúng tôi tin vào sức mạnh của sự gặp gỡ. Hòa nhập thành công khi mọi người làm quen, hiểu và tôn trọng lẫn nhau. Đó là lý do tại sao chúng tôi tạo ra không gian để trao đổi – trong công ty, trong khu phố, trong xã hội."
+    },
+    "partners": {
+      "headline": "Đối tác của chúng tôi",
+      "description": "talentsCARE làm việc với tư cách là đối tác mạng lưới với một loạt các tổ chức:",
+      "authorities": {
+        "title": "Cơ quan nhà nước",
+        "items": [
+          "Cơ quan Lao động Liên bang",
+          "BAMF (Văn phòng Di trú và Tị nạn Liên bang)",
+          "Trung tâm Chào đón",
+          "Cơ quan Xuất nhập cảnh"
+        ]
+      },
+      "chambers": {
+        "title": "Phòng thương mại",
+        "items": [
+          "IHK Frankfurt",
+          "IHK Hannover",
+          "Phòng Thủ công",
+          "Phòng Y tế"
+        ]
+      },
+      "others": {
+        "title": "Đối tác khác",
+        "items": [
+          "Cơ quan Phát triển Kinh tế",
+          "Tổ chức Giáo dục",
+          "Nhân viên Hòa nhập",
+          "Tổ chức Di cư"
+        ]
+      }
+    },
+    "awards": {
+      "headline": "Giải thưởng & Ghi nhận",
+      "items": [
+        {
+          "title": "Đánh giá Google 5.0 sao",
+          "description": "Sự hài lòng của khách hàng cao nhất"
+        },
+        {
+          "title": "Thành viên Hiệp hội Giáo dục Đức",
+          "description": "Tiêu chuẩn chất lượng trong đào tạo"
+        },
+        {
+          "title": "Chứng nhận ISO 9001:2015",
+          "description": "Hệ thống quản lý chất lượng"
+        },
+        {
+          "title": "Đối tác được BAMF công nhận",
+          "description": "Văn phòng Di trú và Tị nạn Liên bang"
+        },
+        {
+          "title": "Đối tác hợp tác Cơ quan Lao động Liên bang",
+          "description": "Hòa nhập thị trường lao động"
+        },
+        {
+          "title": "Được IHK Frankfurt và IHK Hannover khuyến nghị",
+          "description": "Phòng Công nghiệp và Thương mại"
+        }
+      ]
     },
     "mission": {
       "headline": "Sứ Mệnh Của Chúng Tôi",
       "paragraph1": "Chúng tôi tin vào một thế giới làm việc nơi sự đa dạng được xem là sức mạnh và sự khác biệt văn hóa là sự phong phú. Sứ mệnh của chúng tôi là xây dựng cầu nối giữa doanh nghiệp và nhân tài quốc tế.",
       "paragraph2": "Với đam mê, chuyên môn và hiểu biết sâu sắc về động lực liên văn hóa, chúng tôi đồng hành cùng cả hai bên trên con đường chung đến thành công. Chúng tôi tạo không gian gặp gỡ, thúc đẩy sự hiểu biết và phát triển giải pháp bền vững cho thách thức của thế giới làm việc toàn cầu hóa."
     },
-    "valuesHeadline": "Giá Trị Của Chúng Tôi",
+    "valuesHeadline": "Giá trị của chúng tôi",
     "values": {
-      "empathy": {
-        "title": "Đồng Cảm",
-        "description": "Chúng tôi đối xử với mọi người bằng sự trân trọng, tôn trọng và quan tâm thực sự đến câu chuyện cá nhân của họ."
+      "sustainability": {
+        "title": "Bền vững",
+        "description": "Giải pháp dài hạn thay vì thành công ngắn hạn – chúng tôi suy nghĩ theo thế hệ, không phải theo quý."
       },
-      "excellence": {
-        "title": "Xuất Sắc",
-        "description": "Chúng tôi phấn đấu đạt chất lượng cao nhất trong mọi việc và không ngừng phát triển."
+      "responsibility": {
+        "title": "Trách nhiệm",
+        "description": "Tuyển dụng có đạo đức theo tiêu chuẩn WHO, ILO và KDA – Nguyên tắc Nhà tuyển dụng trả phí không có chi phí cho chuyên gia."
       },
-      "integrity": {
-        "title": "Chính Trực",
-        "description": "Chúng tôi hành động minh bạch, đáng tin cậy và có trách nhiệm trong mọi mối quan hệ."
+      "partnership": {
+        "title": "Đối tác",
+        "description": "Chúng tôi làm việc ngang tầm với các công ty, nhân tài và tổ chức."
       },
-      "diversity": {
-        "title": "Đa Dạng",
-        "description": "Chúng tôi tôn vinh sự khác biệt và xem sự đa dạng văn hóa là nguồn gốc của sự đổi mới và sức mạnh."
+      "integration": {
+        "title": "Hòa nhập",
+        "description": "Hợp tác thành công phát sinh thông qua sự hiểu biết lẫn nhau và nhạy cảm văn hóa."
+      },
+      "quality": {
+        "title": "Chất lượng",
+        "description": "Tiêu chuẩn cao nhất trong tư vấn, đào tạo và hỗ trợ – được chứng nhận và liên tục cải thiện."
       }
     },
     "approach": {
@@ -472,7 +547,9 @@
       "description": "Liên hệ với chúng tôi để được tư vấn ban đầu không ràng buộc.",
       "button": "Liên Hệ",
       "teamButton": "Gặp Gỡ Đội Ngũ"
-    }
+    },
+    "title": "Về talentsCARE",
+    "subtitle": "Xây dựng cầu nối giữa các nền văn hóa"
   },
   "team": {
     "hero": {
