@@ -58,7 +58,7 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
             className={`mt-0.5 font-sans ${taglineSizeClasses[size]} ${colors[variant].tagline} transition-opacity group-hover:opacity-70`}
             style={{ fontWeight: 300, letterSpacing: '0.03em' }}
           >
-            Your Talents, We care
+            Your Talents, We Care
           </span>
         )}
       </div>
