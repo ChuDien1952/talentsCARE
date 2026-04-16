@@ -47,21 +47,21 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
           <span className={`${colors[variant].talents}`} style={{ fontWeight: 300 }}>
             talents
           </span>
-          <span className={`${colors[variant].care} relative inline-block`} style={{ fontWeight: 700 }}>
-            <span style={{ position: 'relative', display: 'inline-block' }}>
+          <span className={`${colors[variant].care} relative inline-block`} style={{ fontWeight: 500 }}>
+            <span style={{ position: 'relative', display: 'inline-block', transform: 'rotate(-12deg) translateY(-0.05em)' }}>
               C
-              <span
-                style={{
-                  fontStyle: 'italic',
-                  transform: 'skewX(-15deg)',
-                  display: 'inline-block',
-                  marginLeft: '-0.15em',
-                  position: 'relative',
-                  top: '0.05em'
-                }}
-              >
-                A
-              </span>
+            </span>
+            <span
+              style={{
+                fontStyle: 'italic',
+                transform: 'skewX(-20deg)',
+                display: 'inline-block',
+                marginLeft: '-0.25em',
+                position: 'relative',
+                top: '0.08em'
+              }}
+            >
+              A
             </span>
             RE
           </span>
