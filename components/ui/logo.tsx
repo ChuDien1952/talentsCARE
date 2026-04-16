@@ -41,17 +41,22 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
 
   return (
     <Link href="/" className="group inline-block">
-      <div className="flex flex-col items-start gap-0.5">
+      <div className="flex flex-col items-start gap-0">
         {/* Logo Text - Lowercase "talents" + Uppercase "CARE" */}
-        <div className={`font-sans font-light tracking-tight leading-none ${sizeClasses[size]}`}>
-          <span className={colors[variant].talents}>talents</span>
-          <span className={`font-bold ${colors[variant].care}`}>CARE</span>
+        <div className={`font-sans leading-none ${sizeClasses[size]}`} style={{ letterSpacing: '-0.02em' }}>
+          <span className={`${colors[variant].talents}`} style={{ fontWeight: 300 }}>
+            talents
+          </span>
+          <span className={`${colors[variant].care}`} style={{ fontWeight: 700, fontStyle: 'italic' }}>
+            CARE
+          </span>
         </div>
 
         {/* Tagline */}
         {showTagline && (
           <span
-            className={`font-sans font-light tracking-wide leading-tight ${taglineSizeClasses[size]} ${colors[variant].tagline} transition-opacity group-hover:opacity-70`}
+            className={`mt-0.5 font-sans ${taglineSizeClasses[size]} ${colors[variant].tagline} transition-opacity group-hover:opacity-70`}
+            style={{ fontWeight: 300, letterSpacing: '0.02em' }}
           >
             Your Talents, We care
           </span>
