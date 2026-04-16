@@ -29,26 +29,30 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
   const colors = {
     light: {
       talents: 'text-white',
-      care: 'text-[#F4C430]', // Golden yellow matching reference
-      tagline: 'text-white/80',
+      care: 'text-[#FDB927]', // Brighter golden yellow
+      tagline: 'text-white/70',
     },
     dark: {
-      talents: 'text-[#1a1a2e]', // Dark navy blue matching reference
-      care: 'text-[#F4C430]', // Golden yellow
-      tagline: 'text-gray-600',
+      talents: 'text-gray-700', // Lighter gray for better readability
+      care: 'text-[#FDB927]', // Brighter golden yellow
+      tagline: 'text-gray-500',
     },
   };
 
   return (
     <Link href="/" className="group inline-block">
       <div className="flex flex-col items-start gap-0">
-        {/* Logo Text - Lowercase "talents" + Uppercase "CARE" */}
-        <div className={`font-sans leading-none ${sizeClasses[size]}`} style={{ letterSpacing: '-0.02em' }}>
+        {/* Logo Text - Lowercase "talents" + Uppercase "CARE" with styled A */}
+        <div className={`font-sans leading-none ${sizeClasses[size]}`} style={{ letterSpacing: '0.01em' }}>
           <span className={`${colors[variant].talents}`} style={{ fontWeight: 300 }}>
             talents
           </span>
-          <span className={`${colors[variant].care}`} style={{ fontWeight: 700, fontStyle: 'italic' }}>
-            CARE
+          <span className={`${colors[variant].care}`} style={{ fontWeight: 700 }}>
+            C
+            <span style={{ fontStyle: 'italic', transform: 'skewX(-10deg)', display: 'inline-block' }}>
+              A
+            </span>
+            RE
           </span>
         </div>
 
@@ -56,7 +60,7 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
         {showTagline && (
           <span
             className={`mt-0.5 font-sans ${taglineSizeClasses[size]} ${colors[variant].tagline} transition-opacity group-hover:opacity-70`}
-            style={{ fontWeight: 300, letterSpacing: '0.02em' }}
+            style={{ fontWeight: 300, letterSpacing: '0.03em' }}
           >
             Your Talents, We care
           </span>
