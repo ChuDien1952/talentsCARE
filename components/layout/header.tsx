@@ -42,12 +42,14 @@ export function Header() {
       }`}
     >
       <div className="mx-auto max-w-7xl px-6">
-        <nav className="flex items-center justify-between">
+        <nav className="flex items-center justify-between gap-6">
           {/* Logo */}
-          <Logo variant="dark" size="md" showTagline={!scrolled} />
+          <div className="flex-shrink-0">
+            <Logo variant="dark" size="md" showTagline={!scrolled} />
+          </div>
 
           {/* Desktop Nav */}
-          <div className="hidden items-center gap-8 lg:flex">
+          <div className="hidden items-center gap-6 lg:flex xl:gap-8">
             {navLinks.map((link) => (
               <Link
                 key={link.href}

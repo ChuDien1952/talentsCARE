@@ -49,7 +49,8 @@
       "Bash(echo.:*)",
       "Bash(git restore:*)",
       "Skill(frontend-design-pro)",
-      "Bash(if not exist \"public\\images\" mkdir \"public\\images\")"
+      "Bash(if not exist \"public\\images\" mkdir \"public\\images\")",
+      "Bash(python scripts/extract-docx-content.py:*)"
     ]
   }
 }

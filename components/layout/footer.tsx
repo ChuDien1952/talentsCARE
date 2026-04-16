@@ -6,6 +6,7 @@
 import { useTranslations } from 'next-intl';
 import { Container } from '@/components/ui/container';
 import { Link } from '@/lib/i18n/navigation';
+import { Logo } from '@/components/ui/logo';
 
 export function Footer() {
   const t = useTranslations('common.footer');
@@ -48,10 +49,10 @@ export function Footer() {
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
           {/* Brand */}
           <div>
-            <h3 className="mb-4 font-display text-2xl font-bold">
-              {t('company')}
-            </h3>
-            <p className="mb-4 text-white/80">{t('tagline')}</p>
+            <div className="mb-4">
+              <Logo variant="light" size="md" showTagline={true} />
+            </div>
+            <p className="text-sm leading-relaxed text-white/70">{t('tagline')}</p>
           </div>
 
           {/* Navigation */}

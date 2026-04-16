@@ -1,0 +1,3782 @@
+{
+  "paragraphs": [
+    {
+      "text": "talentsCARE",
+      "style": "Normal"
+    },
+    {
+      "text": "Integration · Schulung · Coaching · Mentoring",
+      "style": "Normal"
+    },
+    {
+      "text": "WEBSITE CONTENT SPECIFICATION",
+      "style": "Normal"
+    },
+    {
+      "text": "Vollständige Version 3.0",
+      "style": "Normal"
+    },
+    {
+      "text": "Alle Kapitel detailliert ausgebaut",
+      "style": "Normal"
+    },
+    {
+      "text": "Staging: ?/talentscare/",
+      "style": "Normal"
+    },
+    {
+      "text": "Version 3.0 – April 2026",
+      "style": "Normal"
+    },
+    {
+      "text": "INHALTSVERZEICHNIS",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE ist das Herzstück des VIETconsult-Ökosystems – das zentrale Schulungs- und Integrationssystem für die nachhaltige Einbindung internationaler Fachkräfte in deutsche Unternehmen. Als strategischer Integrationspartner von VIETconsult übernimmt talentsCARE die langfristige Begleitung und Förderung von Fachkräften und Unternehmen nach der Rekrutierung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Während VIETconsult für Rekrutierung, Sprachausbildung und Einreise zuständig ist, begleitet talentsCARE den gesamten Integrationsprozess – vom ersten Arbeitstag bis zur langfristigen Mitarbeiterbindung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Langfristige Integration ist die eigentliche Fachkräftegewinnung.",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE nimmt eine zentrale Stellung innerhalb des 4-Website-Ökosystems der VIETconsult Group ein:",
+      "style": "Normal"
+    },
+    {
+      "text": "Der Kundenfluss: VIETconsult rekrutiert → talentsCARE integriert → LSP vertieft → Gerimmi monetarisiert. talentsCARE ist die Brücke zwischen Einreise und langfristigem Erfolg.",
+      "style": "Normal"
+    },
+    {
+      "text": "Aufbau einer professionellen Integrationsplattform für Arbeitgeber und Talente",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Bereitstellung von 9 Kerndienstleistungen: Seminare, Schulungen, Workshops, Vorträge, Webinare, Coaching, Training, Mentoring, Events",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Nachhaltige Fachkräftebindung durch praxisnahe Onboarding- und Mentoring-Programme",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Employer-Pays-Prinzip – ethische Rekrutierung ohne Kosten für Fachkräfte",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kooperation mit Behörden, Kammern, Welcome Centers und Wirtschaftsförderungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Digitale Lernplattformen und virtuelle Netzwerke für kontinuierliche Weiterentwicklung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Aufbau eines WooCommerce-Shops für den Verkauf von Kursen, Workshops und Coaching-Paketen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mittelständische Unternehmen in Deutschland mit internationalem Fachkräftebedarf",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Personalverantwortliche und Führungskräfte, die Integration aktiv gestalten wollen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Unternehmen in den Bereichen Pflege, Technik, IT, Bau, Gastronomie, Logistik",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Wirtschaftsförderungen und Kammern, die regionale Integration unterstützen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Internationale Fachkräfte, die bereits in Deutschland angekommen sind oder in Kürze einreisen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Auszubildende (Azubis) aus Vietnam und anderen Drittstaaten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Fachkräfte, die berufliche und persönliche Weiterentwicklung suchen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Talente, die Mentoring und Netzwerkaufbau benötigen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Drei Umsatzebenen:",
+      "style": "Normal"
+    },
+    {
+      "text": "End-to-End-Begleitung – Vom ersten Arbeitstag bis zur langfristigen Bindung, kein anderer Anbieter bietet diesen Umfang",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Eigene Infrastruktur – Büros in Frankfurt und Hannover + Trainingszentren in Vietnam",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ethischer Ansatz – Employer-Pays-Prinzip gemäß internationalen Standards (WHO, ILO, KDA)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Interkulturelle Doppelkompetenz – Team versteht sowohl deutsche Unternehmenskultur als auch vietnamesische Mentalität",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Bundesweites Mentoring-Netzwerk – Flächendeckende Betreuung in ganz Deutschland",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Digitale Skalierbarkeit – Online-Lernplattformen ermöglichen Wachstum ohne proportionalen Ressourcenaufwand",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Entfalten Sie das Potenzial Ihrer globalen Talente",
+      "style": "Normal"
+    },
+    {
+      "text": "Markenwerte: Nachhaltigkeit · Verantwortung · Partnerschaft · Integration · Qualität",
+      "style": "Normal"
+    },
+    {
+      "text": "Tonfall: Professionell, warmherzig, ergebnisorientiert, interkulturell sensibel",
+      "style": "Normal"
+    },
+    {
+      "text": "Farbpalette: Dunkelgrün (#0B5345) als Hauptfarbe, Teal (#148F77) als Akzent, Gold (#D4AC0D) für Highlights",
+      "style": "Normal"
+    },
+    {
+      "text": "URL: /",
+      "style": "Normal"
+    },
+    {
+      "text": "Zweck: Erster Eindruck, Vertrauensaufbau, Lead-Generierung",
+      "style": "Normal"
+    },
+    {
+      "text": "Headline (H1): Entfalten Sie das Potenzial Ihrer globalen Talente",
+      "style": "Normal"
+    },
+    {
+      "text": "mit fachkundiger Beratung, interkulturellem Training, individuellem Coaching, nahtloser Integration, Teamzusammenarbeit",
+      "style": "Normal"
+    },
+    {
+      "text": "Subheadline: Mit talentsCARE helfen wir Unternehmen, globale Talente erfolgreich zu integrieren und zu fördern.",
+      "style": "Normal"
+    },
+    {
+      "text": "CTA: Kostenlose Beratung vereinbaren → /kontakt/",
+      "style": "Normal"
+    },
+    {
+      "text": "Visuell: Professionelles Hero-Bild mit diversem Team in modernem Büroumfeld. Alternativ: Videoloop mit Arbeitsszenen aus verschiedenen Branchen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Talentbindung und -gewinnung – Positives Arbeitsumfeld und starke Unternehmenskultur schaffen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Steigerung der Produktivität – Offene und unterstützende Arbeitsatmosphäre fördern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Nachhaltiger Unternehmenserfolg – Investition in Mitarbeiter und kontinuierliche Weiterbildung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Vielfalt der Fähigkeiten – Innovation und Kreativität durch verschiedene Perspektiven",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Langfristiger Erfolg – Kontinuierliche Weiterbildung und Motivation",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Engagement – Aktive Förderung in unterstützendem Umfeld",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Wir unterstützen Unternehmen aus verschiedenen Branchen bei der Integration internationaler Fachkräfte:",
+      "style": "Normal"
+    },
+    {
+      "text": "Kennzahlen: 10 Jahre Erfahrung · 110 Kunden · 20+ Experten",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE arbeitet konsequent nach dem Employer-Pays-Prinzip. Für die Fachkräfte fallen keinerlei Vermittlungsgebühren an. Diese ethische Herangehensweise sichert die Einhaltung internationaler Standards und garantiert hochmotivierte Mitarbeiter.",
+      "style": "Normal"
+    },
+    {
+      "text": "Keine Vermittlungsgebühren für Fachkräfte – Arbeitgeber tragen alle Kosten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Transparente Vertragsgestaltung – Alle Bedingungen sind klar und verständlich",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Keine Rückzahlungsklauseln für Fachkräfte – Keine Schuldenfalle",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Freie Arbeitsplatzwahl nach Anerkennung – Keine Bindung gegen den Willen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Einhaltung internationaler Standards – WHO, ILO, KDA-Richtlinien",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mitglied im Verband Deutscher Bildungswerke (VDB)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Zertifiziert nach ISO 9001:2015 für Qualitätsmanagement",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Anerkannter Partner des BAMF für Integrationsprogramme",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kooperationspartner der Bundesagentur für Arbeit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Hinweis für Designer: Slider mit Kundenzitaten, abwechselnd Arbeitgeber und Talente.",
+      "style": "Normal"
+    },
+    {
+      "text": "'talentsCARE hat unsere Integration revolutioniert. Unsere vietnamesischen Pflegekräfte sind nicht nur fachlich top, sondern fühlen sich bei uns zu Hause.' – Maria Schmidt, Pflegedienstleitung, Seniorenheim Frankfurt",
+      "style": "Normal"
+    },
+    {
+      "text": "„Das Mentoring-Programm hat mir geholfen, mich in Deutschland schnell einzuleben. Mein Mentor ist wie ein großer Bruder für mich.“ – Nguyen Van Minh, IT-Fachkraft, Hannover",
+      "style": "Normal"
+    },
+    {
+      "text": "„Endlich ein Partner, der nicht nur vermittelt, sondern auch nach der Einstellung an unserer Seite bleibt.“ – Thomas Weber, Geschäftsführer, Handwerksbetrieb Bayern",
+      "style": "Normal"
+    },
+    {
+      "text": "Hinweis für Designer: Logo-Carousel mit Partnern:",
+      "style": "Normal"
+    },
+    {
+      "text": "Behörden: BAMF, Bundesagentur für Arbeit, Ausländerämter",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kammern: IHK, Handwerkskammer, Pflegekammer",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Welcome Centers: Frankfurt, Hannover, München, Berlin",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Wirtschaftsförderungen: Regionale Partner",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Bildungsträger: Sprachschulen, Weiterbildungsinstitute",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Felder:",
+      "style": "Normal"
+    },
+    {
+      "text": "Name (Pflicht)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "E-Mail (Pflicht)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Telefon (Optional)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Firmenname (Optional)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Interessiert an: Dropdown (Arbeitgeber / Talente / Beides)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Nachricht (Freitext)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "DSGVO-Checkbox (Pflicht): „Ich habe die Datenschutzerklärung gelesen und stimme der Verarbeitung meiner Daten zu.“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "CTA-Button: Einreichen",
+      "style": "Normal"
+    },
+    {
+      "text": "Bestätigungsnachricht: „Vielen Dank für Ihre Anfrage. Wir melden uns innerhalb von 24 Stunden bei Ihnen.“",
+      "style": "Normal"
+    },
+    {
+      "text": "URL: /arbeitsgeber/",
+      "style": "Normal"
+    },
+    {
+      "text": "Zweck: Komplettes Dienstleistungsportfolio für Unternehmen",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir unterstützen Unternehmen dabei, internationale Fachkräfte nicht nur zu gewinnen, sondern langfristig zu halten. Recruiting ist nur der erste Schritt – echte Fachkräftegewinnung bedeutet, Talente erfolgreich zu integrieren, zu begleiten und im Betrieb zu stärken.",
+      "style": "Normal"
+    },
+    {
+      "text": "Mit praxisnahen Onboarding-Programmen, interkulturellem Training und bundesweit flächendeckendem Mentoring schaffen wir die Basis für nachhaltige Integration, stabile Teams und langfristigen Unternehmenserfolg.",
+      "style": "Normal"
+    },
+    {
+      "text": "Der Fachkräftemangel stellt viele Unternehmen vor große Herausforderungen – besonders bei nachhaltiger Integration und langfristiger Mitarbeiterbindung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Unternehmen mit offenen Stellen für Fachkräfte und Azubis aus Drittstaaten",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir finden Fachkräfte und Azubis aus Drittstaaten, die fachlich und menschlich zu Ihrem Unternehmen passen. Unsere Beratung umfasst Bedarfsanalyse, Stellenprofil-Erstellung und Matching mit vorqualifizierten Kandidaten aus dem VIETconsult-Netzwerk.",
+      "style": "Normal"
+    },
+    {
+      "text": "Analyse des Personalbedarfs und Erstellung von Anforderungsprofilen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Matching mit vorqualifizierten Kandidaten aus Vietnam",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Begleitung des Auswahlprozesses (Interviews, Assessment)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Unterstützung bei Arbeitsverträgen und rechtlichen Rahmenbedingungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Abstimmung mit VIETconsult für Sprachausbildung und Visa-Prozess",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Motivierte Mitarbeitende, die langfristig bleiben und sich mit dem Unternehmen identifizieren.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Neue internationale Mitarbeitende, deren Teams und Führungskräfte",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir gestalten den Start systematisch – für Talente, Teams und Führungskräfte. Ein strukturiertes Onboarding reduziert die Einarbeitungszeit und erhöht die Bindung von Anfang an.",
+      "style": "Normal"
+    },
+    {
+      "text": "Vorbereitung des bestehenden Teams auf den neuen Kollegen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Interkulturelle Sensibilisierung für die gesamte Abteilung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Führungskräfte-Briefing: Wie führe ich interkulturelle Teams erfolgreich?",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Kürzere Einarbeitungszeit, mehr Motivation, schnellere Produktivität und weniger Frühfluktuation.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Teams, Abteilungen und Führungskräfte, die mit internationalen Kollegen arbeiten",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir schulen Teams und Führungskräfte, um Zusammenarbeit und Kommunikation zu verbessern. Aus Vielfalt wird Stärke – Missverständnisse werden vermieden, Zusammenarbeit gestärkt.",
+      "style": "Normal"
+    },
+    {
+      "text": "Ergebnis: Aus Vielfalt wird Stärke – bessere Kommunikation, weniger Missverständnisse, stärkere Teamdynamik.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Unternehmen, die ein strukturiertes Mentoring-System aufbauen möchten",
+      "style": "Normal"
+    },
+    {
+      "text": "Ein bewährtes Instrument für nachhaltige Integration. Mentoring schafft Vertrauen und trägt zur langfristigen Fachkräftebindung bei.",
+      "style": "Normal"
+    },
+    {
+      "text": "Auswahl und Schulung interner Mentoren aus dem Unternehmen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Matching: Mentor und Mentée werden nach Persönlichkeit und Fachgebiet zusammengebracht",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Strukturierte Gesprächsleitfäden und Meilensteine (monatlich)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Begleitende Supervision durch talentsCARE-Experten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Evaluation nach 6 und 12 Monaten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Vertrauen, Orientierung und langfristige Fachkräftebindung. Mentoring reduziert die Fluktuation nachweislich um bis zu 50%.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Unternehmen mit bestehenden internationalen Mitarbeitenden",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir entwickeln Strategien, damit Talente nicht nur bleiben, sondern sich fachlich und persönlich weiterentwickeln.",
+      "style": "Normal"
+    },
+    {
+      "text": "Entwicklungsgespräche und Karriereplanung für internationale Mitarbeitende",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Weiterbildungsempfehlungen und Qualifizierungsprogramme",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Arbeitsklima-Analyse und Verbesserungsvorschläge",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Frühwarnsystem für Unzufriedenheit und Kündigungsrisiken",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Feedbackschleifen zwischen Mitarbeitenden, Team und Führung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Know-how sichern, loyale Teams aufbauen, nachhaltige Basis für Unternehmenserfolg.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Behörden, Kammern, Bildungsträger und Unternehmen",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir übernehmen die Abstimmung mit Behörden, Kammern und Institutionen und gestalten gemeinsam praxisnahe Formate.",
+      "style": "Normal"
+    },
+    {
+      "text": "Seminare und Workshops für Behördenmitarbeiter zu Integrationsprozessen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Webinare für Unternehmensnetzwerke und Wirtschaftsförderungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Erfahrungsaustausch zwischen Unternehmen, Verwaltung und Bildungsträgern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Gemeinsame Informationsveranstaltungen für Arbeitgeber in der Region",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Zusammenarbeit mit Welcome Centers für ganzheitliche Integration",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Entlastung für Unternehmen, reibungslose Abläufe, Integration als Gemeinschaftsaufgabe.",
+      "style": "Normal"
+    },
+    {
+      "text": "Hinweis: Alle Preise sind Nettopreise zzgl. MwSt. Individuelle Pakete auf Anfrage.",
+      "style": "Normal"
+    },
+    {
+      "text": "URL: /talente/",
+      "style": "Normal"
+    },
+    {
+      "text": "Zweck: Ganzheitliche Begleitung internationaler Fachkräfte",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir begleiten internationale Fachkräfte auf ihrem Weg nach Deutschland – von der Vorbereitung im Heimatland bis zur erfolgreichen Integration im Beruf und Alltag. Mit praxisnahen Trainings, individueller Betreuung und bundesweitem Mentoring schaffen wir die Grundlage für einen sicheren Start, persönliche Entwicklung und langfristigen Erfolg.",
+      "style": "Normal"
+    },
+    {
+      "text": "Unser Ziel: Talente sollen sich nicht nur fachlich, sondern auch menschlich sicher, verstanden und willkommen fühlen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zeitraum: 3–6 Monate vor Einreise",
+      "style": "Normal"
+    },
+    {
+      "text": "Gemeinsam mit unseren Kooperationspartnern vor Ort (VIETconsult / HDEU Vietnam) bereiten wir Talente optimal auf ihren Start in Deutschland vor.",
+      "style": "Normal"
+    },
+    {
+      "text": "Kulturelle Orientierung: Was erwartet mich in Deutschland? Alltag, Arbeitsleben, soziale Normen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Erwartungsmanagement: Realistische Einschätzung von Herausforderungen und Chancen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Praktische Vorbereitung: Dokumente, Versicherungen, erste Schritte nach Ankunft",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Digitale Vorab-Vernetzung: Kontakt zu künftigen Kollegen und Mentoren per Video/Chat",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Berufsspezifische Vorbereitung: Fachbegriffe, Arbeitsabläufe, Bräuche im Berufsfeld",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Gut vorbereitete Talente mit klaren Erwartungen und starkem Fundament.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zeitraum: Erste 1–3 Monate nach Ankunft",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir bieten keine bloße Begleitung, sondern echte Unterstützung beim Ankommen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Behördengänge: Anmeldung, Aufenthaltserlaubnis, Versicherung, Bankkontoeröffnung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Wohnungssuche: Beratung, Bewerbungsunterstützung, Vertragsprüfung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Alltagsorientierung: Einkaufen, öffentlicher Verkehr, digitale Services, Gesundheitssystem",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Notfallkontakt: 24/7-Erreichbarkeit für dringende Fragen in den ersten Wochen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Soziale Vernetzung: Vermittlung von Landsleuten, Community-Events, Freizeitangebote",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Ein sicherer Start ohne Überforderung. Talente fühlen sich willkommen und orientiert.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zeitraum: Monat 1–12 im Unternehmen",
+      "style": "Normal"
+    },
+    {
+      "text": "Viele Unternehmen beschränken sich auf fachliche Einarbeitung – wir gehen bewusst weiter.",
+      "style": "Normal"
+    },
+    {
+      "text": "Coaching am Arbeitsplatz: Individuell auf die Talente abgestimmt, regelmäßige Gespräche",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kommunikations- und Teamtraining: Zusammenarbeit klar und respektvoll gestalten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Unterstützung für Führungskräfte: Damit Integration im Betrieb gelingt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Konfliktmediation: Vermittlung bei interkulturellen Missverständnissen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Regelmäßige Feedbackrunden: Zwischen Talent, Team und Führungskraft",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Schnellere Eingewöhnung, stabile Arbeitsbeziehungen und höhere Zufriedenheit auf beiden Seiten.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zeitraum: Ab Monat 6, fortlaufend",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir fördern Talente als ganze Menschen – nicht nur als Fachkräfte.",
+      "style": "Normal"
+    },
+    {
+      "text": "Aufbau beruflicher Netzwerke: Fachveranstaltungen, Branchentreffen, Alumni-Netzwerk",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Aufbau privater Netzwerke: Sportvereine, Kulturgruppen, Nachbarschaftsinitiativen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Coaching zur Selbstständigkeit: Selbstvertrauen, Eigenverantwortung, Entscheidungsfähigkeit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Sprachliche Weiterentwicklung: Über B2 hinaus, Fachsprache, Dialekte verstehen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Karriereplanung: Welche nächsten Schritte sind möglich? Weiterbildung, Aufstieg, Spezialisierung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Talente fühlen sich zugehörig, entwickeln sich weiter und bleiben langfristig.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zeitraum: 12–24 Monate, erweiterbar",
+      "style": "Normal"
+    },
+    {
+      "text": "Unsere Mentoring-Programme begleiten Talente individuell über den gesamten Integrationsprozess hinweg.",
+      "style": "Normal"
+    },
+    {
+      "text": "Persönliche Begleitung durch erfahrene Mentoren (1:1)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Orientierung im Berufs- und Alltagsleben",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Unterstützung beim Aufbau von beruflichen und sozialen Netzwerken",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Regelmäßige Treffen (mindestens 2x monatlich)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Gemeinsame Zielvereinbarungen und Fortschrittskontrolle",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Sicherheit, Selbstvertrauen und Orientierung – für nachhaltige Integration und langfristigen Erfolg.",
+      "style": "Normal"
+    },
+    {
+      "text": "Zeitraum: Fortlaufend",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir begleiten Talente auch digital, um kontinuierliches Lernen und Vernetzung zu ermöglichen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Online-Lernplattformen: Berufliche und sprachliche Weiterbildung (asynchron)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Virtuelle Netzwerke: Austausch mit anderen Talenten deutschlandweit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Digitale Alltagshilfen: Apps und Tools für Behörden, Wohnung, Gesundheit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Live-Webinare: Monatliche Themenabende zu relevanten Integrationsfragen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Erfolgsgeschichten: Plattform zum Teilen von Erfahrungen und Inspiration",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Selbstständiges Lernen, globale Vernetzung, moderne Tools für persönliche und berufliche Entwicklung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Visuelle Übersicht des gesamten Integrationsprozesses:",
+      "style": "Normal"
+    },
+    {
+      "text": "Die 9 Kerndienstleistungen von talentsCARE bilden das Rückgrat des gesamten Integrationsangebots. Jede Dienstleistung ist eigenständig buchbar und kann auch als Paket kombiniert werden.",
+      "style": "Normal"
+    },
+    {
+      "text": "Format: Halbtagsveranstaltung (3–4 Stunden) | Teilnehmer: 10–30 Personen",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Arbeitgeber, Führungskräfte, HR-Verantwortliche, Talente",
+      "style": "Normal"
+    },
+    {
+      "text": "Praxisnahes Fachwissen zu Integration, Kommunikation und Kultur teilen. Seminare bieten einen strukturierten Rahmen für Wissensvermittlung und Erfahrungsaustausch auf Augenhöhe.",
+      "style": "Normal"
+    },
+    {
+      "text": "Interkulturelle Kompetenz im Arbeitsalltag",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Erfolgreiche Kommunikation mit internationalen Teams",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Rechtliche Grundlagen der Fachkräfteintegration",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Best Practices: Wie andere Unternehmen erfolgreich integrieren",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Konfliktmanagement in diversen Teams",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Führung interkultureller Teams",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: 1–2 Tage, intensiv | Teilnehmer: 5–15 Personen",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Fach- und Führungskräfte, die Integration aktiv gestalten",
+      "style": "Normal"
+    },
+    {
+      "text": "Kompakte Trainings mit direkter Anwendbarkeit im Arbeitsalltag. Schulungen gehen tiefer als Seminare und bieten praxisorientierte Werkzeuge und Methoden.",
+      "style": "Normal"
+    },
+    {
+      "text": "Führung interkultureller Teams – Intensivschulung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Onboarding-Prozesse erfolgreich gestalten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Konfliktmanagement in diversen Teams",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mentoren-Ausbildung für betriebliche Integrationsbegleiter",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kommunikationstraining für internationale Mitarbeiter",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Arbeitsrechtliche Grundlagen bei internationaler Beschäftigung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: Interaktiv, 4–8 Stunden | Teilnehmer: 8–20 Personen",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Gemischte Gruppen (Arbeitgeber + Talente oder reine Arbeitgeber-/Talente-Gruppen)",
+      "style": "Normal"
+    },
+    {
+      "text": "Gemeinsam praxisnahe Strategien für Alltag und Beruf entwickeln. Workshops sind ergebnisorientiert – am Ende stehen konkrete Handlungspläne.",
+      "style": "Normal"
+    },
+    {
+      "text": "Design-Thinking-Workshops für Integrationslösungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Teambuilding-Workshops für interkulturelle Teams",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Strategieworkshops für Personalverantwortliche",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Praxisworkshops: Behörden, Anerkennung, Visum",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kreativworkshops: Kulturprojekte und Netzwerkideen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: 45–90 Minuten, Präsentation + Q&A | Teilnehmer: 20–200+ Personen",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Konferenzen, Unternehmensnetzwerke, öffentliche Veranstaltungen",
+      "style": "Normal"
+    },
+    {
+      "text": "Fachlich fundierte Impulse zu aktuellen Themen rund um Integration und Fachkräftegewinnung. Inspirierend, informativ und motivierend.",
+      "style": "Normal"
+    },
+    {
+      "text": "Die Zukunft der Fachkräftegewinnung: Internationale Talente als Chance",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Vom Arbeitgeber zur Willkommenskultur: Wie Integration gelingt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mentoring als Schlüssel zur Fachkräftebindung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Interkulturelle Kompetenz: Ein Wettbewerbsvorteil",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Best Practices aus 10 Jahren Integrationsarbeit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: Online, 60–90 Minuten, interaktiv | Teilnehmer: Unbegrenzt (digital)",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Alle Zielgruppen, deutschlandweit und international",
+      "style": "Normal"
+    },
+    {
+      "text": "Interaktive Online-Formate, die Lernen flexibel und ortsunabhängig machen. Aufzeichnungen bleiben als On-Demand-Inhalte verfügbar.",
+      "style": "Normal"
+    },
+    {
+      "text": "Monatliche Experten-Talks zu Integrationsthemen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Q&A-Sessions mit erfahrenen Integrationsfachleuten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Fallstudien-Präsentationen aus der Praxis",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Live-Demos von Onboarding- und Mentoring-Programmen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Internationale Webinare in Deutsch und Vietnamesisch",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: 1:1 oder Kleingruppe, 60–90 Min pro Sitzung | Dauer: 3–12 Monate",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Einzelpersonen (Talente oder Führungskräfte)",
+      "style": "Normal"
+    },
+    {
+      "text": "Individuelle Begleitung bei beruflichen, sozialen und kulturellen Herausforderungen. Coaching stärkt Selbstvertrauen, klärt Ziele und entwickelt Lösungsstrategien.",
+      "style": "Normal"
+    },
+    {
+      "text": "Karriere-Coaching: Zielsetzung, Entwicklungsplanung, Aufstiegschancen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Führungskräfte-Coaching: Interkulturelle Führungskompetenz",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Konflikt-Coaching: Umgang mit interkulturellen Spannungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Lebenscoaching: Work-Life-Balance, Stressbewältigung, Ankommen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Sprach-Coaching: Flüssiger sprechen, Fachsprache meistern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: Mehrtägig, praxisorientiert | Teilnehmer: 10–25 Personen",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Teams aus Unternehmen und Talente gemeinsam",
+      "style": "Normal"
+    },
+    {
+      "text": "Trainings für Unternehmen und Talente zur Stärkung von Kommunikation und Teamgeist. Training fördert das gegenseitige Verständnis und die Zusammenarbeit.",
+      "style": "Normal"
+    },
+    {
+      "text": "Team-Integration-Training: Vom Nebeneinander zum Miteinander",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kommunikationstraining: Klarheit in der Vielfalt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Feedback-Training: Konstruktiv kritisieren und loben",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Resilienz-Training: Umgang mit Herausforderungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Führungstraining: Teams erfolgreich leiten",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: 1:1, langfristig (12–24 Monate) | Frequenz: Mindestens 2x monatlich",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Talente in der Integrationsphase",
+      "style": "Normal"
+    },
+    {
+      "text": "Langfristige Begleitung durch erfahrene Mentor:innen für nachhaltige Entwicklung. Mentoring ist das wirksamste Instrument für tiefe Integration und dauerhafte Bindung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Persönliches Matching nach Branche, Interessen, Persönlichkeit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Strukturierter Gesprächsleitfaden mit monatlichen Meilensteinen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Gemeinsame Aktivitäten: Netzwerkveranstaltungen, Freizeitunternehmungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Supervision und Fortbildung für Mentoren",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Alumni-Netzwerk nach Programmende",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Format: Veranstaltungen, 2–4 Stunden | Teilnehmer: 30–200+ Personen",
+      "style": "Normal"
+    },
+    {
+      "text": "Zielgruppe: Alle Stakeholder: Unternehmen, Talente, Behörden, Partner",
+      "style": "Normal"
+    },
+    {
+      "text": "Veranstaltungen, die Menschen, Kulturen und Ideen verbinden. Events schaffen Begegnung, fördern Austausch und stärken das Gemeinschaftsgefühl.",
+      "style": "Normal"
+    },
+    {
+      "text": "Integrationsfeste und Kulturabende",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Netzwerktreffen für Unternehmen und Talente",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Jahreskonferenz „Integration im Mittelstand“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Alumni-Treffen für ehemalige Programmteilnehmer",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Tag der offenen Tür bei Partnerunternehmen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Sommerfeste und Weihnachtsfeiern für die Community",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "* Mentoring für Talente ist durch Arbeitgeber-Beiträge finanziert.",
+      "style": "Normal"
+    },
+    {
+      "text": "URL: /uber-uns/",
+      "style": "Normal"
+    },
+    {
+      "text": "Headline: Wir sorgen für das Bleiben Ihrer Talente",
+      "style": "Normal"
+    },
+    {
+      "text": "Fachkräftegewinnung endet nicht mit der Einstellung neuer Mitarbeitender. Wirklich erfolgreich ist sie erst dann, wenn internationale Fachkräfte interkulturell integriert werden, sich langfristig mit dem Unternehmen identifizieren, aktiv einbringen und bleiben wollen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Erfolg beginnt, wenn Talente bleiben",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE wurde als Integrationsarm der VIETconsult Group gegründet, um eine Lücke im Markt zu schließen: Während viele Agenturen sich auf die Rekrutierung konzentrieren, endet ihre Arbeit oft mit der Einreise. talentsCARE setzt genau dort an, wo andere aufhören – bei der nachhaltigen Integration.",
+      "style": "Normal"
+    },
+    {
+      "text": "Seit über 10 Jahren begleiten wir Unternehmen und Fachkräfte auf dem Weg zu erfolgreicher Zusammenarbeit. Unsere Erfahrung zeigt: Nur wenn Talente sich willkommen fühlen, bleiben sie langfristig.",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE arbeitet als Netzwerkpartner mit einem breiten Spektrum an Institutionen zusammen:",
+      "style": "Normal"
+    },
+    {
+      "text": "Bundesamt für Migration und Flüchtlinge (BAMF)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Bundesagentur für Arbeit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ausländerämter in Frankfurt, Hannover, München, Berlin",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Anerkennungsstellen für Berufsqualifikationen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Industrie- und Handelskammern (IHK)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Handwerkskammern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Pflegekammern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Welcome Centers in allen Bundesländern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Wirtschaftsförderungen (städtisch und regional)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Bildungsträger und Sprachschulen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Weiterbildungsinstitute",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Nachhaltige Fachkräftegewinnung bedeutet, die Menschen nicht nur zu gewinnen, sondern sie auch dauerhaft einzubinden und zu integrieren. Die Einstellung ist nur der erste Schritt.",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir glauben an die Kraft der Begegnung. Integration gelingt, wenn Menschen sich kennenlernen, verstehen und respektieren. Deshalb schaffen wir Räume für Austausch – im Unternehmen, in der Nachbarschaft, in der Gesellschaft.",
+      "style": "Normal"
+    },
+    {
+      "text": "5.0 Sterne Google-Bewertung (Höchste Kundenzufriedenheit)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mitglied im Verband Deutscher Bildungswerke",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Zertifiziert nach ISO 9001:2015",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Anerkannter Partner des BAMF",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kooperationspartner der Bundesagentur für Arbeit",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Empfohlen von IHK Frankfurt und IHK Hannover",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "URL: /team/",
+      "style": "Normal"
+    },
+    {
+      "text": "Headline: Lernen Sie die Experten hinter talentsCARE kennen",
+      "style": "Normal"
+    },
+    {
+      "text": "Unser Team vereint interkulturelle Kompetenz, langjährige Erfahrung in Integration und Beratung, und echte Leidenschaft für nachhaltige Fachkräfteentwicklung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Hinweis für Designer: Grid-Layout mit Foto, Name, Position, Kurzbeschreibung. Hover-Effekt mit detaillierter Bio.",
+      "style": "Normal"
+    },
+    {
+      "text": "Dr. Nguyen Thi Lan | Geschäftsführung",
+      "style": "Normal"
+    },
+    {
+      "text": "Über 15 Jahre Erfahrung in internationaler Fachkräfteentwicklung. Promovierte in Interkultureller Kommunikation an der Universität Frankfurt. Spricht Deutsch, Vietnamesisch und Englisch fließend.",
+      "style": "Normal"
+    },
+    {
+      "text": "Thomas Müller | Leiter Integration & Beratung",
+      "style": "Normal"
+    },
+    {
+      "text": "Diplom-Sozialarbeiter mit Schwerpunkt Migration. 10 Jahre Erfahrung in der Begleitung internationaler Fachkräfte. Certified Coach (ICF).",
+      "style": "Normal"
+    },
+    {
+      "text": "Pham Van Duc | Leiter Training & Schulung",
+      "style": "Normal"
+    },
+    {
+      "text": "Erwachsenenbildner und zertifizierter Trainer. Spezialist für interkulturelle Kommunikation und Teamdynamik. Zweisprachig aufgewachsen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir sind immer auf der Suche nach engagierten Menschen, die unsere Mission teilen. Aktuelle Stellenangebote finden Sie auf unserer Website oder kontaktieren Sie uns direkt.",
+      "style": "Normal"
+    },
+    {
+      "text": "Sinnvolle Arbeit mit echtem Impact",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Flexibles Arbeiten (Hybrid, Remote-Optionen)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kontinuierliche Weiterbildung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Internationales, diverses Team",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Faire Vergütung und Zusatzleistungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "URL: /projekt/",
+      "style": "Normal"
+    },
+    {
+      "text": "Headline: Erfolgreiche Integration internationaler Fachkräfte im Mittelstand",
+      "style": "Normal"
+    },
+    {
+      "text": "Auf dieser Seite präsentieren wir ausgewählte Projekte, Case Studies und Erfahrungsberichte, die zeigen, wie talentsCARE Unternehmen und Talente erfolgreich zusammenbringt.",
+      "style": "Normal"
+    },
+    {
+      "text": "Regelmäßige Fachbeiträge zu aktuellen Themen rund um Integration, Fachkräftegewinnung und interkulturelle Zusammenarbeit.",
+      "style": "Normal"
+    },
+    {
+      "text": "Wie gelingt Integration im ländlichen Raum?",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Interkulturelle Konflikte – Erkennen, verstehen, lösen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Onboarding Best Practices aus dem Mittelstand",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Sprachförderung über B2 hinaus – Warum es sich lohnt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mentoring als Schlüssel zur Fachkräftebindung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Rechtliche Updates: Fachkräfteeinwanderungsgesetz 2024",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Erfolgsgeschichten: Wie Talente zu Führungskräften wurden",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Tipps für Arbeitgeber: So bereiten Sie Ihr Team vor",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Detaillierte Fallstudien aus der Praxis, die den Erfolg unserer Programme belegen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Ausgangssituation: Welches Problem hatte das Unternehmen?",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Lösungsansatz: Welche talentsCARE-Dienstleistungen wurden eingesetzt?",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Umsetzung: Wie sah der Prozess konkret aus?",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ergebnis: Messbare Verbesserungen (Fluktuation, Zufriedenheit, Produktivität)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kundenstimme: Direktes Zitat des Unternehmens",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Berichte, Interviews und Erwähnungen in Fachmedien, regionalen Zeitungen und Online-Plattformen, die unsere Expertise und unseren Beitrag zur Fachkräfteintegration anerkennen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Frankfurter Allgemeine Zeitung: „Integration als Wettbewerbsvorteil“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Handelsblatt: „So gewinnt der Mittelstand internationale Talente“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Pflegezeitschrift: „Mentoring macht den Unterschied“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "HR Today: „talentsCARE: Best Practice in Fachkräfteintegration“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "IHK-Magazin: „Partner für nachhaltige Integration“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Hinweis für Designer: Slider mit Kundenzitaten, Foto, Name, Firma. Abwechselnd Arbeitgeber und Talente.",
+      "style": "Normal"
+    },
+    {
+      "text": "„Dank talentsCARE haben wir nicht nur Fachkräfte gefunden, sondern echte Teammitglieder, die bleiben wollen.“ – Dr. Sabine Hoffmann, Geschäftsführerin, Pflegezentrum am Main",
+      "style": "Normal"
+    },
+    {
+      "text": "„Das Mentoring-Programm hat mir geholfen, Deutschland zu meiner neuen Heimat zu machen.“ – Tran Thi Mai, Altenpflegerin, Frankfurt",
+      "style": "Normal"
+    },
+    {
+      "text": "„Professionell, empathisch, ergebnisorientiert – so wünschen wir uns einen Partner.“ – Michael Schneider, HR-Leiter, Maschinenbau GmbH",
+      "style": "Normal"
+    },
+    {
+      "text": "Kostenlose Materialien zum Download:",
+      "style": "Normal"
+    },
+    {
+      "text": "Whitepaper: „Nachhaltige Fachkräfteintegration im Mittelstand“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Checkliste: „Onboarding für internationale Mitarbeiter“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Leitfaden: „Mentoring-Programm aufbauen“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Infografik: „6 Phasen der Integration“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Webinar-Aufzeichnungen (On-Demand)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "URL: /kontakt/",
+      "style": "Normal"
+    },
+    {
+      "text": "Felder:",
+      "style": "Normal"
+    },
+    {
+      "text": "Name (Pflicht)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "E-Mail (Pflicht)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Telefonnummer (Optional)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Firmenname (Optional)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Interessiert an: Dropdown",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "- Recruiting-Beratung",
+      "style": "Normal"
+    },
+    {
+      "text": "- Onboarding-Programme",
+      "style": "Normal"
+    },
+    {
+      "text": "- Interkulturelles Training",
+      "style": "Normal"
+    },
+    {
+      "text": "- Mentoring-Programme",
+      "style": "Normal"
+    },
+    {
+      "text": "- Fachkräftebindung",
+      "style": "Normal"
+    },
+    {
+      "text": "- Kooperation",
+      "style": "Normal"
+    },
+    {
+      "text": "- Sonstiges",
+      "style": "Normal"
+    },
+    {
+      "text": "Nachricht (Freitext, max. 1000 Zeichen)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "DSGVO-Checkbox (Pflicht): „Ich habe die Datenschutzerklärung gelesen und stimme der Verarbeitung meiner Daten zu.“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "CTA-Button: Anfrage senden",
+      "style": "Normal"
+    },
+    {
+      "text": "Bestätigungsnachricht: „Vielen Dank für Ihre Anfrage! Wir melden uns innerhalb von 24 Stunden bei Ihnen. Bei dringenden Fragen erreichen Sie uns unter 0162-8849368.“",
+      "style": "Normal"
+    },
+    {
+      "text": "Hauptsitz: Frankfurt am Main",
+      "style": "Normal"
+    },
+    {
+      "text": "Julius-Brecht-Str. 3, 60433 Frankfurt, Deutschland",
+      "style": "Normal"
+    },
+    {
+      "text": "Zweigstelle: Hannover",
+      "style": "Normal"
+    },
+    {
+      "text": "(Adresse auf Anfrage)",
+      "style": "Normal"
+    },
+    {
+      "text": "Trainingszentren in Vietnam: Ho-Chi-Minh-Stadt, Hanoi",
+      "style": "Normal"
+    },
+    {
+      "text": "Hinweis für Designer: Google Maps-Einbettung mit Standort Frankfurt.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Wie lange dauert es, bis ich Fachkräfte bekomme?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Je nach Bedarf und Verfahren zwischen 3–12 Monaten. Wir begleiten den gesamten Prozess.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Was kostet die Vermittlung?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Die Kosten variieren je nach Dienstleistung. Kontaktieren Sie uns für ein individuelles Angebot.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Müssen die Fachkräfte Vermittlungsgebühren zahlen?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Nein. Wir arbeiten nach dem Employer-Pays-Prinzip. Für Fachkräfte entstehen keine Kosten.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Bieten Sie auch nur einzelne Services an (z.B. nur Training)?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Ja, alle 9 Kerndienstleistungen sind auch einzeln buchbar.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Muss ich für die Vermittlung bezahlen?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Nein. talentsCARE arbeitet nach dem Employer-Pays-Prinzip. Sie zahlen nichts.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Wie kann ich am Mentoring-Programm teilnehmen?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Wenn Ihr Arbeitgeber mit uns zusammenarbeitet, können Sie automatisch teilnehmen. Kontaktieren Sie uns für Details.",
+      "style": "Normal"
+    },
+    {
+      "text": "F: Gibt es Unterstützung bei der Wohnungssuche?",
+      "style": "Normal"
+    },
+    {
+      "text": "A: Ja, in Phase 2 unseres Programms unterstützen wir Sie bei Behördengängen, Wohnung und Alltagsorientierung.",
+      "style": "Normal"
+    },
+    {
+      "text": "Sie möchten lieber angerufen werden?",
+      "style": "Normal"
+    },
+    {
+      "text": "Wunschtermin auswählen (Kalender-Widget)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Name und Telefonnummer eingeben",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Thema auswählen (Dropdown)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Wir rufen Sie zum gewünschten Zeitpunkt zurück",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Bleiben Sie informiert über Integrationsthemen, Best Practices und Veranstaltungen.",
+      "style": "Normal"
+    },
+    {
+      "text": "E-Mail-Feld",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "DSGVO-Checkbox",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "CTA: Anmelden",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Frequenz: Monatlich",
+      "style": "Normal"
+    },
+    {
+      "text": "Inhalte: Branchennews, Tipps, Veranstaltungshinweise, Erfolgsgeschichten",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE-Logo (links)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Größe: max. 180px Breite",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Farbversion für hellen Hintergrund, weiße Version für dunklen Hintergrund",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Willkommen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Über uns > Team (Dropdown)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Services > Arbeitgeber / Talente (Dropdown)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Projekt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kontakt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Telefonnummer: 0162-8849368 (sichtbar auf Desktop, klickbar auf Mobile)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "CTA-Button: „Kontakt“ (Farbe: Gold #D4AC0D)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Sprachumschalter: DE / VN (optional für spätere Erweiterung)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Hamburger-Menü (rechts)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Logo (zentriert oder links)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Telefon-Icon (rechts, klickbar)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Logo",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kurzbeschreibung: „talentsCARE – Ihr Partner für nachhaltige Fachkräfteintegration. Integration · Schulung · Coaching · Mentoring.“",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Social Media Icons: Facebook, Instagram, YouTube, LinkedIn",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Willkommen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Über uns",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Team",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Projekt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kontakt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Für Arbeitgeber",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Für Talente",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "9 Kerndienstleistungen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Adresse: Julius-Brecht-Str. 3, 60433 Frankfurt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Telefon: 069 8700746-90",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Mobil: 0162-8849368",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "E-Mail: info@talentscare.de",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "© 2026 talentsCARE. Alle Rechte vorbehalten.",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Impressum | Datenschutz",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "DSGVO-konform mit Complianz oder CookieYes.",
+      "style": "Normal"
+    },
+    {
+      "text": "Funktional (immer aktiv)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Präferenzen",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Statistiken",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Marketing",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Überschrift: „Wir respektieren Ihre Privatsphäre“",
+      "style": "Normal"
+    },
+    {
+      "text": "Text: „Wir verwenden Cookies, um Ihre Erfahrung auf unserer Website zu verbessern. Einige sind notwendig, andere helfen uns, die Website zu optimieren.“",
+      "style": "Normal"
+    },
+    {
+      "text": "Buttons: „Alle akzeptieren“ | „Einstellungen“ | „Nur notwendige“",
+      "style": "Normal"
+    },
+    {
+      "text": "URL: /impressum/",
+      "style": "Normal"
+    },
+    {
+      "text": "talentsCARE",
+      "style": "Normal"
+    },
+    {
+      "text": "Ein Geschäftsbereich der VIETconsult Group",
+      "style": "Normal"
+    },
+    {
+      "text": "Julius-Brecht-Str. 3",
+      "style": "Normal"
+    },
+    {
+      "text": "60433 Frankfurt am Main",
+      "style": "Normal"
+    },
+    {
+      "text": "Deutschland",
+      "style": "Normal"
+    },
+    {
+      "text": "Telefon: 069 8700746-90",
+      "style": "Normal"
+    },
+    {
+      "text": "Mobil: 0162-8849368",
+      "style": "Normal"
+    },
+    {
+      "text": "E-Mail: info@talentscare.de",
+      "style": "Normal"
+    },
+    {
+      "text": "[Name des/der Geschäftsführer:in einfügen]",
+      "style": "Normal"
+    },
+    {
+      "text": "Registergericht: Amtsgericht Frankfurt am Main",
+      "style": "Normal"
+    },
+    {
+      "text": "Registernummer: [HRB XXXXX]",
+      "style": "Normal"
+    },
+    {
+      "text": "Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: DE XXXXXXXXX",
+      "style": "Normal"
+    },
+    {
+      "text": "[Name und Adresse]",
+      "style": "Normal"
+    },
+    {
+      "text": "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/",
+      "style": "Normal"
+    },
+    {
+      "text": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+      "style": "Normal"
+    },
+    {
+      "text": "URL: /datenschutz/",
+      "style": "Normal"
+    },
+    {
+      "text": "Allgemeine Hinweise:",
+      "style": "Normal"
+    },
+    {
+      "text": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.",
+      "style": "Normal"
+    },
+    {
+      "text": "Wer ist verantwortlich für die Datenerfassung auf dieser Website?",
+      "style": "Normal"
+    },
+    {
+      "text": "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Wie erfassen wir Ihre Daten?",
+      "style": "Normal"
+    },
+    {
+      "text": "Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.",
+      "style": "Normal"
+    },
+    {
+      "text": "Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs).",
+      "style": "Normal"
+    },
+    {
+      "text": "Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen.",
+      "style": "Normal"
+    },
+    {
+      "text": "Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen.",
+      "style": "Normal"
+    },
+    {
+      "text": "[Vollständige DSGVO-konforme Datenschutzerklärung durch Rechtsanwalt erstellen lassen]",
+      "style": "Normal"
+    },
+    {
+      "text": "Cookie-Banner: Complianz oder CookieYes (DSGVO-konform)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Impressum: Vollständig nach § 5 TMG",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Datenschutzerklärung: Nach DSGVO, durch Anwalt geprüft",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Kontaktformular: Mit DSGVO-Checkbox",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "SSL-Verschlüsselung: Pflicht",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Auftragsverarbeitungsverträge (AVV): Mit allen Drittanbietern",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Google Fonts: Lokal eingebunden (nicht von Google-Servern)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "YouTube-Embeds: Privacy-Enhanced Mode oder zwei-Klick-Lösung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "XML-Sitemap (automatisch generiert)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "robots.txt (korrekt konfiguriert)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Canonical URLs",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Strukturierte Daten (Schema.org)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Open Graph Tags für Social Media",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Twitter Cards",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Hreflang-Tags (für spätere Mehrsprachigkeit)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Organization",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "LocalBusiness",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Service",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "FAQPage",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "BreadcrumbList",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "WCAG 2.1 Level AA anstreben",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Alt-Texte für alle Bilder",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Ausreichende Farbkontraste (min. 4.5:1 für Text)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Tastaturnavigation möglich",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Skip-Links für Screenreader",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Aria-Labels für interaktive Elemente",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Fokus-Indikatoren sichtbar",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "SSL/HTTPS: Pflicht",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Regelmäßige Updates: WordPress, Plugins, Theme",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Zwei-Faktor-Authentifizierung für Admin",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Firewall: Wordfence oder Sucuri",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Login-Schutz: Brute-Force-Schutz, Captcha",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Backup: Täglich, offsite Speicherung",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Malware-Scan: Regelmäßig",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "Empfohlener Veröffentlichungsplan für die ersten 3 Monate nach Launch:",
+      "style": "Normal"
+    },
+    {
+      "text": "☐ Alle Texte auf Rechtschreibung geprüft",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Alle Links funktionieren (intern und extern)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Bilder optimiert und Alt-Texte vorhanden",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Mobile Ansicht getestet",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Kontaktformular getestet",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ DSGVO-Texte (Impressum, Datenschutz) von Anwalt geprüft",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Cookie-Banner funktioniert korrekt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ SSL-Zertifikat aktiv",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Google Analytics / Matomo eingerichtet",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Meta-Daten für alle Seiten ausgefüllt",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ XML-Sitemap generiert",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ robots.txt konfiguriert",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Backup-System eingerichtet",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ 301-Redirects von alter Website (falls vorhanden)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Website bei Google Search Console anmelden",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Website bei Bing Webmaster Tools anmelden",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Google My Business aktualisieren",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Social Media Profile mit neuer Website verlinken",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Launch-Ankündigung versenden",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Monitoring einrichten (Uptime, Performance)",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Erste Woche: tägliche Überprüfung auf Fehler",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Nach 2 Wochen: Performance-Review",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "☐ Nach 1 Monat: Analytics-Review",
+      "style": "List Paragraph"
+    },
+    {
+      "text": "--- ENDE DES DOKUMENTS ---",
+      "style": "Normal"
+    },
+    {
+      "text": "Version 3.0 | April 2026 | talentsCARE",
+      "style": "Normal"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "VIETconsult",
+        "talentsCARE",
+        "LSP Integrate+",
+        "Gerimmi"
+      ],
+      [
+        "Rekrutierung & Lead-Generierung",
+        "Schulung & Integration (Kernplattform)",
+        "Premium-Coaching (LEGO® SP)",
+        "Investition & Niederlassung"
+      ]
+    ],
+    [
+      [
+        "10+ Jahre",
+        "110+ Kunden",
+        "20+ Experten",
+        "5.0 ★"
+      ],
+      [
+        "Bewährte Expertise in Integration und Beratung",
+        "Wachsende Zahl zufriedener Arbeitgeber und Talente",
+        "Engagiertes Fachteam mit interkultureller Kompetenz",
+        "Google-Bewertung – Höchste Kundenzufriedenheit"
+      ]
+    ],
+    [
+      [
+        "Ebene",
+        "Angebot",
+        "Quelle",
+        "Preisniveau"
+      ],
+      [
+        "Ebene 1",
+        "Webinare (kostenlos / günstig)",
+        "talentsCARE",
+        "Low-Cost / Freemium"
+      ],
+      [
+        "Ebene 2",
+        "Workshops, Schulungen, Training",
+        "talentsCARE",
+        "Mittlere Preiskategorie"
+      ],
+      [
+        "Ebene 3",
+        "Coaching, Mentoring, Beratungspakete",
+        "talentsCARE + LSP",
+        "High-Ticket / Premium"
+      ]
+    ],
+    [
+      [
+        "Nr.",
+        "Seite",
+        "URL",
+        "Navigation"
+      ],
+      [
+        "1",
+        "Willkommen",
+        "/",
+        "Hauptnavigation"
+      ],
+      [
+        "2",
+        "Über uns",
+        "/uber-uns/",
+        "Hauptnavigation"
+      ],
+      [
+        "3",
+        "Team",
+        "/team/",
+        "Unter Über uns"
+      ],
+      [
+        "4",
+        "Services – Arbeitgeber",
+        "/arbeitsgeber/",
+        "Dropdown unter Services"
+      ],
+      [
+        "5",
+        "Services – Talente",
+        "/talente/",
+        "Dropdown unter Services"
+      ],
+      [
+        "6",
+        "Projekt",
+        "/projekt/",
+        "Hauptnavigation"
+      ],
+      [
+        "7",
+        "Kontakt",
+        "/kontakt/",
+        "Hauptnavigation + CTA"
+      ],
+      [
+        "8",
+        "Impressum",
+        "/impressum/",
+        "Footer"
+      ],
+      [
+        "9",
+        "Datenschutz",
+        "/datenschutz/",
+        "Footer"
+      ]
+    ],
+    [
+      [
+        "Branche",
+        "Typische Berufe",
+        "Besondere Herausforderungen"
+      ],
+      [
+        "Gesundheitswesen",
+        "Pflegekräfte, Ärzte, Therapeuten",
+        "Anerkennung, Sprachniveau C1, Schichtarbeit"
+      ],
+      [
+        "Technologie und IT",
+        "Entwickler, Systemadministratoren",
+        "Fachterminologie, agile Methoden"
+      ],
+      [
+        "Bau und Ingenieurwesen",
+        "Bauingenieure, Facharbeiter",
+        "Sicherheitsvorschriften, Normen"
+      ],
+      [
+        "Fertigung und Produktion",
+        "Maschinenbediener, Techniker",
+        "Qualitätsstandards, Teamarbeit"
+      ],
+      [
+        "Gastronomie und Hotel",
+        "Köche, Servicekräfte, Hotelfachleute",
+        "Kundenservice, Arbeitszeiten"
+      ],
+      [
+        "Logistik und Transport",
+        "Lageristen, Fahrer, Disponenten",
+        "Dokumentation, Zeitdruck"
+      ],
+      [
+        "Handwerk",
+        "Elektriker, Installateure, Maler",
+        "Meistervoraussetzungen, Kundenkontakt"
+      ],
+      [
+        "Finanzen und Versicherungen",
+        "Buchhalter, Sachbearbeiter",
+        "Regulatorische Anforderungen"
+      ],
+      [
+        "Bildung und Weiterbildung",
+        "Dozenten, Trainer",
+        "Pädagogische Methoden"
+      ],
+      [
+        "Energie und Umwelt",
+        "Techniker, Ingenieure",
+        "Nachhaltigkeitsstandards"
+      ]
+    ],
+    [
+      [
+        "Vorteil",
+        "Beschreibung",
+        "Ihr Nutzen"
+      ],
+      [
+        "Expertise und Erfahrung",
+        "Über 10 Jahre Erfahrung in der Integration internationaler Fachkräfte",
+        "Maßgeschneiderte Lösungen, die funktionieren"
+      ],
+      [
+        "Engagiertes Team",
+        "20+ Experten mit interkultureller Kompetenz",
+        "Fachwissen und persönliches Engagement"
+      ],
+      [
+        "Kundenzufriedenheit",
+        "5.0 Sterne Google-Bewertung, 95% Weiterempfehlungsrate",
+        "Hochwertige und individuelle Ansätze"
+      ],
+      [
+        "Langfristiger Erfolg",
+        "Begleitung über den gesamten Integrationsprozess",
+        "Nachhaltige Integration und Entwicklung"
+      ],
+      [
+        "Ethischer Ansatz",
+        "Employer-Pays-Prinzip, keine Kosten für Fachkräfte",
+        "Hochmotivierte, schuldenfreie Mitarbeiter"
+      ],
+      [
+        "Bundesweites Netzwerk",
+        "Partner in allen Bundesländern",
+        "Flächendeckende Betreuung vor Ort"
+      ]
+    ],
+    [
+      [
+        "Qualitätsmerkmal",
+        "Beschreibung",
+        "Nachweis"
+      ],
+      [
+        "Strukturiert",
+        "Klare Abläufe von der Bedarfsanalyse bis zum erfolgreichen Arbeitsbeginn",
+        "Dokumentierte Prozesse, Meilensteine"
+      ],
+      [
+        "Rechtssicher",
+        "Vollständige Übernahme der Anerkennungs- und Visumsverfahren",
+        "Juristische Beratung, Compliance"
+      ],
+      [
+        "Nachhaltig",
+        "Langfristige Mitarbeiterbindung durch professionelles Onboarding",
+        "Retention-Rate >85% nach 2 Jahren"
+      ],
+      [
+        "Transparent",
+        "Offene Kommunikation, keine versteckten Kosten",
+        "Regelmäßige Reports, klare Verträge"
+      ],
+      [
+        "Skalierbar",
+        "Von einzelnen Fachkräften bis zu großen Kontingenten",
+        "Flexible Kapazitäten, digitale Tools"
+      ]
+    ],
+    [
+      [
+        "Zeitraum",
+        "Fokus",
+        "Maßnahmen"
+      ],
+      [
+        "Woche 1–2",
+        "Willkommen & Orientierung",
+        "Willkommenspaket, Unternehmensvorstellung, Abteilungsrundgang"
+      ],
+      [
+        "Woche 3–4",
+        "Fachliche Einarbeitung",
+        "Buddy-System, erste Feedbackgespräche, Aufgabenübergabe"
+      ],
+      [
+        "Monat 2–3",
+        "Vertiefung",
+        "Selbstständiges Arbeiten, regelmäßige Check-ins, Zwischenevaluation"
+      ],
+      [
+        "Monat 4–6",
+        "Konsolidierung",
+        "Evaluation, Zielvereinbarung, langfristige Entwicklungsplanung"
+      ]
+    ],
+    [
+      [
+        "Modul",
+        "Inhalt",
+        "Dauer / Format"
+      ],
+      [
+        "Kulturelle Grundlagen",
+        "Werte, Kommunikationsstile, Hierarchieverständnis in Vietnam vs. Deutschland",
+        "Halbtages-Workshop (4h)"
+      ],
+      [
+        "Kommunikation",
+        "Direkte vs. indirekte Kommunikation, Feedback-Kultur, Konfliktlösung",
+        "Ganztages-Workshop (8h)"
+      ],
+      [
+        "Führungskompetenz",
+        "Interkulturelle Führung, Motivation internationaler Teams, Erwartungsmanagement",
+        "2-Tages-Intensiv-Training"
+      ],
+      [
+        "Alltagsintegration",
+        "Verständnis für Herausforderungen im Alltag, Unterstützungsmöglichkeiten",
+        "Webinar (2h)"
+      ]
+    ],
+    [
+      [
+        "Service",
+        "Format",
+        "Preisspanne",
+        "Inklusivleistungen"
+      ],
+      [
+        "Recruiting-Beratung",
+        "Projekt",
+        "Auf Anfrage",
+        "Bedarfsanalyse, Matching, Vertragsunterstützung"
+      ],
+      [
+        "Onboarding-Programm",
+        "3–6 Monate",
+        "2.500–5.000 €",
+        "Komplettes Onboarding-Paket inkl. Team-Briefing"
+      ],
+      [
+        "Interkulturelles Training",
+        "Halbtag bis 2 Tage",
+        "800–3.000 €",
+        "Maßgeschneiderte Inhalte, Materialien"
+      ],
+      [
+        "Mentoring-Aufbau",
+        "12 Monate",
+        "4.000–8.000 €",
+        "Mentor-Schulung, Matching, Supervision"
+      ],
+      [
+        "Fachkräftebindung",
+        "Beratungspaket",
+        "1.500–4.000 €",
+        "Analyse, Maßnahmenplan, Umsetzungsbegleitung"
+      ],
+      [
+        "Kooperationsprojekte",
+        "Nach Vereinbarung",
+        "Auf Anfrage",
+        "Individuell nach Projektumfang"
+      ]
+    ],
+    [
+      [
+        "Monat",
+        "Phase",
+        "Fokus",
+        "Meilenstein"
+      ],
+      [
+        "-6 bis -1",
+        "Vorbereitung",
+        "Kulturelle Orientierung, Dokumentation",
+        "Visum erhalten, Arbeitsvertrag unterschrieben"
+      ],
+      [
+        "1–3",
+        "Ankommen",
+        "Behörden, Wohnung, Alltag",
+        "Registriert, eingerichtet, orientiert"
+      ],
+      [
+        "4–6",
+        "Einarbeitung",
+        "Fachliche Integration, Teamaufbau",
+        "Selbstständiges Arbeiten möglich"
+      ],
+      [
+        "7–12",
+        "Entwicklung",
+        "Netzwerk, Weiterbildung, Karriere",
+        "Sprachprüfung bestanden, Anerkennung"
+      ],
+      [
+        "13–24",
+        "Konsolidierung",
+        "Mentoring, Vertiefung, Zukunftsplanung",
+        "Langfristige Bindung, Weiterempfehlung"
+      ]
+    ],
+    [
+      [
+        "Dienstleistung",
+        "Format",
+        "Zielgruppe",
+        "Preis (ab)"
+      ],
+      [
+        "Seminare",
+        "Halbtag",
+        "Alle",
+        "490 €"
+      ],
+      [
+        "Schulungen",
+        "1–2 Tage",
+        "Arbeitgeber",
+        "990 €"
+      ],
+      [
+        "Workshops",
+        "4–8 Stunden",
+        "Gemischt",
+        "790 €"
+      ],
+      [
+        "Vorträge",
+        "45–90 Min",
+        "Konferenzen",
+        "590 €"
+      ],
+      [
+        "Webinare",
+        "60–90 Min",
+        "Alle",
+        "kostenlos / 99 €"
+      ],
+      [
+        "Coaching",
+        "3–12 Monate",
+        "Einzelpersonen",
+        "1.500 €"
+      ],
+      [
+        "Training",
+        "Mehrtägig",
+        "Teams",
+        "1.990 €"
+      ],
+      [
+        "Mentoring",
+        "12–24 Monate",
+        "Talente",
+        "kostenlos*"
+      ],
+      [
+        "Events",
+        "2–4 Stunden",
+        "Community",
+        "variabel"
+      ]
+    ],
+    [
+      [
+        "Jahr",
+        "Meilenstein"
+      ],
+      [
+        "2014",
+        "Gründung als Teil der VIETconsult Group"
+      ],
+      [
+        "2016",
+        "Erste Mentoring-Programme für Pflegekräfte"
+      ],
+      [
+        "2018",
+        "Eröffnung des Trainingszentrums in Frankfurt"
+      ],
+      [
+        "2020",
+        "Digitalisierung: Online-Lernplattform gestartet"
+      ],
+      [
+        "2022",
+        "Bundesweites Mentoring-Netzwerk etabliert"
+      ],
+      [
+        "2024",
+        "110+ Kunden, 20+ Experten, 5.0 Google-Bewertung"
+      ],
+      [
+        "2026",
+        "Relaunch der Website, WooCommerce-Integration"
+      ]
+    ],
+    [
+      [
+        "Wert",
+        "Bedeutung",
+        "In der Praxis"
+      ],
+      [
+        "Nachhaltigkeit",
+        "Wir denken langfristig, nicht in schnellen Lösungen",
+        "Programme über 12–24 Monate, Nachbetreuung"
+      ],
+      [
+        "Verantwortung",
+        "Ethische Standards und Fairness sind nicht verhandelbar",
+        "Employer-Pays-Prinzip, keine Schulden für Talente"
+      ],
+      [
+        "Partnerschaft",
+        "Wir arbeiten mit Ihnen, nicht für Sie – auf Augenhöhe",
+        "Co-Design von Programmen, gemeinsame Evaluation"
+      ],
+      [
+        "Qualität",
+        "Jede Maßnahme wird individuell angepasst und evaluiert",
+        "Feedbackschleifen, kontinuierliche Verbesserung"
+      ],
+      [
+        "Integration",
+        "Nicht nur beruflich, sondern auch menschlich und sozial",
+        "Ganzheitliche Begleitung, private Netzwerke"
+      ]
+    ],
+    [
+      [
+        "Bereich",
+        "Verantwortung",
+        "Größe",
+        "Kompetenz"
+      ],
+      [
+        "Geschäftsführung",
+        "Strategie, Partnerschaften, Unternehmensentwicklung",
+        "2 Personen",
+        "Unternehmensführung, Internationales Management"
+      ],
+      [
+        "Integration & Beratung",
+        "Onboarding, Coaching, Mentoring-Koordination",
+        "8 Personen",
+        "Sozialarbeit, Psychologie, Interkulturelle Kommunikation"
+      ],
+      [
+        "Training & Schulung",
+        "Seminare, Workshops, Webinare, Events",
+        "6 Personen",
+        "Erwachsenenbildung, Moderation, Fachtraining"
+      ],
+      [
+        "Kooperation & Netzwerk",
+        "Behörden, Kammern, Welcome Centers",
+        "3 Personen",
+        "Public Relations, Verwaltung, Netzwerkmanagement"
+      ],
+      [
+        "Digital & Marketing",
+        "Website, Lernplattform, Social Media",
+        "3 Personen",
+        "Webentwicklung, Content Creation, UX Design"
+      ]
+    ],
+    [
+      [
+        "Unternehmen",
+        "Branche",
+        "Programm",
+        "Ergebnis"
+      ],
+      [
+        "Pflegeeinrichtung Frankfurt",
+        "Pflege & Medizin",
+        "Onboarding + Mentoring",
+        "Fluktuation -40% nach 12 Monaten"
+      ],
+      [
+        "IT-Unternehmen Hannover",
+        "Technologie",
+        "Interkulturelles Training",
+        "Teamzufriedenheit +35%"
+      ],
+      [
+        "Handwerksbetrieb Niedersachsen",
+        "Handwerk",
+        "Azubi-Integration",
+        "100% Ausbildungsabschluss"
+      ],
+      [
+        "Hotel & Gastronomie Berlin",
+        "Gastronomie",
+        "Coaching + Sprachförderung",
+        "Mitarbeiterbindung +60%"
+      ],
+      [
+        "Bauunternehmen Bayern",
+        "Bau",
+        "Fachkräftebindung",
+        "Know-how-Transfer gesichert"
+      ]
+    ],
+    [
+      [
+        "Kontaktweg",
+        "Details"
+      ],
+      [
+        "Mobil",
+        "0162-8849368"
+      ],
+      [
+        "Telefon",
+        "069 8700746-90"
+      ],
+      [
+        "E-Mail",
+        "info@talentscare.de"
+      ],
+      [
+        "Adresse",
+        "Julius-Brecht-Str. 3, 60433 Frankfurt, Deutschland"
+      ],
+      [
+        "Google-Bewertung",
+        "5.0 Sterne"
+      ],
+      [
+        "Öffnungszeiten",
+        "Mo–Fr: 9:00–18:00 Uhr"
+      ]
+    ],
+    [
+      [
+        "Button",
+        "Farbe",
+        "Verwendung"
+      ],
+      [
+        "Primär CTA",
+        "Gold (#D4AC0D)",
+        "Kostenlose Beratung, Kontakt"
+      ],
+      [
+        "Sekundär CTA",
+        "Teal (#148F77)",
+        "Mehr erfahren, Details"
+      ],
+      [
+        "Tertiär/Link",
+        "Dunkelgrün (#0B5345)",
+        "Textlinks, Navigation"
+      ]
+    ],
+    [
+      [
+        "Element",
+        "Schriftart",
+        "Größe",
+        "Stil"
+      ],
+      [
+        "H1",
+        "Arial / Poppins",
+        "36–48px",
+        "Bold, Dunkelgrün"
+      ],
+      [
+        "H2",
+        "Arial / Poppins",
+        "28–32px",
+        "Bold, Dunkelgrün"
+      ],
+      [
+        "H3",
+        "Arial / Poppins",
+        "22–26px",
+        "Semibold, Teal"
+      ],
+      [
+        "Body",
+        "Arial / Open Sans",
+        "16–18px",
+        "Regular, Dunkelgrau"
+      ],
+      [
+        "CTA",
+        "Arial / Poppins",
+        "16–18px",
+        "Bold, Weiß auf Gold"
+      ]
+    ],
+    [
+      [
+        "Name",
+        "HEX",
+        "Verwendung"
+      ],
+      [
+        "Dunkelgrün (Primär)",
+        "#0B5345",
+        "Überschriften, Logo, Hauptfarbe"
+      ],
+      [
+        "Teal (Akzent)",
+        "#148F77",
+        "Akzente, Links, Icons"
+      ],
+      [
+        "Gold (Highlight)",
+        "#D4AC0D",
+        "CTAs, Buttons, Highlights"
+      ],
+      [
+        "Weiß",
+        "#FFFFFF",
+        "Hintergründe, Text auf dunkel"
+      ],
+      [
+        "Hellgrau",
+        "#F5F5F5",
+        "Hintergründe, Sections"
+      ],
+      [
+        "Dunkelgrau",
+        "#333333",
+        "Body-Text"
+      ],
+      [
+        "Mittelgrau",
+        "#666666",
+        "Sekundärtext, Subheadlines"
+      ]
+    ],
+    [
+      [
+        "Komponente",
+        "Technologie",
+        "Details"
+      ],
+      [
+        "CMS",
+        "WordPress 6.x",
+        "Aktuelle stabile Version"
+      ],
+      [
+        "Page Builder",
+        "Elementor Pro",
+        "Oder Starter Templates"
+      ],
+      [
+        "Theme",
+        "Hello Elementor / Astra Pro",
+        "Leichtgewichtig, performant"
+      ],
+      [
+        "E-Commerce",
+        "WooCommerce",
+        "Für Kursverkauf (später)"
+      ]
+    ],
+    [
+      [
+        "Anforderung",
+        "Spezifikation"
+      ],
+      [
+        "Hosting",
+        "Managed WordPress Hosting (z.B. Raidboxes, All-Inkl, WP Engine)"
+      ],
+      [
+        "SSL/HTTPS",
+        "Pflicht – Let's Encrypt oder kommerzielles SSL"
+      ],
+      [
+        "Ladezeit",
+        "< 3 Sekunden (LCP < 2.5s, FID < 100ms, CLS < 0.1)"
+      ],
+      [
+        "PageSpeed",
+        "> 80 (Mobile und Desktop)"
+      ],
+      [
+        "CDN",
+        "Cloudflare oder ähnlich (optional, empfohlen)"
+      ],
+      [
+        "Backup",
+        "Täglich, mindestens 30 Tage Aufbewahrung"
+      ],
+      [
+        "PHP-Version",
+        "8.1 oder höher"
+      ],
+      [
+        "MySQL-Version",
+        "8.0 oder MariaDB 10.5+"
+      ]
+    ],
+    [
+      [
+        "Tool",
+        "Zweck",
+        "DSGVO-Hinweis"
+      ],
+      [
+        "Google Analytics 4",
+        "Website-Analyse",
+        "Mit IP-Anonymisierung, Cookie-Consent"
+      ],
+      [
+        "Matomo (Alternative)",
+        "Website-Analyse",
+        "Datenschutzfreundlich, selbst gehostet"
+      ],
+      [
+        "Google Tag Manager",
+        "Tag-Management",
+        "Mit Cookie-Consent"
+      ],
+      [
+        "Hotjar (optional)",
+        "Heatmaps, User-Feedback",
+        "Mit Consent"
+      ]
+    ],
+    [
+      [
+        "Seite",
+        "Title (max. 60 Zeichen)",
+        "Description (max. 160 Zeichen)"
+      ],
+      [
+        "Startseite",
+        "talentsCARE – Integration internationaler Fachkräfte",
+        "Wir helfen Unternehmen, globale Talente erfolgreich zu integrieren. Onboarding, Mentoring, Training. Jetzt Beratung anfragen!"
+      ],
+      [
+        "Über uns",
+        "Über talentsCARE – Ihr Partner für Fachkräfteintegration",
+        "10+ Jahre Erfahrung, 110+ Kunden, 20+ Experten. Erfahren Sie, wie wir nachhaltige Integration gestalten."
+      ],
+      [
+        "Arbeitgeber",
+        "Services für Arbeitgeber – talentsCARE",
+        "Recruiting-Beratung, Onboarding, interkulturelles Training, Mentoring. Nachhaltige Fachkräftebindung für Ihr Unternehmen."
+      ],
+      [
+        "Talente",
+        "Services für Talente – talentsCARE",
+        "Begleitung von der Vorbereitung bis zur Integration. Mentoring, Coaching, digitale Lernplattformen für Ihren Erfolg."
+      ],
+      [
+        "Kontakt",
+        "Kontakt – talentsCARE Frankfurt",
+        "Kostenlose Beratung anfragen. Tel: 069 8700746-90. Julius-Brecht-Str. 3, Frankfurt."
+      ]
+    ],
+    [
+      [
+        "Breakpoint",
+        "Breite",
+        "Anpassungen"
+      ],
+      [
+        "Desktop",
+        "> 1200px",
+        "Vollständiges Layout, alle Spalten"
+      ],
+      [
+        "Laptop",
+        "992–1200px",
+        "Leichte Anpassungen, kleinere Abstände"
+      ],
+      [
+        "Tablet",
+        "768–991px",
+        "2-Spalten-Layout, angepasste Navigation"
+      ],
+      [
+        "Mobile",
+        "< 768px",
+        "1-Spalte, Hamburger-Menü, vereinfachte Elemente"
+      ]
+    ],
+    [
+      [
+        "Woche",
+        "Inhalt",
+        "Kanal",
+        "Verantwortlich"
+      ],
+      [
+        "1",
+        "Launch-Ankündigung",
+        "Website, Social Media, Newsletter",
+        "Marketing"
+      ],
+      [
+        "2",
+        "Blog: Willkommenspost",
+        "Website, LinkedIn",
+        "Content"
+      ],
+      [
+        "3",
+        "Case Study: Pflegeeinrichtung",
+        "Website, Newsletter",
+        "Integration"
+      ],
+      [
+        "4",
+        "Webinar-Ankündigung",
+        "Social Media, E-Mail",
+        "Training"
+      ],
+      [
+        "5",
+        "Blog: Onboarding Best Practices",
+        "Website, LinkedIn",
+        "Content"
+      ],
+      [
+        "6",
+        "Testimonial-Video",
+        "YouTube, Website, Social",
+        "Marketing"
+      ],
+      [
+        "7",
+        "Infografik: 6 Phasen",
+        "Social Media, Website",
+        "Design"
+      ],
+      [
+        "8",
+        "Case Study: IT-Unternehmen",
+        "Website, Newsletter",
+        "Integration"
+      ],
+      [
+        "9",
+        "Blog: Mentoring-Leitfaden",
+        "Website, LinkedIn",
+        "Content"
+      ],
+      [
+        "10",
+        "Event-Ankündigung",
+        "Social Media, E-Mail",
+        "Events"
+      ],
+      [
+        "11",
+        "Whitepaper-Release",
+        "Website, LinkedIn",
+        "Marketing"
+      ],
+      [
+        "12",
+        "Quartalsrückblick",
+        "Newsletter, Website",
+        "Geschäftsführung"
+      ]
+    ],
+    [
+      [
+        "Begriff",
+        "Definition"
+      ],
+      [
+        "Employer-Pays-Prinzip",
+        "Rekrutierungsmodell, bei dem alle Kosten vom Arbeitgeber getragen werden. Fachkräfte zahlen keine Vermittlungsgebühren."
+      ],
+      [
+        "Onboarding",
+        "Strukturierter Prozess zur Einarbeitung und Integration neuer Mitarbeiter in ein Unternehmen."
+      ],
+      [
+        "Mentoring",
+        "Langfristige 1:1-Begleitung durch einen erfahrenen Mentor zur persönlichen und beruflichen Entwicklung."
+      ],
+      [
+        "Fachkräfteeinwanderungsgesetz",
+        "Deutsches Gesetz zur Regelung der Einwanderung qualifizierter Arbeitskräfte aus Drittstaaten."
+      ],
+      [
+        "Anerkennung",
+        "Verfahren zur Feststellung der Gleichwertigkeit ausländischer Berufsqualifikationen mit deutschen Abschlüssen."
+      ],
+      [
+        "Welcome Center",
+        "Anlaufstellen für Neuzugewanderte in deutschen Städten und Regionen."
+      ],
+      [
+        "IHK",
+        "Industrie- und Handelskammer – zuständig für Berufsausbildung und Anerkennung in kaufmännischen und gewerblichen Berufen."
+      ],
+      [
+        "BAMF",
+        "Bundesamt für Migration und Flüchtlinge – zentrale Behörde für Asyl, Migration und Integration."
+      ],
+      [
+        "Interkulturelle Kompetenz",
+        "Fähigkeit, effektiv und angemessen mit Menschen aus anderen Kulturen zu interagieren."
+      ],
+      [
+        "Retention Rate",
+        "Prozentsatz der Mitarbeiter, die über einen bestimmten Zeitraum im Unternehmen bleiben."
+      ]
+    ]
+  ],
+  "sections": {
+    "1.1. Einführung": [
+      "talentsCARE ist das Herzstück des VIETconsult-Ökosystems – das zentrale Schulungs- und Integrationssystem für die nachhaltige Einbindung internationaler Fachkräfte in deutsche Unternehmen. Als strategischer Integrationspartner von VIETconsult übernimmt talentsCARE die langfristige Begleitung und Förderung von Fachkräften und Unternehmen nach der Rekrutierung.",
+      "Während VIETconsult für Rekrutierung, Sprachausbildung und Einreise zuständig ist, begleitet talentsCARE den gesamten Integrationsprozess – vom ersten Arbeitstag bis zur langfristigen Mitarbeiterbindung.",
+      "Langfristige Integration ist die eigentliche Fachkräftegewinnung."
+    ],
+    "1.2. Positionierung im Ökosystem": [
+      "talentsCARE nimmt eine zentrale Stellung innerhalb des 4-Website-Ökosystems der VIETconsult Group ein:",
+      "Der Kundenfluss: VIETconsult rekrutiert → talentsCARE integriert → LSP vertieft → Gerimmi monetarisiert. talentsCARE ist die Brücke zwischen Einreise und langfristigem Erfolg."
+    ],
+    "1.3. Projektziele": [
+      "Aufbau einer professionellen Integrationsplattform für Arbeitgeber und Talente",
+      "Bereitstellung von 9 Kerndienstleistungen: Seminare, Schulungen, Workshops, Vorträge, Webinare, Coaching, Training, Mentoring, Events",
+      "Nachhaltige Fachkräftebindung durch praxisnahe Onboarding- und Mentoring-Programme",
+      "Employer-Pays-Prinzip – ethische Rekrutierung ohne Kosten für Fachkräfte",
+      "Kooperation mit Behörden, Kammern, Welcome Centers und Wirtschaftsförderungen",
+      "Digitale Lernplattformen und virtuelle Netzwerke für kontinuierliche Weiterentwicklung",
+      "Aufbau eines WooCommerce-Shops für den Verkauf von Kursen, Workshops und Coaching-Paketen"
+    ],
+    "A. Arbeitgeber (Primäre Zielgruppe)": [
+      "Mittelständische Unternehmen in Deutschland mit internationalem Fachkräftebedarf",
+      "Personalverantwortliche und Führungskräfte, die Integration aktiv gestalten wollen",
+      "Unternehmen in den Bereichen Pflege, Technik, IT, Bau, Gastronomie, Logistik",
+      "Wirtschaftsförderungen und Kammern, die regionale Integration unterstützen"
+    ],
+    "B. Talente (Sekundäre Zielgruppe)": [
+      "Internationale Fachkräfte, die bereits in Deutschland angekommen sind oder in Kürze einreisen",
+      "Auszubildende (Azubis) aus Vietnam und anderen Drittstaaten",
+      "Fachkräfte, die berufliche und persönliche Weiterentwicklung suchen",
+      "Talente, die Mentoring und Netzwerkaufbau benötigen"
+    ],
+    "1.6. Geschäftsmodell": [
+      "Drei Umsatzebenen:"
+    ],
+    "1.7. Wettbewerbsvorteile": [
+      "End-to-End-Begleitung – Vom ersten Arbeitstag bis zur langfristigen Bindung, kein anderer Anbieter bietet diesen Umfang",
+      "Eigene Infrastruktur – Büros in Frankfurt und Hannover + Trainingszentren in Vietnam",
+      "Ethischer Ansatz – Employer-Pays-Prinzip gemäß internationalen Standards (WHO, ILO, KDA)",
+      "Interkulturelle Doppelkompetenz – Team versteht sowohl deutsche Unternehmenskultur als auch vietnamesische Mentalität",
+      "Bundesweites Mentoring-Netzwerk – Flächendeckende Betreuung in ganz Deutschland",
+      "Digitale Skalierbarkeit – Online-Lernplattformen ermöglichen Wachstum ohne proportionalen Ressourcenaufwand"
+    ],
+    "1.8. Slogan & Markenidentität": [
+      "Entfalten Sie das Potenzial Ihrer globalen Talente",
+      "Markenwerte: Nachhaltigkeit · Verantwortung · Partnerschaft · Integration · Qualität",
+      "Tonfall: Professionell, warmherzig, ergebnisorientiert, interkulturell sensibel",
+      "Farbpalette: Dunkelgrün (#0B5345) als Hauptfarbe, Teal (#148F77) als Akzent, Gold (#D4AC0D) für Highlights"
+    ],
+    "3. SEITE: WILLKOMMEN (STARTSEITE)": [
+      "URL: /",
+      "Zweck: Erster Eindruck, Vertrauensaufbau, Lead-Generierung"
+    ],
+    "3.1. Hero Section": [
+      "Headline (H1): Entfalten Sie das Potenzial Ihrer globalen Talente",
+      "mit fachkundiger Beratung, interkulturellem Training, individuellem Coaching, nahtloser Integration, Teamzusammenarbeit",
+      "Subheadline: Mit talentsCARE helfen wir Unternehmen, globale Talente erfolgreich zu integrieren und zu fördern.",
+      "CTA: Kostenlose Beratung vereinbaren → /kontakt/",
+      "Visuell: Professionelles Hero-Bild mit diversem Team in modernem Büroumfeld. Alternativ: Videoloop mit Arbeitsszenen aus verschiedenen Branchen."
+    ],
+    "Tab 1 – Arbeitgeber:": [
+      "Talentbindung und -gewinnung – Positives Arbeitsumfeld und starke Unternehmenskultur schaffen",
+      "Steigerung der Produktivität – Offene und unterstützende Arbeitsatmosphäre fördern",
+      "Nachhaltiger Unternehmenserfolg – Investition in Mitarbeiter und kontinuierliche Weiterbildung"
+    ],
+    "Tab 2 – Talente:": [
+      "Vielfalt der Fähigkeiten – Innovation und Kreativität durch verschiedene Perspektiven",
+      "Langfristiger Erfolg – Kontinuierliche Weiterbildung und Motivation",
+      "Engagement – Aktive Förderung in unterstützendem Umfeld"
+    ],
+    "3.3. Branchen (Erweitert)": [
+      "Wir unterstützen Unternehmen aus verschiedenen Branchen bei der Integration internationaler Fachkräfte:"
+    ],
+    "3.4. Warum wir – Ihre Lösung für nachhaltigen Erfolg (Erweitert)": [
+      "Kennzahlen: 10 Jahre Erfahrung · 110 Kunden · 20+ Experten"
+    ],
+    "3.6. Ethisches Recruiting (Fairness-Faktor) – Erweitert": [
+      "talentsCARE arbeitet konsequent nach dem Employer-Pays-Prinzip. Für die Fachkräfte fallen keinerlei Vermittlungsgebühren an. Diese ethische Herangehensweise sichert die Einhaltung internationaler Standards und garantiert hochmotivierte Mitarbeiter."
+    ],
+    "Unsere Verpflichtungen:": [
+      "Keine Vermittlungsgebühren für Fachkräfte – Arbeitgeber tragen alle Kosten",
+      "Transparente Vertragsgestaltung – Alle Bedingungen sind klar und verständlich",
+      "Keine Rückzahlungsklauseln für Fachkräfte – Keine Schuldenfalle",
+      "Freie Arbeitsplatzwahl nach Anerkennung – Keine Bindung gegen den Willen",
+      "Einhaltung internationaler Standards – WHO, ILO, KDA-Richtlinien"
+    ],
+    "Zertifizierungen und Mitgliedschaften:": [
+      "Mitglied im Verband Deutscher Bildungswerke (VDB)",
+      "Zertifiziert nach ISO 9001:2015 für Qualitätsmanagement",
+      "Anerkannter Partner des BAMF für Integrationsprogramme",
+      "Kooperationspartner der Bundesagentur für Arbeit"
+    ],
+    "3.7. Testimonials-Section": [
+      "Hinweis für Designer: Slider mit Kundenzitaten, abwechselnd Arbeitgeber und Talente."
+    ],
+    "Beispiel-Testimonials:": [
+      "„Dank talentsCARE haben wir nicht nur Fachkräfte gefunden, sondern echte Teammitglieder, die bleiben wollen.“ – Dr. Sabine Hoffmann, Geschäftsführerin, Pflegezentrum am Main",
+      "„Das Mentoring-Programm hat mir geholfen, Deutschland zu meiner neuen Heimat zu machen.“ – Tran Thi Mai, Altenpflegerin, Frankfurt",
+      "„Professionell, empathisch, ergebnisorientiert – so wünschen wir uns einen Partner.“ – Michael Schneider, HR-Leiter, Maschinenbau GmbH"
+    ],
+    "3.8. Partner-Logos": [
+      "Hinweis für Designer: Logo-Carousel mit Partnern:",
+      "Behörden: BAMF, Bundesagentur für Arbeit, Ausländerämter",
+      "Kammern: IHK, Handwerkskammer, Pflegekammer",
+      "Welcome Centers: Frankfurt, Hannover, München, Berlin",
+      "Wirtschaftsförderungen: Regionale Partner",
+      "Bildungsträger: Sprachschulen, Weiterbildungsinstitute"
+    ],
+    "3.9. Kontaktformular (Startseite)": [
+      "Felder:",
+      "Name (Pflicht)",
+      "E-Mail (Pflicht)",
+      "Telefon (Optional)",
+      "Firmenname (Optional)",
+      "Interessiert an: Dropdown (Arbeitgeber / Talente / Beides)",
+      "Nachricht (Freitext)",
+      "DSGVO-Checkbox (Pflicht): „Ich habe die Datenschutzerklärung gelesen und stimme der Verarbeitung meiner Daten zu.“",
+      "CTA-Button: Einreichen",
+      "Bestätigungsnachricht: „Vielen Dank für Ihre Anfrage. Wir melden uns innerhalb von 24 Stunden bei Ihnen.“"
+    ],
+    "4. SEITE: SERVICES – ARBEITGEBER (ERWEITERT)": [
+      "URL: /arbeitsgeber/",
+      "Zweck: Komplettes Dienstleistungsportfolio für Unternehmen"
+    ],
+    "4.1. Einleitung": [
+      "Wir unterstützen Unternehmen dabei, internationale Fachkräfte nicht nur zu gewinnen, sondern langfristig zu halten. Recruiting ist nur der erste Schritt – echte Fachkräftegewinnung bedeutet, Talente erfolgreich zu integrieren, zu begleiten und im Betrieb zu stärken.",
+      "Mit praxisnahen Onboarding-Programmen, interkulturellem Training und bundesweit flächendeckendem Mentoring schaffen wir die Basis für nachhaltige Integration, stabile Teams und langfristigen Unternehmenserfolg.",
+      "Der Fachkräftemangel stellt viele Unternehmen vor große Herausforderungen – besonders bei nachhaltiger Integration und langfristiger Mitarbeiterbindung."
+    ],
+    "4.2. Recruiting-Beratung": [
+      "Zielgruppe: Unternehmen mit offenen Stellen für Fachkräfte und Azubis aus Drittstaaten",
+      "Wir finden Fachkräfte und Azubis aus Drittstaaten, die fachlich und menschlich zu Ihrem Unternehmen passen. Unsere Beratung umfasst Bedarfsanalyse, Stellenprofil-Erstellung und Matching mit vorqualifizierten Kandidaten aus dem VIETconsult-Netzwerk."
+    ],
+    "Leistungen im Detail:": [
+      "Analyse des Personalbedarfs und Erstellung von Anforderungsprofilen",
+      "Matching mit vorqualifizierten Kandidaten aus Vietnam",
+      "Begleitung des Auswahlprozesses (Interviews, Assessment)",
+      "Unterstützung bei Arbeitsverträgen und rechtlichen Rahmenbedingungen",
+      "Abstimmung mit VIETconsult für Sprachausbildung und Visa-Prozess",
+      "Ergebnis: Motivierte Mitarbeitende, die langfristig bleiben und sich mit dem Unternehmen identifizieren."
+    ],
+    "4.3. Onboarding-Programme": [
+      "Zielgruppe: Neue internationale Mitarbeitende, deren Teams und Führungskräfte",
+      "Wir gestalten den Start systematisch – für Talente, Teams und Führungskräfte. Ein strukturiertes Onboarding reduziert die Einarbeitungszeit und erhöht die Bindung von Anfang an."
+    ],
+    "Paralleles Team-Onboarding:": [
+      "Vorbereitung des bestehenden Teams auf den neuen Kollegen",
+      "Interkulturelle Sensibilisierung für die gesamte Abteilung",
+      "Führungskräfte-Briefing: Wie führe ich interkulturelle Teams erfolgreich?",
+      "Ergebnis: Kürzere Einarbeitungszeit, mehr Motivation, schnellere Produktivität und weniger Frühfluktuation."
+    ],
+    "4.4. Interkulturelles Training": [
+      "Zielgruppe: Teams, Abteilungen und Führungskräfte, die mit internationalen Kollegen arbeiten",
+      "Wir schulen Teams und Führungskräfte, um Zusammenarbeit und Kommunikation zu verbessern. Aus Vielfalt wird Stärke – Missverständnisse werden vermieden, Zusammenarbeit gestärkt."
+    ],
+    "Trainingsmodule:": [
+      "Ergebnis: Aus Vielfalt wird Stärke – bessere Kommunikation, weniger Missverständnisse, stärkere Teamdynamik."
+    ],
+    "4.5. Mentoring-Programme für Arbeitgeber": [
+      "Zielgruppe: Unternehmen, die ein strukturiertes Mentoring-System aufbauen möchten",
+      "Ein bewährtes Instrument für nachhaltige Integration. Mentoring schafft Vertrauen und trägt zur langfristigen Fachkräftebindung bei."
+    ],
+    "Programmaufbau:": [
+      "Auswahl und Schulung interner Mentoren aus dem Unternehmen",
+      "Matching: Mentor und Mentée werden nach Persönlichkeit und Fachgebiet zusammengebracht",
+      "Strukturierte Gesprächsleitfäden und Meilensteine (monatlich)",
+      "Begleitende Supervision durch talentsCARE-Experten",
+      "Evaluation nach 6 und 12 Monaten",
+      "Ergebnis: Vertrauen, Orientierung und langfristige Fachkräftebindung. Mentoring reduziert die Fluktuation nachweislich um bis zu 50%."
+    ],
+    "4.6. Fachkräftebindung": [
+      "Zielgruppe: Unternehmen mit bestehenden internationalen Mitarbeitenden",
+      "Wir entwickeln Strategien, damit Talente nicht nur bleiben, sondern sich fachlich und persönlich weiterentwickeln."
+    ],
+    "Maßnahmen:": [
+      "Coaching am Arbeitsplatz: Individuell auf die Talente abgestimmt, regelmäßige Gespräche",
+      "Kommunikations- und Teamtraining: Zusammenarbeit klar und respektvoll gestalten",
+      "Unterstützung für Führungskräfte: Damit Integration im Betrieb gelingt",
+      "Konfliktmediation: Vermittlung bei interkulturellen Missverständnissen",
+      "Regelmäßige Feedbackrunden: Zwischen Talent, Team und Führungskraft",
+      "Ergebnis: Schnellere Eingewöhnung, stabile Arbeitsbeziehungen und höhere Zufriedenheit auf beiden Seiten."
+    ],
+    "4.7. Starke Kooperation": [
+      "Zielgruppe: Behörden, Kammern, Bildungsträger und Unternehmen",
+      "Wir übernehmen die Abstimmung mit Behörden, Kammern und Institutionen und gestalten gemeinsam praxisnahe Formate."
+    ],
+    "Kooperationsformate:": [
+      "Seminare und Workshops für Behördenmitarbeiter zu Integrationsprozessen",
+      "Webinare für Unternehmensnetzwerke und Wirtschaftsförderungen",
+      "Erfahrungsaustausch zwischen Unternehmen, Verwaltung und Bildungsträgern",
+      "Gemeinsame Informationsveranstaltungen für Arbeitgeber in der Region",
+      "Zusammenarbeit mit Welcome Centers für ganzheitliche Integration",
+      "Ergebnis: Entlastung für Unternehmen, reibungslose Abläufe, Integration als Gemeinschaftsaufgabe."
+    ],
+    "4.8. Preisübersicht Arbeitgeber-Services": [
+      "Hinweis: Alle Preise sind Nettopreise zzgl. MwSt. Individuelle Pakete auf Anfrage."
+    ],
+    "5. SEITE: SERVICES – TALENTE (ERWEITERT)": [
+      "URL: /talente/",
+      "Zweck: Ganzheitliche Begleitung internationaler Fachkräfte"
+    ],
+    "5.1. Einleitung": [
+      "Wir begleiten internationale Fachkräfte auf ihrem Weg nach Deutschland – von der Vorbereitung im Heimatland bis zur erfolgreichen Integration im Beruf und Alltag. Mit praxisnahen Trainings, individueller Betreuung und bundesweitem Mentoring schaffen wir die Grundlage für einen sicheren Start, persönliche Entwicklung und langfristigen Erfolg.",
+      "Unser Ziel: Talente sollen sich nicht nur fachlich, sondern auch menschlich sicher, verstanden und willkommen fühlen."
+    ],
+    "5.2. Phase 1: Vorbereitung im Heimatland": [
+      "Zeitraum: 3–6 Monate vor Einreise",
+      "Gemeinsam mit unseren Kooperationspartnern vor Ort (VIETconsult / HDEU Vietnam) bereiten wir Talente optimal auf ihren Start in Deutschland vor."
+    ],
+    "5.3. Phase 2: Unterstützung beim Start in Deutschland": [
+      "Zeitraum: Erste 1–3 Monate nach Ankunft",
+      "Wir bieten keine bloße Begleitung, sondern echte Unterstützung beim Ankommen."
+    ],
+    "Konkrete Hilfen:": [
+      "Behördengänge: Anmeldung, Aufenthaltserlaubnis, Versicherung, Bankkontoeröffnung",
+      "Wohnungssuche: Beratung, Bewerbungsunterstützung, Vertragsprüfung",
+      "Alltagsorientierung: Einkaufen, öffentlicher Verkehr, digitale Services, Gesundheitssystem",
+      "Notfallkontakt: 24/7-Erreichbarkeit für dringende Fragen in den ersten Wochen",
+      "Soziale Vernetzung: Vermittlung von Landsleuten, Community-Events, Freizeitangebote",
+      "Ergebnis: Ein sicherer Start ohne Überforderung. Talente fühlen sich willkommen und orientiert."
+    ],
+    "5.4. Phase 3: Berufliche Begleitung": [
+      "Zeitraum: Monat 1–12 im Unternehmen",
+      "Viele Unternehmen beschränken sich auf fachliche Einarbeitung – wir gehen bewusst weiter."
+    ],
+    "5.5. Phase 4: Persönliche Entwicklung": [
+      "Zeitraum: Ab Monat 6, fortlaufend",
+      "Wir fördern Talente als ganze Menschen – nicht nur als Fachkräfte.",
+      "Aufbau beruflicher Netzwerke: Fachveranstaltungen, Branchentreffen, Alumni-Netzwerk",
+      "Aufbau privater Netzwerke: Sportvereine, Kulturgruppen, Nachbarschaftsinitiativen",
+      "Coaching zur Selbstständigkeit: Selbstvertrauen, Eigenverantwortung, Entscheidungsfähigkeit",
+      "Sprachliche Weiterentwicklung: Über B2 hinaus, Fachsprache, Dialekte verstehen",
+      "Karriereplanung: Welche nächsten Schritte sind möglich? Weiterbildung, Aufstieg, Spezialisierung",
+      "Ergebnis: Talente fühlen sich zugehörig, entwickeln sich weiter und bleiben langfristig."
+    ],
+    "5.6. Phase 5: Mentoring": [
+      "Zeitraum: 12–24 Monate, erweiterbar",
+      "Unsere Mentoring-Programme begleiten Talente individuell über den gesamten Integrationsprozess hinweg.",
+      "Persönliche Begleitung durch erfahrene Mentoren (1:1)",
+      "Orientierung im Berufs- und Alltagsleben",
+      "Unterstützung beim Aufbau von beruflichen und sozialen Netzwerken",
+      "Regelmäßige Treffen (mindestens 2x monatlich)",
+      "Gemeinsame Zielvereinbarungen und Fortschrittskontrolle",
+      "Ergebnis: Sicherheit, Selbstvertrauen und Orientierung – für nachhaltige Integration und langfristigen Erfolg."
+    ],
+    "5.7. Phase 6: Digitale Unterstützung & Lernplattformen": [
+      "Zeitraum: Fortlaufend",
+      "Wir begleiten Talente auch digital, um kontinuierliches Lernen und Vernetzung zu ermöglichen.",
+      "Online-Lernplattformen: Berufliche und sprachliche Weiterbildung (asynchron)",
+      "Virtuelle Netzwerke: Austausch mit anderen Talenten deutschlandweit",
+      "Digitale Alltagshilfen: Apps und Tools für Behörden, Wohnung, Gesundheit",
+      "Live-Webinare: Monatliche Themenabende zu relevanten Integrationsfragen",
+      "Erfolgsgeschichten: Plattform zum Teilen von Erfahrungen und Inspiration",
+      "Ergebnis: Selbstständiges Lernen, globale Vernetzung, moderne Tools für persönliche und berufliche Entwicklung."
+    ],
+    "5.8. Integrations-Roadmap für Talente": [
+      "Visuelle Übersicht des gesamten Integrationsprozesses:"
+    ],
+    "6. 9 KERNDIENSTLEISTUNGEN (ERWEITERT)": [
+      "Die 9 Kerndienstleistungen von talentsCARE bilden das Rückgrat des gesamten Integrationsangebots. Jede Dienstleistung ist eigenständig buchbar und kann auch als Paket kombiniert werden."
+    ],
+    "6.1. Seminare": [
+      "Format: Halbtagsveranstaltung (3–4 Stunden) | Teilnehmer: 10–30 Personen",
+      "Zielgruppe: Arbeitgeber, Führungskräfte, HR-Verantwortliche, Talente",
+      "Praxisnahes Fachwissen zu Integration, Kommunikation und Kultur teilen. Seminare bieten einen strukturierten Rahmen für Wissensvermittlung und Erfahrungsaustausch auf Augenhöhe."
+    ],
+    "Themenbeispiele:": [
+      "Wie gelingt Integration im ländlichen Raum?",
+      "Interkulturelle Konflikte – Erkennen, verstehen, lösen",
+      "Onboarding Best Practices aus dem Mittelstand",
+      "Sprachförderung über B2 hinaus – Warum es sich lohnt",
+      "Mentoring als Schlüssel zur Fachkräftebindung",
+      "Rechtliche Updates: Fachkräfteeinwanderungsgesetz 2024",
+      "Erfolgsgeschichten: Wie Talente zu Führungskräften wurden",
+      "Tipps für Arbeitgeber: So bereiten Sie Ihr Team vor"
+    ],
+    "6.2. Schulungen": [
+      "Format: 1–2 Tage, intensiv | Teilnehmer: 5–15 Personen",
+      "Zielgruppe: Fach- und Führungskräfte, die Integration aktiv gestalten",
+      "Kompakte Trainings mit direkter Anwendbarkeit im Arbeitsalltag. Schulungen gehen tiefer als Seminare und bieten praxisorientierte Werkzeuge und Methoden."
+    ],
+    "6.3. Workshops": [
+      "Format: Interaktiv, 4–8 Stunden | Teilnehmer: 8–20 Personen",
+      "Zielgruppe: Gemischte Gruppen (Arbeitgeber + Talente oder reine Arbeitgeber-/Talente-Gruppen)",
+      "Gemeinsam praxisnahe Strategien für Alltag und Beruf entwickeln. Workshops sind ergebnisorientiert – am Ende stehen konkrete Handlungspläne."
+    ],
+    "Workshop-Formate:": [
+      "Design-Thinking-Workshops für Integrationslösungen",
+      "Teambuilding-Workshops für interkulturelle Teams",
+      "Strategieworkshops für Personalverantwortliche",
+      "Praxisworkshops: Behörden, Anerkennung, Visum",
+      "Kreativworkshops: Kulturprojekte und Netzwerkideen"
+    ],
+    "6.4. Vorträge": [
+      "Format: 45–90 Minuten, Präsentation + Q&A | Teilnehmer: 20–200+ Personen",
+      "Zielgruppe: Konferenzen, Unternehmensnetzwerke, öffentliche Veranstaltungen",
+      "Fachlich fundierte Impulse zu aktuellen Themen rund um Integration und Fachkräftegewinnung. Inspirierend, informativ und motivierend."
+    ],
+    "Vortragsthemen:": [
+      "Die Zukunft der Fachkräftegewinnung: Internationale Talente als Chance",
+      "Vom Arbeitgeber zur Willkommenskultur: Wie Integration gelingt",
+      "Mentoring als Schlüssel zur Fachkräftebindung",
+      "Interkulturelle Kompetenz: Ein Wettbewerbsvorteil",
+      "Best Practices aus 10 Jahren Integrationsarbeit"
+    ],
+    "6.5. Webinare": [
+      "Format: Online, 60–90 Minuten, interaktiv | Teilnehmer: Unbegrenzt (digital)",
+      "Zielgruppe: Alle Zielgruppen, deutschlandweit und international",
+      "Interaktive Online-Formate, die Lernen flexibel und ortsunabhängig machen. Aufzeichnungen bleiben als On-Demand-Inhalte verfügbar."
+    ],
+    "Webinar-Reihen:": [
+      "Monatliche Experten-Talks zu Integrationsthemen",
+      "Q&A-Sessions mit erfahrenen Integrationsfachleuten",
+      "Fallstudien-Präsentationen aus der Praxis",
+      "Live-Demos von Onboarding- und Mentoring-Programmen",
+      "Internationale Webinare in Deutsch und Vietnamesisch"
+    ],
+    "6.6. Coaching": [
+      "Format: 1:1 oder Kleingruppe, 60–90 Min pro Sitzung | Dauer: 3–12 Monate",
+      "Zielgruppe: Einzelpersonen (Talente oder Führungskräfte)",
+      "Individuelle Begleitung bei beruflichen, sozialen und kulturellen Herausforderungen. Coaching stärkt Selbstvertrauen, klärt Ziele und entwickelt Lösungsstrategien."
+    ],
+    "Coaching-Bereiche:": [
+      "Karriere-Coaching: Zielsetzung, Entwicklungsplanung, Aufstiegschancen",
+      "Führungskräfte-Coaching: Interkulturelle Führungskompetenz",
+      "Konflikt-Coaching: Umgang mit interkulturellen Spannungen",
+      "Lebenscoaching: Work-Life-Balance, Stressbewältigung, Ankommen",
+      "Sprach-Coaching: Flüssiger sprechen, Fachsprache meistern"
+    ],
+    "6.7. Training": [
+      "Format: Mehrtägig, praxisorientiert | Teilnehmer: 10–25 Personen",
+      "Zielgruppe: Teams aus Unternehmen und Talente gemeinsam",
+      "Trainings für Unternehmen und Talente zur Stärkung von Kommunikation und Teamgeist. Training fördert das gegenseitige Verständnis und die Zusammenarbeit."
+    ],
+    "Training-Module:": [
+      "Team-Integration-Training: Vom Nebeneinander zum Miteinander",
+      "Kommunikationstraining: Klarheit in der Vielfalt",
+      "Feedback-Training: Konstruktiv kritisieren und loben",
+      "Resilienz-Training: Umgang mit Herausforderungen",
+      "Führungstraining: Teams erfolgreich leiten"
+    ],
+    "6.8. Mentoring": [
+      "Format: 1:1, langfristig (12–24 Monate) | Frequenz: Mindestens 2x monatlich",
+      "Zielgruppe: Talente in der Integrationsphase",
+      "Langfristige Begleitung durch erfahrene Mentor:innen für nachhaltige Entwicklung. Mentoring ist das wirksamste Instrument für tiefe Integration und dauerhafte Bindung."
+    ],
+    "Mentoring-Elemente:": [
+      "Persönliches Matching nach Branche, Interessen, Persönlichkeit",
+      "Strukturierter Gesprächsleitfaden mit monatlichen Meilensteinen",
+      "Gemeinsame Aktivitäten: Netzwerkveranstaltungen, Freizeitunternehmungen",
+      "Supervision und Fortbildung für Mentoren",
+      "Alumni-Netzwerk nach Programmende"
+    ],
+    "6.9. Events": [
+      "Format: Veranstaltungen, 2–4 Stunden | Teilnehmer: 30–200+ Personen",
+      "Zielgruppe: Alle Stakeholder: Unternehmen, Talente, Behörden, Partner",
+      "Veranstaltungen, die Menschen, Kulturen und Ideen verbinden. Events schaffen Begegnung, fördern Austausch und stärken das Gemeinschaftsgefühl."
+    ],
+    "Eventformate:": [
+      "Integrationsfeste und Kulturabende",
+      "Netzwerktreffen für Unternehmen und Talente",
+      "Jahreskonferenz „Integration im Mittelstand“",
+      "Alumni-Treffen für ehemalige Programmteilnehmer",
+      "Tag der offenen Tür bei Partnerunternehmen",
+      "Sommerfeste und Weihnachtsfeiern für die Community"
+    ],
+    "6.10. Dienstleistungsmatrix – Übersicht": [
+      "* Mentoring für Talente ist durch Arbeitgeber-Beiträge finanziert."
+    ],
+    "7. SEITE: ÜBER UNS (ERWEITERT)": [
+      "URL: /uber-uns/"
+    ],
+    "7.1. Hero": [
+      "Headline: Wir sorgen für das Bleiben Ihrer Talente",
+      "Fachkräftegewinnung endet nicht mit der Einstellung neuer Mitarbeitender. Wirklich erfolgreich ist sie erst dann, wenn internationale Fachkräfte interkulturell integriert werden, sich langfristig mit dem Unternehmen identifizieren, aktiv einbringen und bleiben wollen.",
+      "Erfolg beginnt, wenn Talente bleiben"
+    ],
+    "7.2. Unsere Geschichte": [
+      "talentsCARE wurde als Integrationsarm der VIETconsult Group gegründet, um eine Lücke im Markt zu schließen: Während viele Agenturen sich auf die Rekrutierung konzentrieren, endet ihre Arbeit oft mit der Einreise. talentsCARE setzt genau dort an, wo andere aufhören – bei der nachhaltigen Integration.",
+      "Seit über 10 Jahren begleiten wir Unternehmen und Fachkräfte auf dem Weg zu erfolgreicher Zusammenarbeit. Unsere Erfahrung zeigt: Nur wenn Talente sich willkommen fühlen, bleiben sie langfristig."
+    ],
+    "7.4. Unsere Partner": [
+      "talentsCARE arbeitet als Netzwerkpartner mit einem breiten Spektrum an Institutionen zusammen:"
+    ],
+    "Behörden:": [
+      "Bundesamt für Migration und Flüchtlinge (BAMF)",
+      "Bundesagentur für Arbeit",
+      "Ausländerämter in Frankfurt, Hannover, München, Berlin",
+      "Anerkennungsstellen für Berufsqualifikationen"
+    ],
+    "Kammern:": [
+      "Industrie- und Handelskammern (IHK)",
+      "Handwerkskammern",
+      "Pflegekammern"
+    ],
+    "Weitere Partner:": [
+      "Welcome Centers in allen Bundesländern",
+      "Wirtschaftsförderungen (städtisch und regional)",
+      "Bildungsträger und Sprachschulen",
+      "Weiterbildungsinstitute"
+    ],
+    "7.5. Unsere Philosophie": [
+      "Nachhaltige Fachkräftegewinnung bedeutet, die Menschen nicht nur zu gewinnen, sondern sie auch dauerhaft einzubinden und zu integrieren. Die Einstellung ist nur der erste Schritt.",
+      "Wir glauben an die Kraft der Begegnung. Integration gelingt, wenn Menschen sich kennenlernen, verstehen und respektieren. Deshalb schaffen wir Räume für Austausch – im Unternehmen, in der Nachbarschaft, in der Gesellschaft."
+    ],
+    "7.6. Auszeichnungen & Anerkennung": [
+      "5.0 Sterne Google-Bewertung (Höchste Kundenzufriedenheit)",
+      "Mitglied im Verband Deutscher Bildungswerke",
+      "Zertifiziert nach ISO 9001:2015",
+      "Anerkannter Partner des BAMF",
+      "Kooperationspartner der Bundesagentur für Arbeit",
+      "Empfohlen von IHK Frankfurt und IHK Hannover"
+    ],
+    "8. SEITE: TEAM (ERWEITERT)": [
+      "URL: /team/"
+    ],
+    "8.1. Übersicht": [
+      "Headline: Lernen Sie die Experten hinter talentsCARE kennen",
+      "Unser Team vereint interkulturelle Kompetenz, langjährige Erfahrung in Integration und Beratung, und echte Leidenschaft für nachhaltige Fachkräfteentwicklung."
+    ],
+    "8.3. Teamprofile (Beispiele)": [
+      "Hinweis für Designer: Grid-Layout mit Foto, Name, Position, Kurzbeschreibung. Hover-Effekt mit detaillierter Bio."
+    ],
+    "Beispiel-Profile:": [
+      "Dr. Nguyen Thi Lan | Geschäftsführung",
+      "Über 15 Jahre Erfahrung in internationaler Fachkräfteentwicklung. Promovierte in Interkultureller Kommunikation an der Universität Frankfurt. Spricht Deutsch, Vietnamesisch und Englisch fließend.",
+      "Thomas Müller | Leiter Integration & Beratung",
+      "Diplom-Sozialarbeiter mit Schwerpunkt Migration. 10 Jahre Erfahrung in der Begleitung internationaler Fachkräfte. Certified Coach (ICF).",
+      "Pham Van Duc | Leiter Training & Schulung",
+      "Erwachsenenbildner und zertifizierter Trainer. Spezialist für interkulturelle Kommunikation und Teamdynamik. Zweisprachig aufgewachsen."
+    ],
+    "8.4. Karriere bei talentsCARE": [
+      "Wir sind immer auf der Suche nach engagierten Menschen, die unsere Mission teilen. Aktuelle Stellenangebote finden Sie auf unserer Website oder kontaktieren Sie uns direkt."
+    ],
+    "Was wir bieten:": [
+      "Sinnvolle Arbeit mit echtem Impact",
+      "Flexibles Arbeiten (Hybrid, Remote-Optionen)",
+      "Kontinuierliche Weiterbildung",
+      "Internationales, diverses Team",
+      "Faire Vergütung und Zusatzleistungen"
+    ],
+    "9. SEITE: PROJEKT (ERWEITERT)": [
+      "URL: /projekt/"
+    ],
+    "9.1. Übersicht": [
+      "Headline: Erfolgreiche Integration internationaler Fachkräfte im Mittelstand",
+      "Auf dieser Seite präsentieren wir ausgewählte Projekte, Case Studies und Erfahrungsberichte, die zeigen, wie talentsCARE Unternehmen und Talente erfolgreich zusammenbringt."
+    ],
+    "9.2. Insights (Blog / Wissensbereich)": [
+      "Regelmäßige Fachbeiträge zu aktuellen Themen rund um Integration, Fachkräftegewinnung und interkulturelle Zusammenarbeit."
+    ],
+    "9.3. Case Studies": [
+      "Detaillierte Fallstudien aus der Praxis, die den Erfolg unserer Programme belegen."
+    ],
+    "Case-Study-Struktur:": [
+      "Ausgangssituation: Welches Problem hatte das Unternehmen?",
+      "Lösungsansatz: Welche talentsCARE-Dienstleistungen wurden eingesetzt?",
+      "Umsetzung: Wie sah der Prozess konkret aus?",
+      "Ergebnis: Messbare Verbesserungen (Fluktuation, Zufriedenheit, Produktivität)",
+      "Kundenstimme: Direktes Zitat des Unternehmens"
+    ],
+    "9.4. Media Mentions": [
+      "Berichte, Interviews und Erwähnungen in Fachmedien, regionalen Zeitungen und Online-Plattformen, die unsere Expertise und unseren Beitrag zur Fachkräfteintegration anerkennen."
+    ],
+    "Beispiele:": [
+      "Frankfurter Allgemeine Zeitung: „Integration als Wettbewerbsvorteil“",
+      "Handelsblatt: „So gewinnt der Mittelstand internationale Talente“",
+      "Pflegezeitschrift: „Mentoring macht den Unterschied“",
+      "HR Today: „talentsCARE: Best Practice in Fachkräfteintegration“",
+      "IHK-Magazin: „Partner für nachhaltige Integration“"
+    ],
+    "9.5. Testimonials": [
+      "Hinweis für Designer: Slider mit Kundenzitaten, Foto, Name, Firma. Abwechselnd Arbeitgeber und Talente."
+    ],
+    "9.6. Downloads & Ressourcen": [
+      "Kostenlose Materialien zum Download:",
+      "Whitepaper: „Nachhaltige Fachkräfteintegration im Mittelstand“",
+      "Checkliste: „Onboarding für internationale Mitarbeiter“",
+      "Leitfaden: „Mentoring-Programm aufbauen“",
+      "Infografik: „6 Phasen der Integration“",
+      "Webinar-Aufzeichnungen (On-Demand)"
+    ],
+    "10. SEITE: KONTAKT (ERWEITERT)": [
+      "URL: /kontakt/"
+    ],
+    "10.1. Kontaktformular": [
+      "Felder:",
+      "Name (Pflicht)",
+      "E-Mail (Pflicht)",
+      "Telefonnummer (Optional)",
+      "Firmenname (Optional)",
+      "Interessiert an: Dropdown",
+      "- Recruiting-Beratung",
+      "- Onboarding-Programme",
+      "- Interkulturelles Training",
+      "- Mentoring-Programme",
+      "- Fachkräftebindung",
+      "- Kooperation",
+      "- Sonstiges",
+      "Nachricht (Freitext, max. 1000 Zeichen)",
+      "DSGVO-Checkbox (Pflicht): „Ich habe die Datenschutzerklärung gelesen und stimme der Verarbeitung meiner Daten zu.“",
+      "CTA-Button: Anfrage senden",
+      "Bestätigungsnachricht: „Vielen Dank für Ihre Anfrage! Wir melden uns innerhalb von 24 Stunden bei Ihnen. Bei dringenden Fragen erreichen Sie uns unter 0162-8849368.“"
+    ],
+    "10.3. Standorte": [
+      "Hauptsitz: Frankfurt am Main",
+      "Julius-Brecht-Str. 3, 60433 Frankfurt, Deutschland",
+      "Zweigstelle: Hannover",
+      "(Adresse auf Anfrage)",
+      "Trainingszentren in Vietnam: Ho-Chi-Minh-Stadt, Hanoi",
+      "Hinweis für Designer: Google Maps-Einbettung mit Standort Frankfurt."
+    ],
+    "Für Arbeitgeber:": [
+      "F: Wie lange dauert es, bis ich Fachkräfte bekomme?",
+      "A: Je nach Bedarf und Verfahren zwischen 3–12 Monaten. Wir begleiten den gesamten Prozess.",
+      "F: Was kostet die Vermittlung?",
+      "A: Die Kosten variieren je nach Dienstleistung. Kontaktieren Sie uns für ein individuelles Angebot.",
+      "F: Müssen die Fachkräfte Vermittlungsgebühren zahlen?",
+      "A: Nein. Wir arbeiten nach dem Employer-Pays-Prinzip. Für Fachkräfte entstehen keine Kosten.",
+      "F: Bieten Sie auch nur einzelne Services an (z.B. nur Training)?",
+      "A: Ja, alle 9 Kerndienstleistungen sind auch einzeln buchbar."
+    ],
+    "Für Talente:": [
+      "F: Muss ich für die Vermittlung bezahlen?",
+      "A: Nein. talentsCARE arbeitet nach dem Employer-Pays-Prinzip. Sie zahlen nichts.",
+      "F: Wie kann ich am Mentoring-Programm teilnehmen?",
+      "A: Wenn Ihr Arbeitgeber mit uns zusammenarbeitet, können Sie automatisch teilnehmen. Kontaktieren Sie uns für Details.",
+      "F: Gibt es Unterstützung bei der Wohnungssuche?",
+      "A: Ja, in Phase 2 unseres Programms unterstützen wir Sie bei Behördengängen, Wohnung und Alltagsorientierung."
+    ],
+    "10.5. Rückruf-Service": [
+      "Sie möchten lieber angerufen werden?",
+      "Wunschtermin auswählen (Kalender-Widget)",
+      "Name und Telefonnummer eingeben",
+      "Thema auswählen (Dropdown)",
+      "Wir rufen Sie zum gewünschten Zeitpunkt zurück"
+    ],
+    "10.6. Newsletter-Anmeldung": [
+      "Bleiben Sie informiert über Integrationsthemen, Best Practices und Veranstaltungen.",
+      "E-Mail-Feld",
+      "DSGVO-Checkbox",
+      "CTA: Anmelden",
+      "Frequenz: Monatlich",
+      "Inhalte: Branchennews, Tipps, Veranstaltungshinweise, Erfolgsgeschichten"
+    ],
+    "Logo:": [
+      "talentsCARE-Logo (links)",
+      "Größe: max. 180px Breite",
+      "Farbversion für hellen Hintergrund, weiße Version für dunklen Hintergrund"
+    ],
+    "Navigation:": [
+      "Willkommen",
+      "Über uns > Team (Dropdown)",
+      "Services > Arbeitgeber / Talente (Dropdown)",
+      "Projekt",
+      "Kontakt"
+    ],
+    "Zusätzliche Elemente:": [
+      "Telefonnummer: 0162-8849368 (sichtbar auf Desktop, klickbar auf Mobile)",
+      "CTA-Button: „Kontakt“ (Farbe: Gold #D4AC0D)",
+      "Sprachumschalter: DE / VN (optional für spätere Erweiterung)"
+    ],
+    "Mobile Navigation:": [
+      "Hamburger-Menü (rechts)",
+      "Logo (zentriert oder links)",
+      "Telefon-Icon (rechts, klickbar)"
+    ],
+    "Spalte 1 – Über uns:": [
+      "Logo",
+      "Kurzbeschreibung: „talentsCARE – Ihr Partner für nachhaltige Fachkräfteintegration. Integration · Schulung · Coaching · Mentoring.“",
+      "Social Media Icons: Facebook, Instagram, YouTube, LinkedIn"
+    ],
+    "Spalte 2 – Seiten:": [
+      "Willkommen",
+      "Über uns",
+      "Team",
+      "Projekt",
+      "Kontakt"
+    ],
+    "Spalte 3 – Services:": [
+      "Für Arbeitgeber",
+      "Für Talente",
+      "9 Kerndienstleistungen"
+    ],
+    "Spalte 4 – Kontakt:": [
+      "Adresse: Julius-Brecht-Str. 3, 60433 Frankfurt",
+      "Telefon: 069 8700746-90",
+      "Mobil: 0162-8849368",
+      "E-Mail: info@talentscare.de"
+    ],
+    "Fußzeile:": [
+      "© 2026 talentsCARE. Alle Rechte vorbehalten.",
+      "Impressum | Datenschutz"
+    ],
+    "11.3. Cookie-Banner": [
+      "DSGVO-konform mit Complianz oder CookieYes."
+    ],
+    "Kategorien:": [
+      "Funktional (immer aktiv)",
+      "Präferenzen",
+      "Statistiken",
+      "Marketing"
+    ],
+    "Texte:": [
+      "Überschrift: „Wir respektieren Ihre Privatsphäre“",
+      "Text: „Wir verwenden Cookies, um Ihre Erfahrung auf unserer Website zu verbessern. Einige sind notwendig, andere helfen uns, die Website zu optimieren.“",
+      "Buttons: „Alle akzeptieren“ | „Einstellungen“ | „Nur notwendige“"
+    ],
+    "12.1. Impressum": [
+      "URL: /impressum/"
+    ],
+    "Angaben gemäß § 5 TMG:": [
+      "talentsCARE",
+      "Ein Geschäftsbereich der VIETconsult Group",
+      "Julius-Brecht-Str. 3",
+      "60433 Frankfurt am Main",
+      "Deutschland"
+    ],
+    "Kontakt:": [
+      "Telefon: 069 8700746-90",
+      "Mobil: 0162-8849368",
+      "E-Mail: info@talentscare.de"
+    ],
+    "Vertretungsberechtigte Geschäftsführung:": [
+      "[Name des/der Geschäftsführer:in einfügen]"
+    ],
+    "Handelsregister:": [
+      "Registergericht: Amtsgericht Frankfurt am Main",
+      "Registernummer: [HRB XXXXX]"
+    ],
+    "Umsatzsteuer-ID:": [
+      "Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG: DE XXXXXXXXX"
+    ],
+    "Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:": [
+      "[Name und Adresse]"
+    ],
+    "Streitschlichtung:": [
+      "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/",
+      "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."
+    ],
+    "12.2. Datenschutzerklärung": [
+      "URL: /datenschutz/"
+    ],
+    "1. Datenschutz auf einen Blick": [
+      "Allgemeine Hinweise:",
+      "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können."
+    ],
+    "2. Datenerfassung auf dieser Website": [
+      "Wer ist verantwortlich für die Datenerfassung auf dieser Website?",
+      "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Impressum dieser Website entnehmen.",
+      "Wie erfassen wir Ihre Daten?",
+      "Ihre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben.",
+      "Andere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs)."
+    ],
+    "3. Ihre Rechte": [
+      "Sie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen."
+    ],
+    "4. Analyse-Tools und Tools von Drittanbietern": [
+      "Beim Besuch dieser Website kann Ihr Surf-Verhalten statistisch ausgewertet werden. Das geschieht vor allem mit sogenannten Analyseprogrammen.",
+      "[Vollständige DSGVO-konforme Datenschutzerklärung durch Rechtsanwalt erstellen lassen]"
+    ],
+    "13.3. DSGVO-Compliance": [
+      "Cookie-Banner: Complianz oder CookieYes (DSGVO-konform)",
+      "Impressum: Vollständig nach § 5 TMG",
+      "Datenschutzerklärung: Nach DSGVO, durch Anwalt geprüft",
+      "Kontaktformular: Mit DSGVO-Checkbox",
+      "SSL-Verschlüsselung: Pflicht",
+      "Auftragsverarbeitungsverträge (AVV): Mit allen Drittanbietern",
+      "Google Fonts: Lokal eingebunden (nicht von Google-Servern)",
+      "YouTube-Embeds: Privacy-Enhanced Mode oder zwei-Klick-Lösung"
+    ],
+    "Technisches SEO:": [
+      "XML-Sitemap (automatisch generiert)",
+      "robots.txt (korrekt konfiguriert)",
+      "Canonical URLs",
+      "Strukturierte Daten (Schema.org)",
+      "Open Graph Tags für Social Media",
+      "Twitter Cards",
+      "Hreflang-Tags (für spätere Mehrsprachigkeit)"
+    ],
+    "Schema.org Markup:": [
+      "Organization",
+      "LocalBusiness",
+      "Service",
+      "FAQPage",
+      "BreadcrumbList"
+    ],
+    "13.7. Barrierefreiheit (Accessibility)": [
+      "WCAG 2.1 Level AA anstreben",
+      "Alt-Texte für alle Bilder",
+      "Ausreichende Farbkontraste (min. 4.5:1 für Text)",
+      "Tastaturnavigation möglich",
+      "Skip-Links für Screenreader",
+      "Aria-Labels für interaktive Elemente",
+      "Fokus-Indikatoren sichtbar"
+    ],
+    "13.8. Sicherheit": [
+      "SSL/HTTPS: Pflicht",
+      "Regelmäßige Updates: WordPress, Plugins, Theme",
+      "Zwei-Faktor-Authentifizierung für Admin",
+      "Firewall: Wordfence oder Sucuri",
+      "Login-Schutz: Brute-Force-Schutz, Captcha",
+      "Backup: Täglich, offsite Speicherung",
+      "Malware-Scan: Regelmäßig"
+    ],
+    "ANHANG A: CONTENT CALENDAR": [
+      "Empfohlener Veröffentlichungsplan für die ersten 3 Monate nach Launch:"
+    ],
+    "Vor dem Launch:": [
+      "☐ Alle Texte auf Rechtschreibung geprüft",
+      "☐ Alle Links funktionieren (intern und extern)",
+      "☐ Bilder optimiert und Alt-Texte vorhanden",
+      "☐ Mobile Ansicht getestet",
+      "☐ Kontaktformular getestet",
+      "☐ DSGVO-Texte (Impressum, Datenschutz) von Anwalt geprüft",
+      "☐ Cookie-Banner funktioniert korrekt",
+      "☐ SSL-Zertifikat aktiv",
+      "☐ Google Analytics / Matomo eingerichtet",
+      "☐ Meta-Daten für alle Seiten ausgefüllt",
+      "☐ XML-Sitemap generiert",
+      "☐ robots.txt konfiguriert",
+      "☐ Backup-System eingerichtet",
+      "☐ 301-Redirects von alter Website (falls vorhanden)"
+    ],
+    "Nach dem Launch:": [
+      "☐ Website bei Google Search Console anmelden",
+      "☐ Website bei Bing Webmaster Tools anmelden",
+      "☐ Google My Business aktualisieren",
+      "☐ Social Media Profile mit neuer Website verlinken",
+      "☐ Launch-Ankündigung versenden",
+      "☐ Monitoring einrichten (Uptime, Performance)",
+      "☐ Erste Woche: tägliche Überprüfung auf Fehler",
+      "☐ Nach 2 Wochen: Performance-Review",
+      "☐ Nach 1 Monat: Analytics-Review",
+      "--- ENDE DES DOKUMENTS ---",
+      "Version 3.0 | April 2026 | talentsCARE"
+    ]
+  }
+}

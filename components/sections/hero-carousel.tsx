@@ -61,12 +61,16 @@ export function HeroCarousel() {
           className="absolute inset-0"
         >
           {/* Background Image */}
-          <div
-            className="absolute inset-0 bg-cover bg-center"
-            style={{
-              backgroundImage: `url(${slides[currentSlide].image})`,
-            }}
-          />
+          <div className="absolute inset-0 overflow-hidden">
+            <div
+              className="absolute inset-0 bg-cover bg-center transition-transform duration-700 hover:scale-105"
+              style={{
+                backgroundImage: `url(${slides[currentSlide].image})`,
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+              }}
+            />
+          </div>
 
           {/* Dark Overlay */}
           <div className="absolute inset-0 bg-black/40" />
