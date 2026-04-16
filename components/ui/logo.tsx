@@ -21,29 +21,29 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
   };
 
   const taglineSizeClasses = {
-    sm: 'text-[0.5rem]',
-    md: 'text-[0.625rem]',
-    lg: 'text-xs',
+    sm: 'text-[0.45rem]',
+    md: 'text-[0.5rem]',
+    lg: 'text-[0.6rem]',
   };
 
   const colors = {
     light: {
       talents: 'text-white',
-      care: 'text-yellow-400',
+      care: 'text-[#F4C430]', // Golden yellow matching reference
       tagline: 'text-white/80',
     },
     dark: {
-      talents: 'text-dark',
-      care: 'text-yellow-500',
-      tagline: 'text-text-body',
+      talents: 'text-[#1a1a2e]', // Dark navy blue matching reference
+      care: 'text-[#F4C430]', // Golden yellow
+      tagline: 'text-gray-600',
     },
   };
 
   return (
     <Link href="/" className="group inline-block">
-      <div className="flex flex-col items-start">
-        {/* Logo Text */}
-        <div className={`font-display font-light tracking-tight ${sizeClasses[size]}`}>
+      <div className="flex flex-col items-start gap-0.5">
+        {/* Logo Text - Lowercase "talents" + Uppercase "CARE" */}
+        <div className={`font-sans font-light tracking-tight leading-none ${sizeClasses[size]}`}>
           <span className={colors[variant].talents}>talents</span>
           <span className={`font-bold ${colors[variant].care}`}>CARE</span>
         </div>
@@ -51,9 +51,9 @@ export function Logo({ variant = 'dark', size = 'md', showTagline = true }: Logo
         {/* Tagline */}
         {showTagline && (
           <span
-            className={`font-sans font-normal tracking-wide ${taglineSizeClasses[size]} ${colors[variant].tagline} transition-opacity group-hover:opacity-70`}
+            className={`font-sans font-light tracking-wide leading-tight ${taglineSizeClasses[size]} ${colors[variant].tagline} transition-opacity group-hover:opacity-70`}
           >
-            Your Talents, We Care
+            Your Talents, We care
           </span>
         )}
       </div>

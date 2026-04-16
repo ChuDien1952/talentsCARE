@@ -50,7 +50,8 @@
       "Bash(git restore:*)",
       "Skill(frontend-design-pro)",
       "Bash(if not exist \"public\\images\" mkdir \"public\\images\")",
-      "Bash(python scripts/extract-docx-content.py:*)"
+      "Bash(python scripts/extract-docx-content.py:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nfix: spacing, background overflow & add logo to footer\n\nFixed Issues from Screenshots:\n1. Logo too close to navigation menu\n2. Background images overflowing viewport\n3. Font balance and visibility issues\n4. Missing logo in footer\n\nChanges:\n\n## Header Improvements\n- Added gap-6 between logo and navigation\n- Wrapped logo in flex-shrink-0 container\n- Reduced nav gap from 8 to 6 (lg:6 xl:8)\n- Better spacing prevents text overlap\n\n## Background Image Fixes\n- Wrapped bg image in overflow-hidden container\n- Added proper background-size: cover\n- Added background-position: center\n- Prevents image overflow on all devices\n- Added subtle hover scale effect (1.05)\n\n## Footer Enhancements\n- Added Logo component to footer brand section\n- Logo uses ''light'' variant (white text, yellow CARE)\n- Shows tagline \"Your Talents, We Care\"\n- Improved text hierarchy with smaller tagline\n\n## Content Extraction\n- Created Python script to extract Word document\n- Extracted 512 paragraphs from talentsCARE_Complete_v3_DE.docx\n- Found 129 sections with detailed content\n- Extracted 27 tables with structured data\n- Saved to Documents/extracted_content.json\n- Ready for content integration\n\nTechnical:\n- Build: 34 routes, 0 errors\n- All components responsive\n- Logo reusable across header/footer\n- Content ready for page population\n\nNext: Add detailed content to all pages from extracted data\nEOF\n)\")"
     ]
   }
 }
