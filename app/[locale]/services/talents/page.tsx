@@ -83,21 +83,34 @@ export default function TalentsPage() {
       {/* Enhanced Hero Section with Parallax */}
       <section
         ref={heroRef}
-        className="relative overflow-hidden bg-gradient-to-br from-primary via-accent to-primary text-white pt-32 pb-40 min-h-[90vh] flex items-center"
+        className="relative overflow-hidden text-white pt-32 pb-40 min-h-[90vh] flex items-center"
       >
-        {/* Animated Background Pattern */}
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0 bg-gradient-to-br from-white/20 via-transparent to-transparent" />
-          {mounted && (
-            <motion.div
-              style={{ y }}
-              className="absolute inset-0"
-            >
-              <div className="absolute top-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl opacity-30 animate-pulse" />
-              <div className="absolute bottom-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl opacity-20 animate-pulse" style={{ animationDelay: '1s' }} />
-              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-accent rounded-full blur-2xl opacity-25 animate-pulse" style={{ animationDelay: '2s' }} />
-            </motion.div>
-          )}
+        {/* Background Image with Overlay */}
+        <div className="absolute inset-0">
+          {/* Unsplash Background Image */}
+          <div
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=2070&auto=format&fit=crop')`,
+            }}
+          />
+          {/* Dark Gradient Overlay */}
+          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-accent/90 to-primary/95" />
+
+          {/* Animated Pattern Overlay */}
+          <div className="absolute inset-0 opacity-10">
+            <div className="absolute inset-0 bg-gradient-to-br from-white/20 via-transparent to-transparent" />
+            {mounted && (
+              <motion.div
+                style={{ y }}
+                className="absolute inset-0"
+              >
+                <div className="absolute top-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl opacity-30 animate-pulse" />
+                <div className="absolute bottom-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl opacity-20 animate-pulse" style={{ animationDelay: '1s' }} />
+                <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-accent rounded-full blur-2xl opacity-25 animate-pulse" style={{ animationDelay: '2s' }} />
+              </motion.div>
+            )}
+          </div>
         </div>
 
         {/* Floating Particles */}
