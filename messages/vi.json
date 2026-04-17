@@ -3,13 +3,13 @@
     "nav": {
       "home": "Trang chủ",
       "services": "Dịch vụ",
-      "servicesEmployers": "Nhà tuyển dụng",
+      "servicesEmployers": "Tuyển dụng",
       "servicesTalents": "Nhân tài",
       "about": "Về chúng tôi",
       "team": "Đội ngũ",
       "blog": "Tin tức",
       "contact": "Liên hệ",
-      "sendMessage": "Gửi tin nhắn"
+      "sendMessage": "Liên hệ"
     },
     "footer": {
       "company": "talentsCARE",
