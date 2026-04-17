@@ -42,14 +42,14 @@ export function Header() {
       }`}
     >
       <div className="mx-auto max-w-7xl px-6">
-        <nav className="flex items-center justify-between gap-6">
+        <nav className="flex items-center gap-4">
           {/* Logo */}
           <div className="flex-shrink-0">
             <Logo variant="dark" size="md" showTagline={!scrolled} />
           </div>
 
-          {/* Desktop Nav */}
-          <div className="hidden items-center gap-4 lg:flex lg:gap-5 xl:gap-6">
+          {/* Desktop Nav - centered and flexible */}
+          <div className="hidden flex-1 items-center justify-center gap-3 lg:flex lg:gap-4 xl:gap-5">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -62,11 +62,11 @@ export function Header() {
           </div>
 
           {/* Actions */}
-          <div className="hidden items-center gap-4 lg:flex">
+          <div className="hidden flex-shrink-0 items-center gap-3 lg:flex">
             <LanguageSwitcher />
             <Link
               href="/contact"
-              className="rounded-md bg-dark px-6 py-3 text-sm font-medium text-white transition-all hover:bg-primary"
+              className="whitespace-nowrap rounded-md bg-dark px-5 py-3 text-sm font-medium text-white transition-all hover:bg-primary"
             >
               {t('sendMessage')}
             </Link>
