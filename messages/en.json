@@ -660,9 +660,6 @@
     }
   },
   "contact": {
-    "title": "Contact",
-    "subtitle": "Talk to Us",
-    "intro": "Do you have questions or would you like to learn more about our services? We look forward to your message.",
     "form": {
       "name": "Your Name",
       "email": "Email Address",

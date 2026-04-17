@@ -660,9 +660,6 @@
     }
   },
   "contact": {
-    "title": "Liên hệ",
-    "subtitle": "Nói chuyện với chúng tôi",
-    "intro": "Bạn có câu hỏi hoặc muốn tìm hiểu thêm về dịch vụ của chúng tôi? Chúng tôi mong nhận được tin nhắn từ bạn.",
     "form": {
       "name": "Tên của bạn",
       "email": "Địa chỉ email",
