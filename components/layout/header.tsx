@@ -42,19 +42,19 @@ export function Header() {
       }`}
     >
       <div className="mx-auto max-w-7xl px-6">
-        <nav className="flex items-center gap-4">
+        <nav className="flex items-center gap-3">
           {/* Logo */}
           <div className="flex-shrink-0">
-            <Logo variant="dark" size="md" showTagline={!scrolled} />
+            <Logo variant="dark" size="md" showTagline={false} />
           </div>
 
           {/* Desktop Nav - centered and flexible */}
-          <div className="hidden flex-1 items-center justify-center gap-3 lg:flex lg:gap-4 xl:gap-5">
+          <div className="hidden flex-1 items-center justify-center gap-2 lg:flex lg:gap-3 xl:gap-4">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
-                className="whitespace-nowrap text-sm font-medium text-text-body transition-colors hover:text-primary"
+                className="whitespace-nowrap text-[13px] font-medium text-text-body transition-colors hover:text-primary lg:text-sm"
               >
                 {link.label}
               </Link>
@@ -62,11 +62,11 @@ export function Header() {
           </div>
 
           {/* Actions */}
-          <div className="hidden flex-shrink-0 items-center gap-3 lg:flex">
+          <div className="hidden flex-shrink-0 items-center gap-2 lg:flex">
             <LanguageSwitcher />
             <Link
               href="/contact"
-              className="whitespace-nowrap rounded-md bg-dark px-5 py-3 text-sm font-medium text-white transition-all hover:bg-primary"
+              className="whitespace-nowrap rounded-md bg-dark px-4 py-2.5 text-[13px] font-medium text-white transition-all hover:bg-primary lg:px-5 lg:py-3 lg:text-sm"
             >
               {t('sendMessage')}
             </Link>
