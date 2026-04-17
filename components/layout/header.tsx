@@ -49,12 +49,12 @@ export function Header() {
           </div>
 
           {/* Desktop Nav */}
-          <div className="hidden items-center gap-6 lg:flex xl:gap-8">
+          <div className="hidden items-center gap-4 lg:flex lg:gap-5 xl:gap-6">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
                 href={link.href}
-                className="text-sm font-medium text-text-body transition-colors hover:text-primary"
+                className="whitespace-nowrap text-sm font-medium text-text-body transition-colors hover:text-primary"
               >
                 {link.label}
               </Link>
