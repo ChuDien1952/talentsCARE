@@ -66,7 +66,7 @@ export default async function EmployersPage({ params }: Props) {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-primary-dark text-white py-24">
+      <section className="bg-primary-dark text-white pt-32 pb-24">
         <Container>
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="font-display text-h1 font-bold mb-6">

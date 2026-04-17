@@ -24,7 +24,7 @@ export default async function TermsPage({ params }: Props) {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-primary text-white py-20">
+      <section className="bg-primary text-white pt-32 pb-20">
         <Container>
           <h1 className="text-4xl md:text-5xl font-display font-bold">
             {t('headline')}

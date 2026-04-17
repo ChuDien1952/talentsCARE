@@ -42,7 +42,7 @@ export default async function TeamPage({ params }: Props) {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-primary text-white py-20">
+      <section className="bg-primary text-white pt-32 pb-20">
         <Container>
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl font-display font-bold mb-6">
