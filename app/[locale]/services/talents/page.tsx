@@ -1,28 +1,39 @@
 /**
- * Services for Talents Page
- * Showcases services offered to international professionals
+ * Services for Talents Page - Redesigned
+ * Enhanced design with parallax, animations, and unique footer
  */
 
-import { setRequestLocale, getTranslations } from 'next-intl/server';
-import { locales } from '@/lib/i18n/config';
+'use client';
+
+import { useTranslations } from 'next-intl';
 import { Container } from '@/components/ui/container';
 import { ServiceCard } from '@/components/sections/service-card';
 import { Button } from '@/components/ui/button';
 import { Link } from '@/lib/i18n/navigation';
+import { SuccessStories } from '@/components/sections/success-stories';
+import { HowItWorks } from '@/components/sections/how-it-works';
+import { WhyChooseUs } from '@/components/sections/why-choose-us';
+import { FAQSection } from '@/components/sections/faq-section';
+import { TalentsFooter } from '@/components/sections/talents-footer';
+import { motion, useScroll, useTransform } from 'framer-motion';
+import { useRef, useEffect, useState } from 'react';
 
-export function generateStaticParams() {
-  return locales.map((locale) => ({ locale }));
-}
+export default function TalentsPage() {
+  const t = useTranslations('services.talents');
+  const heroRef = useRef<HTMLElement>(null);
+  const [mounted, setMounted] = useState(false);
 
-interface Props {
-  params: Promise<{ locale: string }>;
-}
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
-export default async function TalentsPage({ params }: Props) {
-  const { locale } = await params;
-  setRequestLocale(locale);
+  const { scrollYProgress } = useScroll({
+    target: heroRef,
+    offset: ['start start', 'end start']
+  });
 
-  const t = await getTranslations('services.talents');
+  const y = useTransform(scrollYProgress, [0, 1], ['0%', '50%']);
+  const opacity = useTransform(scrollYProgress, [0, 1], [1, 0]);
 
   const services = [
     {
@@ -63,62 +74,140 @@ export default async function TalentsPage({ params }: Props) {
     },
   ];
 
-  // Get phase items as arrays
   const phase4Items = t.raw('phases.phase4.items') as string[];
   const phase5Items = t.raw('phases.phase5.items') as string[];
   const phase6Items = t.raw('phases.phase6.items') as string[];
 
   return (
     <>
-      {/* Hero Section with Background Image */}
-      <section className="relative overflow-hidden bg-accent text-white pt-32 pb-32">
-        {/* Background Pattern */}
+      {/* Enhanced Hero Section with Parallax */}
+      <section
+        ref={heroRef}
+        className="relative overflow-hidden bg-gradient-to-br from-primary via-accent to-primary text-white pt-32 pb-40 min-h-[90vh] flex items-center"
+      >
+        {/* Animated Background Pattern */}
         <div className="absolute inset-0 opacity-10">
           <div className="absolute inset-0 bg-gradient-to-br from-white/20 via-transparent to-transparent" />
-          <div className="absolute top-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl opacity-30 transform translate-x-1/2 -translate-y-1/2" />
-          <div className="absolute bottom-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl opacity-20 transform -translate-x-1/2 translate-y-1/2" />
+          {mounted && (
+            <motion.div
+              style={{ y }}
+              className="absolute inset-0"
+            >
+              <div className="absolute top-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl opacity-30 animate-pulse" />
+              <div className="absolute bottom-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl opacity-20 animate-pulse" style={{ animationDelay: '1s' }} />
+              <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-64 h-64 bg-accent rounded-full blur-2xl opacity-25 animate-pulse" style={{ animationDelay: '2s' }} />
+            </motion.div>
+          )}
         </div>
 
-        {/* Decorative Elements */}
+        {/* Floating Particles */}
+        <div className="absolute inset-0 overflow-hidden pointer-events-none">
+          {[...Array(20)].map((_, i) => (
+            <motion.div
+              key={i}
+              className="absolute w-2 h-2 bg-white/20 rounded-full"
+              initial={{
+                x: Math.random() * 100 + '%',
+                y: Math.random() * 100 + '%',
+              }}
+              animate={{
+                y: [0, -30, 0],
+                opacity: [0.2, 0.5, 0.2],
+              }}
+              transition={{
+                duration: 3 + Math.random() * 2,
+                repeat: Infinity,
+                delay: Math.random() * 2,
+              }}
+            />
+          ))}
+        </div>
+
+        {/* Decorative Geometric Elements */}
         <div className="absolute inset-0 overflow-hidden">
-          <div className="absolute top-20 left-10 w-20 h-20 border-2 border-white/20 rounded-full animate-pulse" />
-          <div className="absolute top-40 right-20 w-16 h-16 border-2 border-[#FDB927]/30 rounded-lg rotate-45" />
-          <div className="absolute bottom-20 left-1/4 w-12 h-12 border-2 border-white/20 rounded-full" />
+          <motion.div
+            animate={{ rotate: 360 }}
+            transition={{ duration: 20, repeat: Infinity, ease: 'linear' }}
+            className="absolute top-20 left-10 w-20 h-20 border-2 border-white/20 rounded-full"
+          />
+          <motion.div
+            animate={{ rotate: -360 }}
+            transition={{ duration: 15, repeat: Infinity, ease: 'linear' }}
+            className="absolute top-40 right-20 w-16 h-16 border-2 border-[#FDB927]/30 rounded-lg"
+          />
+          <motion.div
+            animate={{ scale: [1, 1.2, 1] }}
+            transition={{ duration: 3, repeat: Infinity }}
+            className="absolute bottom-20 left-1/4 w-12 h-12 border-2 border-white/20 rounded-full"
+          />
         </div>
 
         <Container className="relative z-10">
-          <div className="max-w-4xl mx-auto text-center">
-            {/* Icon Badge */}
-            <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-[#FDB927] mb-8 shadow-2xl">
-              <svg className="w-10 h-10 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-              </svg>
-            </div>
+          {mounted && (
+            <motion.div
+              style={{ opacity }}
+              className="max-w-4xl mx-auto text-center"
+            >
+              {/* Icon Badge with Animation */}
+              <motion.div
+                initial={{ scale: 0, rotate: -180 }}
+                animate={{ scale: 1, rotate: 0 }}
+                transition={{ duration: 0.8, type: 'spring' }}
+                className="inline-flex items-center justify-center w-24 h-24 rounded-full bg-[#FDB927] mb-8 shadow-2xl"
+              >
+                <svg className="w-12 h-12 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
+              </motion.div>
 
-            <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-              {t('hero.headline')}
-            </h1>
-            <p className="text-xl md:text-2xl text-white/90 mb-6 leading-relaxed max-w-3xl mx-auto">
-              {t('hero.description')}
-            </p>
-            <p className="text-2xl md:text-3xl font-semibold text-[#FDB927] mt-8 mb-10">
-              {t('tagline')}
-            </p>
+              {/* Headline with Stagger Animation */}
+              <motion.h1
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.2 }}
+                className="font-display text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight"
+              >
+                {t('hero.headline')}
+              </motion.h1>
 
-            {/* CTA Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <Button size="lg" variant="secondary" asChild className="shadow-xl hover:shadow-2xl transition-shadow">
-                <Link href="/contact" className="min-w-[200px]">
-                  {t('hero.cta')}
-                </Link>
-              </Button>
-              <Button size="lg" variant="outline" asChild className="border-2 border-white text-white hover:bg-white/10">
-                <Link href="/about" className="min-w-[200px]">
-                  Tìm hiểu thêm
-                </Link>
-              </Button>
-            </div>
-          </div>
+              <motion.p
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.4 }}
+                className="text-xl md:text-2xl text-white/90 mb-6 leading-relaxed max-w-3xl mx-auto"
+              >
+                {t('hero.description')}
+              </motion.p>
+
+              <motion.p
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.6 }}
+                className="text-2xl md:text-3xl font-semibold text-[#FDB927] mt-8 mb-10"
+              >
+                {t('tagline')}
+              </motion.p>
+
+              {/* CTA Buttons */}
+              <motion.div
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.8 }}
+                className="flex flex-col sm:flex-row gap-4 justify-center items-center"
+              >
+                <Button size="lg" variant="secondary" asChild className="shadow-xl hover:shadow-2xl hover:scale-105 transition-all">
+                  <Link href="/contact" className="min-w-[200px]">
+                    {t('hero.cta')}
+                  </Link>
+                </Button>
+                <Button size="lg" variant="outline" asChild className="border-2 border-white text-white hover:bg-white/10 hover:scale-105 transition-all">
+                  <Link href="/about" className="min-w-[200px]">
+                    Tìm hiểu thêm
+                  </Link>
+                </Button>
+              </motion.div>
+            </motion.div>
+          )}
         </Container>
 
         {/* Bottom Wave */}
@@ -130,29 +219,60 @@ export default async function TalentsPage({ params }: Props) {
             />
           </svg>
         </div>
+
+        {/* Scroll Indicator */}
+        <motion.div
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 1.5 }}
+          className="absolute bottom-8 left-1/2 -translate-x-1/2 z-20"
+        >
+          <motion.div
+            animate={{ y: [0, 10, 0] }}
+            transition={{ duration: 1.5, repeat: Infinity }}
+            className="flex flex-col items-center gap-2"
+          >
+            <span className="text-white/60 text-sm">Cuộn xuống</span>
+            <svg className="w-6 h-6 text-white/60" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
+            </svg>
+          </motion.div>
+        </motion.div>
       </section>
 
-      {/* Stats Section */}
-      <section className="py-16 bg-gradient-to-b from-white to-gray-50">
+      {/* Stats Section with Glassmorphism */}
+      <section className="py-16 bg-gradient-to-b from-white to-gray-50 relative">
         <Container>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-5xl mx-auto">
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">500+</div>
-              <div className="text-gray-600">Nhân tài</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-[#FDB927] mb-2">95%</div>
-              <div className="text-gray-600">Thành công</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-primary mb-2">30+</div>
-              <div className="text-gray-600">Quốc gia</div>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl md:text-5xl font-bold text-[#FDB927] mb-2">10+</div>
-              <div className="text-gray-600">Năm kinh nghiệm</div>
-            </div>
-          </div>
+          <motion.div
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.8 }}
+            className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-5xl mx-auto"
+          >
+            {[
+              { count: '500+', label: 'Nhân tài' },
+              { count: '95%', label: 'Thành công' },
+              { count: '30+', label: 'Quốc gia' },
+              { count: '10+', label: 'Năm kinh nghiệm' }
+            ].map((stat, index) => (
+              <motion.div
+                key={index}
+                initial={{ opacity: 0, scale: 0.5 }}
+                whileInView={{ opacity: 1, scale: 1 }}
+                viewport={{ once: true }}
+                transition={{ duration: 0.5, delay: index * 0.1 }}
+                className="text-center group"
+              >
+                <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-6 shadow-lg hover:shadow-2xl transition-all border border-gray-100 group-hover:scale-105">
+                  <div className={`text-4xl md:text-5xl font-bold mb-2 ${index % 2 === 0 ? 'text-primary' : 'text-[#FDB927]'}`}>
+                    {stat.count}
+                  </div>
+                  <div className="text-gray-600">{stat.label}</div>
+                </div>
+              </motion.div>
+            ))}
+          </motion.div>
         </Container>
       </section>
 
@@ -160,19 +280,31 @@ export default async function TalentsPage({ params }: Props) {
       <section className="py-20 bg-gray-50">
         <Container>
           <div className="max-w-4xl mx-auto">
-            <div className="text-center mb-8">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="text-center mb-8"
+            >
               <span className="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-semibold mb-4">
                 Về Chúng Tôi
               </span>
               <h2 className="font-display text-4xl md:text-5xl font-bold text-primary mb-6">
                 {t('intro.headline')}
               </h2>
-            </div>
-            <div className="bg-white rounded-2xl shadow-lg p-8 md:p-12">
+            </motion.div>
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6, delay: 0.2 }}
+              className="bg-white rounded-2xl shadow-lg p-8 md:p-12 border border-gray-100"
+            >
               <p className="text-lg md:text-xl text-gray-700 leading-relaxed text-center">
                 {t('intro.description')}
               </p>
-            </div>
+            </motion.div>
           </div>
         </Container>
       </section>
@@ -180,7 +312,13 @@ export default async function TalentsPage({ params }: Props) {
       {/* Services Grid */}
       <section className="py-20 bg-white">
         <Container>
-          <div className="text-center mb-16">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="text-center mb-16"
+          >
             <span className="inline-block px-4 py-2 bg-accent/10 text-accent rounded-full text-sm font-semibold mb-4">
               Dịch Vụ
             </span>
@@ -190,7 +328,7 @@ export default async function TalentsPage({ params }: Props) {
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               {t('servicesSubheadline')}
             </p>
-          </div>
+          </motion.div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {services.map((service, index) => (
@@ -200,11 +338,26 @@ export default async function TalentsPage({ params }: Props) {
         </Container>
       </section>
 
+      {/* How It Works Section - NEW */}
+      <HowItWorks />
+
+      {/* Why Choose Us Section - NEW */}
+      <WhyChooseUs />
+
+      {/* Success Stories Section - NEW */}
+      <SuccessStories />
+
       {/* Integration Phases - Timeline Style */}
       <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
         <Container>
           <div className="max-w-5xl mx-auto">
-            <div className="text-center mb-16">
+            <motion.div
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true }}
+              transition={{ duration: 0.6 }}
+              className="text-center mb-16"
+            >
               <span className="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-semibold mb-4">
                 Lộ Trình
               </span>
@@ -214,7 +367,7 @@ export default async function TalentsPage({ params }: Props) {
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                 6 giai đoạn đồng hành cùng bạn
               </p>
-            </div>
+            </motion.div>
 
             <div className="relative">
               {/* Timeline Line */}
@@ -222,7 +375,13 @@ export default async function TalentsPage({ params }: Props) {
 
               <div className="space-y-8">
                 {/* Phase 1 */}
-                <div className="relative pl-20 md:pl-24">
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.6 }}
+                  className="relative pl-20 md:pl-24"
+                >
                   <div className="absolute left-0 top-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-primary text-white flex items-center justify-center text-xl md:text-2xl font-bold shadow-lg ring-4 ring-white">
                     1
                   </div>
@@ -235,10 +394,16 @@ export default async function TalentsPage({ params }: Props) {
                       {t('phases.phase1.description')}
                     </p>
                   </div>
-                </div>
+                </motion.div>
 
                 {/* Phase 2 */}
-                <div className="relative pl-20 md:pl-24">
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.6, delay: 0.1 }}
+                  className="relative pl-20 md:pl-24"
+                >
                   <div className="absolute left-0 top-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-[#FDB927] text-white flex items-center justify-center text-xl md:text-2xl font-bold shadow-lg ring-4 ring-white">
                     2
                   </div>
@@ -251,10 +416,16 @@ export default async function TalentsPage({ params }: Props) {
                       {t('phases.phase2.description')}
                     </p>
                   </div>
-                </div>
+                </motion.div>
 
                 {/* Phase 3 */}
-                <div className="relative pl-20 md:pl-24">
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.6, delay: 0.2 }}
+                  className="relative pl-20 md:pl-24"
+                >
                   <div className="absolute left-0 top-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-primary text-white flex items-center justify-center text-xl md:text-2xl font-bold shadow-lg ring-4 ring-white">
                     3
                   </div>
@@ -267,10 +438,16 @@ export default async function TalentsPage({ params }: Props) {
                       {t('phases.phase3.description')}
                     </p>
                   </div>
-                </div>
+                </motion.div>
 
                 {/* Phase 4 */}
-                <div className="relative pl-20 md:pl-24">
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.6, delay: 0.3 }}
+                  className="relative pl-20 md:pl-24"
+                >
                   <div className="absolute left-0 top-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-[#FDB927] text-white flex items-center justify-center text-xl md:text-2xl font-bold shadow-lg ring-4 ring-white">
                     4
                   </div>
@@ -293,10 +470,16 @@ export default async function TalentsPage({ params }: Props) {
                       ))}
                     </ul>
                   </div>
-                </div>
+                </motion.div>
 
                 {/* Phase 5 */}
-                <div className="relative pl-20 md:pl-24">
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.6, delay: 0.4 }}
+                  className="relative pl-20 md:pl-24"
+                >
                   <div className="absolute left-0 top-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-primary text-white flex items-center justify-center text-xl md:text-2xl font-bold shadow-lg ring-4 ring-white">
                     5
                   </div>
@@ -319,10 +502,16 @@ export default async function TalentsPage({ params }: Props) {
                       ))}
                     </ul>
                   </div>
-                </div>
+                </motion.div>
 
                 {/* Phase 6 */}
-                <div className="relative pl-20 md:pl-24">
+                <motion.div
+                  initial={{ opacity: 0, x: -30 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true }}
+                  transition={{ duration: 0.6, delay: 0.5 }}
+                  className="relative pl-20 md:pl-24"
+                >
                   <div className="absolute left-0 top-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-[#FDB927] text-white flex items-center justify-center text-xl md:text-2xl font-bold shadow-lg ring-4 ring-white">
                     6
                   </div>
@@ -345,23 +534,31 @@ export default async function TalentsPage({ params }: Props) {
                       ))}
                     </ul>
                   </div>
-                </div>
+                </motion.div>
               </div>
             </div>
           </div>
         </Container>
       </section>
 
+      {/* FAQ Section - NEW */}
+      <FAQSection />
+
       {/* CTA Section */}
       <section className="relative overflow-hidden bg-gradient-to-r from-accent via-primary to-accent text-white py-20">
-        {/* Animated Background */}
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl animate-pulse" />
-          <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl animate-pulse delay-700" />
+          <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl animate-pulse" style={{ animationDelay: '700ms' }} />
         </div>
 
         <Container className="relative z-10">
-          <div className="text-center max-w-3xl mx-auto">
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="text-center max-w-3xl mx-auto"
+          >
             <h2 className="font-display text-4xl md:text-5xl font-bold mb-6">
               {t('cta.headline')}
             </h2>
@@ -369,16 +566,19 @@ export default async function TalentsPage({ params }: Props) {
               {t('cta.description')}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <Button size="lg" variant="secondary" asChild className="shadow-2xl hover:shadow-3xl transition-shadow min-w-[200px]">
+              <Button size="lg" variant="secondary" asChild className="shadow-2xl hover:shadow-3xl hover:scale-105 transition-all min-w-[200px]">
                 <Link href="/contact">{t('cta.button')}</Link>
               </Button>
-              <Button size="lg" variant="outline" asChild className="border-2 border-white text-white hover:bg-white/10 min-w-[200px]">
+              <Button size="lg" variant="outline" asChild className="border-2 border-white text-white hover:bg-white/10 hover:scale-105 transition-all min-w-[200px]">
                 <Link href="/team">Gặp đội ngũ</Link>
               </Button>
             </div>
-          </div>
+          </motion.div>
         </Container>
       </section>
+
+      {/* Unique Footer for Talents Page - NEW */}
+      <TalentsFooter />
     </>
   );
 }
