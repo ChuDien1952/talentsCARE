@@ -11,7 +11,7 @@ import { getMessages } from 'next-intl/server';
 import { Inter, Montserrat } from 'next/font/google';
 import { locales, type Locale } from '@/lib/i18n/config';
 import { Header } from '@/components/layout/header';
-import { Footer } from '@/components/layout/footer';
+import { DynamicFooter } from '@/components/layout/dynamic-footer';
 import '../globals.css';
 
 const inter = Inter({
@@ -89,7 +89,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main>{children}</main>
-          <Footer />
+          <DynamicFooter />
         </NextIntlClientProvider>
       </body>
     </html>
