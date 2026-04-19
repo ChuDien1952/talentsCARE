@@ -57,7 +57,7 @@ export function Footer() {
 
           {/* Navigation */}
           <div>
-            <h4 className="font-semibold mb-4">Navigation</h4>
+            <h4 className="font-semibold mb-4">{t('sections.navigation')}</h4>
             <ul className="space-y-2">
               <li>
                 <Link href="/" className="text-white/80 hover:text-white">
@@ -98,7 +98,7 @@ export function Footer() {
 
           {/* Legal */}
           <div>
-            <h4 className="font-semibold mb-4">Legal</h4>
+            <h4 className="font-semibold mb-4">{t('sections.legal')}</h4>
             <ul className="space-y-2">
               <li>
                 <Link
