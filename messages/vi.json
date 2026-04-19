@@ -43,6 +43,10 @@
         "description": "Đăng ký nhận cập nhật thường xuyên về xu hướng HR, hội nhập và các sự kiện của chúng tôi",
         "placeholder": "Địa chỉ email của bạn",
         "button": "Đăng Ký"
+      },
+      "sections": {
+        "navigation": "Liên Kết",
+        "legal": "Pháp Lý"
       }
     },
     "cta": {

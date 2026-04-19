@@ -66,7 +66,7 @@ export function HomeFooter() {
 
           {/* Quick Links */}
           <div>
-            <h4 className="mb-4 font-semibold text-[#FDB927]">Navigation</h4>
+            <h4 className="mb-4 font-semibold text-[#FDB927]">{t('sections.navigation')}</h4>
             <ul className="space-y-3">
               <li><Link href="/" className="text-white/80 transition-colors hover:text-[#FDB927]">{nav('home')}</Link></li>
               <li><Link href="/services/employers" className="text-white/80 transition-colors hover:text-[#FDB927]">{nav('servicesEmployers')}</Link></li>
@@ -78,7 +78,7 @@ export function HomeFooter() {
 
           {/* Legal */}
           <div>
-            <h4 className="mb-4 font-semibold text-[#FDB927]">Legal</h4>
+            <h4 className="mb-4 font-semibold text-[#FDB927]">{t('sections.legal')}</h4>
             <ul className="space-y-3">
               <li><Link href="/privacy" className="text-white/80 transition-colors hover:text-[#FDB927]">{t('privacy')}</Link></li>
               <li><Link href="/imprint" className="text-white/80 transition-colors hover:text-[#FDB927]">{t('imprint')}</Link></li>
@@ -169,7 +169,7 @@ export function ServicesFooter({ type }: { type: 'employers' | 'talents' }) {
             <Logo variant="light" size="sm" showTagline={false} />
           </div>
           <div>
-            <h4 className="mb-3 text-sm font-semibold text-[#FDB927]">Navigation</h4>
+            <h4 className="mb-3 text-sm font-semibold text-[#FDB927]">{t('sections.navigation')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/" className="text-white/70 hover:text-white">{nav('home')}</Link></li>
               <li><Link href="/about" className="text-white/70 hover:text-white">{nav('about')}</Link></li>
@@ -177,7 +177,7 @@ export function ServicesFooter({ type }: { type: 'employers' | 'talents' }) {
             </ul>
           </div>
           <div>
-            <h4 className="mb-3 text-sm font-semibold text-[#FDB927]">Legal</h4>
+            <h4 className="mb-3 text-sm font-semibold text-[#FDB927]">{t('sections.legal')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/privacy" className="text-white/70 hover:text-white">{t('privacy')}</Link></li>
               <li><Link href="/imprint" className="text-white/70 hover:text-white">{t('imprint')}</Link></li>
@@ -285,7 +285,7 @@ export function AboutFooter() {
             </ul>
           </div>
           <div>
-            <h4 className="mb-4 font-semibold text-primary">Legal</h4>
+            <h4 className="mb-4 font-semibold text-primary">{t('sections.legal')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/privacy" className="text-gray-600 hover:text-primary">{t('privacy')}</Link></li>
               <li><Link href="/imprint" className="text-gray-600 hover:text-primary">{t('imprint')}</Link></li>
@@ -342,7 +342,7 @@ export function BlogFooter() {
             <p className="mt-4 text-sm text-gray-600">{t('tagline')}</p>
           </div>
           <div>
-            <h4 className="mb-4 font-semibold text-primary">Navigation</h4>
+            <h4 className="mb-4 font-semibold text-primary">{t('sections.navigation')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/" className="text-gray-600 hover:text-primary">{nav('home')}</Link></li>
               <li><Link href="/services/employers" className="text-gray-600 hover:text-primary">{nav('servicesEmployers')}</Link></li>
@@ -350,7 +350,7 @@ export function BlogFooter() {
             </ul>
           </div>
           <div>
-            <h4 className="mb-4 font-semibold text-primary">Legal</h4>
+            <h4 className="mb-4 font-semibold text-primary">{t('sections.legal')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/privacy" className="text-gray-600 hover:text-primary">{t('privacy')}</Link></li>
               <li><Link href="/imprint" className="text-gray-600 hover:text-primary">{t('imprint')}</Link></li>
