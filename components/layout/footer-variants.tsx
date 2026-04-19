@@ -240,16 +240,16 @@ export function AboutFooter() {
           <div className="grid lg:grid-cols-2">
             <div className="p-12">
               <h3 className="mb-4 font-display text-4xl font-bold">
-                Werden Sie Teil unseres Teams
+                {t('teamCta.heading')}
               </h3>
               <p className="mb-8 text-lg text-white/80">
-                Wir suchen talentierte Menschen, die unsere Mission teilen
+                {t('teamCta.description')}
               </p>
               <Link
                 href="/contact"
                 className="inline-flex items-center gap-2 rounded-full bg-[#FDB927] px-8 py-4 font-semibold text-primary-dark transition-all hover:bg-white"
               >
-                Karriere bei uns
+                {t('teamCta.button')}
                 <svg className="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
                 </svg>
@@ -270,14 +270,14 @@ export function AboutFooter() {
             <Logo variant="dark" size="md" showTagline={true} />
           </div>
           <div>
-            <h4 className="mb-4 font-semibold text-primary">Services</h4>
+            <h4 className="mb-4 font-semibold text-primary">{t('sections.services')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/services/employers" className="text-gray-600 hover:text-primary">{nav('servicesEmployers')}</Link></li>
               <li><Link href="/services/talents" className="text-gray-600 hover:text-primary">{nav('servicesTalents')}</Link></li>
             </ul>
           </div>
           <div>
-            <h4 className="mb-4 font-semibold text-primary">Company</h4>
+            <h4 className="mb-4 font-semibold text-primary">{t('sections.company')}</h4>
             <ul className="space-y-2 text-sm">
               <li><Link href="/about" className="text-gray-600 hover:text-primary">{nav('about')}</Link></li>
               <li><Link href="/team" className="text-gray-600 hover:text-primary">{nav('team')}</Link></li>

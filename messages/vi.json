@@ -46,7 +46,14 @@
       },
       "sections": {
         "navigation": "Liên Kết",
-        "legal": "Pháp Lý"
+        "legal": "Pháp Lý",
+        "services": "Dịch Vụ",
+        "company": "Công Ty"
+      },
+      "teamCta": {
+        "heading": "Tham Gia Đội Ngũ Của Chúng Tôi",
+        "description": "Chúng tôi đang tìm kiếm những người tài năng chia sẻ sứ mệnh của chúng tôi",
+        "button": "Cơ Hội Nghề Nghiệp"
       }
     },
     "cta": {
