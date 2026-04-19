@@ -401,7 +401,50 @@
       "hero": {
         "headline": "Dịch Vụ Cho Nhân Tài",
         "description": "Con đường đến thành công nghề nghiệp tại Đức. Chúng tôi hỗ trợ bạn trên hành trình sự nghiệp với tư vấn cá nhân và hỗ trợ thực tế.",
-        "cta": "Đặt Lịch Tư Vấn Miễn Phí"
+        "cta": "Đặt Lịch Tư Vấn Miễn Phí",
+        "learnMore": "Tìm hiểu thêm"
+      },
+      "servicesLabel": "Dịch Vụ",
+      "servicesDescription": "Hướng dẫn chuyên nghiệp trên con đường sự nghiệp của bạn",
+      "phases": {
+        "headline": "Hội nhập của bạn qua 6 Giai đoạn",
+        "description": "Chúng tôi đồng hành cùng bạn trong mỗi bước của hành trình",
+        "phase4": {
+          "title": "Phát triển Cá nhân",
+          "timeline": "Thời gian: Từ tháng 6, liên tục",
+          "description": "Chúng tôi hỗ trợ nhân tài như con người toàn diện – không chỉ là chuyên gia.",
+          "items": [
+            "Xây dựng mạng lưới nghề nghiệp: Sự kiện, cuộc họp ngành, mạng lưới cựu sinh viên",
+            "Xây dựng mạng lưới cá nhân: Câu lạc bộ thể thao, nhóm văn hóa, sáng kiến hàng xóm",
+            "Coaching về tự chủ: Tự tin, trách nhiệm cá nhân, khả năng ra quyết định",
+            "Phát triển ngôn ngữ: Vượt B2, ngôn ngữ chuyên ngành, hiểu phương ngữ",
+            "Lập kế hoạch sự nghiệp: Các bước tiếp theo có thể? Đào tạo thêm, thăng tiến, chuyên môn hóa"
+          ]
+        },
+        "phase5": {
+          "title": "Cố vấn",
+          "timeline": "Thời gian: 12–24 tháng, có thể kéo dài",
+          "description": "Chương trình cố vấn của chúng tôi đồng hành cá nhân với nhân tài trong suốt quá trình hội nhập.",
+          "items": [
+            "Hỗ trợ cá nhân bởi cố vấn giàu kinh nghiệm (1:1)",
+            "Định hướng trong nghề nghiệp và cuộc sống hàng ngày",
+            "Hỗ trợ xây dựng mạng lưới nghề nghiệp và xã hội",
+            "Gặp gỡ thường xuyên (ít nhất 2 lần/tháng)",
+            "Đặt mục tiêu chung và theo dõi tiến độ"
+          ]
+        },
+        "phase6": {
+          "title": "Hỗ trợ Kỹ thuật số & Nền tảng Học tập",
+          "timeline": "Thời gian: Liên tục",
+          "description": "Chúng tôi cũng hỗ trợ nhân tài bằng kỹ thuật số để cho phép học tập và kết nối liên tục.",
+          "items": [
+            "Nền tảng học trực tuyến: Đào tạo nghề nghiệp và ngôn ngữ (không đồng bộ)",
+            "Mạng lưới ảo: Trao đổi với nhân tài khác trên toàn quốc",
+            "Công cụ hỗ trợ hàng ngày kỹ thuật số: Ứng dụng và công cụ cho cơ quan, nhà ở, sức khỏe",
+            "Webinar trực tiếp: Buổi tối chủ đề hàng tháng về các câu hỏi hội nhập liên quan",
+            "Câu chuyện thành công: Nền tảng chia sẻ kinh nghiệm và cảm hứng"
+          ]
+        }
       },
       "servicesHeadline": "Hỗ Trợ Của Chúng Tôi",
       "servicesSubheadline": "Hướng Dẫn Chuyên Nghiệp Trên Con Đường Sự Nghiệp",
