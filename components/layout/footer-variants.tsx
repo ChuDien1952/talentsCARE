@@ -119,10 +119,6 @@ export function ServicesFooter({ type }: { type: 'employers' | 'talents' }) {
   const nav = useTranslations('common.nav');
   const currentYear = new Date().getFullYear();
 
-  const ctaText = type === 'employers'
-    ? 'Bereit für die Zusammenarbeit?'
-    : 'Starten Sie Ihre Karriere';
-
   return (
     <footer className="bg-primary-dark py-20 text-white">
       <div className="mx-auto max-w-7xl px-6">
@@ -130,11 +126,11 @@ export function ServicesFooter({ type }: { type: 'employers' | 'talents' }) {
         <div className="mb-16 grid gap-8 lg:grid-cols-2">
           {/* Left: CTA for current service */}
           <div className="rounded-2xl bg-gradient-to-br from-accent/20 to-transparent p-8 backdrop-blur-sm">
-            <h3 className="mb-4 font-display text-3xl font-bold">{ctaText}</h3>
+            <h3 className="mb-4 font-display text-3xl font-bold">
+              {t(`services.${type}.ctaHeading`)}
+            </h3>
             <p className="mb-6 text-white/80">
-              {type === 'employers'
-                ? 'Lassen Sie uns gemeinsam die perfekte Lösung für Ihre HR-Herausforderungen finden'
-                : 'Wir begleiten Sie auf Ihrem Weg zum beruflichen Erfolg in Deutschland'}
+              {t(`services.${type}.ctaText`)}
             </p>
             <Link
               href="/contact"
@@ -150,18 +146,16 @@ export function ServicesFooter({ type }: { type: 'employers' | 'talents' }) {
           {/* Right: Cross-sell to other service */}
           <div className="rounded-2xl border-2 border-white/10 p-8">
             <h3 className="mb-4 font-display text-2xl font-bold">
-              {type === 'employers' ? 'Für Talente' : 'Für Arbeitgeber'}
+              {t(`services.${type === 'employers' ? 'talents' : 'employers'}.crossSellHeading`)}
             </h3>
             <p className="mb-6 text-sm text-white/70">
-              {type === 'employers'
-                ? 'Entdecken Sie unsere Leistungen für internationale Fachkräfte'
-                : 'Erfahren Sie, wie wir Unternehmen unterstützen'}
+              {t(`services.${type === 'employers' ? 'talents' : 'employers'}.crossSellText`)}
             </p>
             <Link
               href={type === 'employers' ? '/services/talents' : '/services/employers'}
               className="inline-flex items-center gap-2 text-[#FDB927] transition-colors hover:text-white"
             >
-              Mehr erfahren
+              {t('services.learnMore')}
               <svg className="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>

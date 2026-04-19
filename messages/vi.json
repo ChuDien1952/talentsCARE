@@ -22,6 +22,21 @@
         "heading": "Sẵn sàng hợp tác?",
         "text": "Hãy cùng nhau tìm giải pháp hoàn hảo cho các thách thức HR của bạn",
         "cta": "Liên hệ ngay"
+      },
+      "services": {
+        "employers": {
+          "ctaHeading": "Sẵn Sàng Củng Cố Đội Ngũ?",
+          "ctaText": "Hãy cùng phát triển chiến lược hội nhập của bạn",
+          "crossSellHeading": "Cho Nhân Tài",
+          "crossSellText": "Khám phá các dịch vụ của chúng tôi dành cho chuyên gia quốc tế"
+        },
+        "talents": {
+          "ctaHeading": "Bắt Đầu Sự Nghiệp Của Bạn",
+          "ctaText": "Chúng tôi đồng hành cùng bạn trên con đường thành công nghề nghiệp tại Đức",
+          "crossSellHeading": "Cho Nhà Tuyển Dụng",
+          "crossSellText": "Tìm hiểu cách chúng tôi hỗ trợ doanh nghiệp"
+        },
+        "learnMore": "Tìm hiểu thêm"
       }
     },
     "cta": {
