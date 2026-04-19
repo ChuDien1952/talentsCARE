@@ -315,22 +315,22 @@ export function BlogFooter() {
         {/* Newsletter section */}
         <div className="mb-16 rounded-2xl bg-gradient-to-r from-primary to-accent p-12 text-center text-white">
           <h3 className="mb-4 font-display text-3xl font-bold">
-            Bleiben Sie informiert
+            {t('newsletter.heading')}
           </h3>
           <p className="mx-auto mb-8 max-w-2xl text-white/90">
-            Erhalten Sie regelmäßig Updates zu HR-Trends, Integration und unseren Events
+            {t('newsletter.description')}
           </p>
           <form className="mx-auto flex max-w-md gap-4">
             <input
               type="email"
-              placeholder="Ihre E-Mail Adresse"
+              placeholder={t('newsletter.placeholder')}
               className="flex-1 rounded-full px-6 py-3 text-gray-900 placeholder:text-gray-500 focus:outline-none focus:ring-2 focus:ring-white"
             />
             <button
               type="submit"
               className="rounded-full bg-[#FDB927] px-8 py-3 font-semibold text-primary-dark transition-all hover:bg-white"
             >
-              Abonnieren
+              {t('newsletter.button')}
             </button>
           </form>
         </div>
