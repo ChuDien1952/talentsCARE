@@ -66,8 +66,19 @@ export default async function EmployersPage({ params }: Props) {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-primary-dark text-white pt-32 pb-24">
-        <Container>
+      <section className="relative overflow-hidden text-white pt-32 pb-24">
+        {/* Background Image with Overlay */}
+        <div className="absolute inset-0">
+          <div
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('https://images.unsplash.com/photo-1556761175-b413da4baf72?q=80&w=2074&auto=format&fit=crop')`,
+            }}
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-[#003366]/90 to-primary/95" />
+        </div>
+
+        <Container className="relative z-10">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="font-display text-h1 font-bold mb-6">
               {t('hero.headline')}
@@ -210,8 +221,19 @@ export default async function EmployersPage({ params }: Props) {
       </section>
 
       {/* CTA Section */}
-      <section className="bg-primary-dark text-white py-16">
-        <Container>
+      <section className="relative overflow-hidden text-white py-16">
+        {/* Background Image with Overlay */}
+        <div className="absolute inset-0">
+          <div
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=2070&auto=format&fit=crop')`,
+            }}
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-[#003366]/90 to-primary/95" />
+        </div>
+
+        <Container className="relative z-10">
           <div className="text-center max-w-2xl mx-auto">
             <h2 className="font-display text-h2 font-bold mb-4">
               {t('cta.headline')}

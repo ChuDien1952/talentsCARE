@@ -24,8 +24,19 @@ export default async function TermsPage({ params }: Props) {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-primary text-white pt-32 pb-20">
-        <Container>
+      <section className="relative overflow-hidden text-white pt-32 pb-20">
+        {/* Background Image with Overlay */}
+        <div className="absolute inset-0">
+          <div
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=2071&auto=format&fit=crop')`,
+            }}
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-[#003366]/90 to-primary/95" />
+        </div>
+
+        <Container className="relative z-10">
           <h1 className="text-4xl md:text-5xl font-display font-bold">
             {t('headline')}
           </h1>
