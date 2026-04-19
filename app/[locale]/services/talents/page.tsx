@@ -95,7 +95,7 @@ export default function TalentsPage() {
             }}
           />
           {/* Dark Gradient Overlay */}
-          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-accent/90 to-primary/95" />
+          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-[#003366]/90 to-primary/95" />
 
           {/* Animated Pattern Overlay */}
           <div className="absolute inset-0 opacity-10">
@@ -558,7 +558,18 @@ export default function TalentsPage() {
       <FAQSection />
 
       {/* CTA Section */}
-      <section className="relative overflow-hidden bg-gradient-to-r from-accent via-primary to-accent text-white py-20">
+      <section className="relative overflow-hidden text-white py-20">
+        {/* Background Image with Overlay */}
+        <div className="absolute inset-0">
+          <div
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+            style={{
+              backgroundImage: `url('https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=2070&auto=format&fit=crop')`,
+            }}
+          />
+          <div className="absolute inset-0 bg-gradient-to-br from-primary/95 via-[#003366]/90 to-primary/95" />
+        </div>
+
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl animate-pulse" />
           <div className="absolute bottom-0 right-0 w-96 h-96 bg-[#FDB927] rounded-full blur-3xl animate-pulse" style={{ animationDelay: '700ms' }} />
